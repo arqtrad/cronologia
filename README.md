@@ -6,11 +6,12 @@ Proposta de periodização da arquitetura tradicional luso-brasileira.
 
 ### Transversalidades e Contaminações na Lusofonia ###
 
-Num universo de práticas e modelos tão diferentes o que é que nos une e
-o que é nos separa? Existe uma lusofonia arquitectónica? Será possível
-encontrar traços comuns suficientes para consubstanciar a ideia de um
-corpo comum; um edifício de afinidades que afinal partilhamos? E quem
-contamina quem? Será possível traçar uma trajectórias de imaginários?
+> Num universo de práticas e modelos tão diferentes o que é que nos
+> une e o que é nos separa? Existe uma lusofonia arquitectónica? Será
+> possível encontrar traços comuns suficientes para consubstanciar a
+> ideia de um corpo comum; um edifício de afinidades que afinal
+> partilhamos? E quem contamina quem? Será possível traçar uma
+> trajectórias de imaginários?
 
 ## Resumo ##
 
