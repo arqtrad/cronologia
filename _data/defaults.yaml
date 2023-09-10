@@ -4,6 +4,7 @@ metadata:
   csl         : _data/apa.csl
   crossrefYaml: _data/pandoc-crossref.yaml
   lang        : pt
+  reference-section-title: "Referências bibliográficas"
 filters:
   - pandoc-crossref
   - citeproc
