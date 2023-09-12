@@ -142,6 +142,33 @@ references:
   title: L'architecture religieuse baroque au Brésil
   type: book
 
+- id: bialostocki:1961modusproblem24
+  accessed:
+    - year: 2019
+      month: 12
+      day: 17
+  author:
+    - family: Białostocki
+      given: Jan
+  citation-key: bialostocki:1961modusproblem24
+  container-title: Zeitschrift für Kunstgeschichte
+  container-title-short: Zeitschrift für Kunstgeschichte
+  DOI: 10.2307/1481515
+  ISSN: '00442992'
+  issue: '2'
+  issued:
+    - year: 1961
+  language: de
+  page: '128'
+  source: DOI.org (Crossref)
+  title: >-
+    Das Modusproblem in den bildenden Kunsten: Zur Vorgeschichte und zum
+    Nachleben des „Modusbriefes“ von Nicolas Poussin
+  title-short: Das Modusproblem in den bildenden Kunsten
+  type: article-journal
+  URL: https://www.jstor.org/stable/10.2307/1481515?origin=crossref
+  volume: '24'
+
 - id: blaut:1993colonizers
   author:
     - family: Blaut
@@ -256,6 +283,27 @@ references:
   title: A construção nacional 1830–1889
   type: book
 
+- id: casa:1924
+  archive: Biblioteca Nacional (Brasil)
+  archive_location: Hemeroteca digital
+  citation-key: casa:1924
+  container-title: O Jornal
+  edition: anno VI n. 1679
+  event-place: Rio de Janeiro
+  issued:
+    - year: 1924
+      month: 6
+      day: 21
+  language: pt
+  page: '3'
+  publisher-place: Rio de Janeiro
+  section: '1'
+  title: >-
+    A casa brasileira. Conferencia do dr. José Marianno Filho na S.B. de
+    Bellas-Artes
+  title-short: A casa brasileira
+  type: article-newspaper
+
 - id: casella:2003gramaticas
   author:
     - family: Casella
@@ -348,6 +396,20 @@ references:
   title: O Aleijadinho e a arquitetura tradicional
   type: article-newspaper
 
+- id: costa:1937documentacao
+  author:
+    - family: Costa
+      given: Lucio
+  citation-key: costa:1937documentacao
+  container-title: Revista do Patrimônio Histórico e Artístico Nacional
+  issued:
+    - year: 1937
+  language: pt
+  page: 31-39
+  title: Documentação necessária
+  type: article-journal
+  volume: '1'
+
 - id: costa:2007aleijadinho
   author:
     - family: Costa
@@ -357,7 +419,7 @@ references:
   event-place: Porto Alegre
   issued:
     - year: 2007
-  language: pt-BR
+  language: pt
   page: 12–16
   publisher: Editora UniRitter
   publisher-place: Porto Alegre
@@ -455,12 +517,9 @@ references:
   citation-key: dors:1936barroco
   event-place: Madrid
   issued:
-    date-parts:
-      - - '1936'
+    - year: 1936
   language: es
   number-of-pages: '312'
-  original-date:
-    - year: 1936
   publisher: M. Aguilar
   publisher-place: Madrid
   source: Open WorldCat
@@ -1077,12 +1136,57 @@ references:
   type: book
   URL: https://issuu.com/bythebook/docs/historia_construcao_portugal_issuu_
 
+- id: mascarenhas-mateus:2020portugal33
+  abstract: >-
+    RESUMO São apresentados os procedimentos da criação de uma plataforma
+    digital de acesso gratuito destinada à disseminação dos resultados da
+    investigação no campo da história da construção em Portugal, durante os
+    séculos XIX e XX. Depois da descrição das fontes das coleções digitais,
+    procede-se à análise da metodologia usada em sua estruturação e nas
+    adaptações às singularidades desse campo de conhecimento de discussão
+    recente. O estudo é ilustrado com a primeira exposição virtual, avaliando
+    potencialidades e limites da plataforma para diferentes níveis de pesquisa
+    no espaço e no tempo, relativas a atores individuais e coletivos e a objetos
+    concretos e abstratos.
+  accessed:
+    - year: 2021
+      month: 6
+      day: 12
+  author:
+    - family: Mascarenhas-Mateus
+      given: João
+    - family: Veiga
+      given: Ivo
+  citation-key: mascarenhas-mateus:2020portugal33
+  container-title: Estudos Históricos (Rio de Janeiro)
+  container-title-short: Estud. hist. (Rio J.)
+  DOI: 10.1590/S2178-14942020000100006
+  ISSN: 0103-2186, 0103-2186, 2178-1494
+  issued:
+    - year: 2020
+      month: 3
+      day: 6
+  language: pt
+  page: 88-110
+  publisher: >-
+    Centro de Pesquisa e Documentação de História Contemporânea do Brasil da
+    Fundação Getúlio Vargas
+  source: SciELO
+  title: >-
+    Portugal builds: uma plataforma digital para a história da construção em
+    Portugal nos séculos <span smallcaps="smallcaps">XIX</span> e <span
+    smallcaps="smallcaps">XX</span>
+  title-short: Portugal builds
+  type: article-journal
+  URL: https://www.scielo.br/j/eh/a/HmVdHC8Z9sX4LYyt4CG8HkK/?lang=pt
+  volume: '33'
+
 - id: mascarenhas:2004edificio
   author:
     - family: Mascarenhas
       given: Jorge
   citation-key: mascarenhas:2004edificio
-  collection-number: <span class="smallcaps">V</span>
+  collection-number: V
   collection-title: Sistemas de construção
   event-place: Lisboa
   ISBN: 978-972-24-1757-0
@@ -1123,51 +1227,6 @@ references:
   title-short: Casas de tijolos, terra brasileira
   type: article-journal
   URL: http://www.revistas.usp.br/risco/article/view/116991
-
-- id: mateus:2020portugal33
-  abstract: >-
-    RESUMO São apresentados os procedimentos da criação de uma plataforma
-    digital de acesso gratuito destinada à disseminação dos resultados da
-    investigação no campo da história da construção em Portugal, durante os
-    séculos XIX e XX. Depois da descrição das fontes das coleções digitais,
-    procede-se à análise da metodologia usada em sua estruturação e nas
-    adaptações às singularidades desse campo de conhecimento de discussão
-    recente. O estudo é ilustrado com a primeira exposição virtual, avaliando
-    potencialidades e limites da plataforma para diferentes níveis de pesquisa
-    no espaço e no tempo, relativas a atores individuais e coletivos e a objetos
-    concretos e abstratos.
-  accessed:
-    - year: 2021
-      month: 6
-      day: 12
-  author:
-    - family: Mateus
-      given: João Mascarenhas
-    - family: Veiga
-      given: Ivo
-  citation-key: mateus:2020portugal33
-  container-title: Estudos Históricos (Rio de Janeiro)
-  container-title-short: Estud. hist. (Rio J.)
-  DOI: 10.1590/S2178-14942020000100006
-  ISSN: 0103-2186, 0103-2186, 2178-1494
-  issued:
-    - year: 2020
-      month: 3
-      day: 6
-  language: pt
-  page: 88-110
-  publisher: >-
-    Centro de Pesquisa e Documentação de História Contemporânea do Brasil da
-    Fundação Getúlio Vargas
-  source: SciELO
-  title: >-
-    Portugal builds: uma plataforma digital para a história da construção em
-    Portugal nos séculos <span smallcaps="smallcaps">XIX</span> e <span
-    smallcaps="smallcaps">XX</span>
-  title-short: Portugal builds
-  type: article-journal
-  URL: https://www.scielo.br/j/eh/a/HmVdHC8Z9sX4LYyt4CG8HkK/?lang=pt
-  volume: '33'
 
 - id: matoso:1942artistas
   author:

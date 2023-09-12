@@ -1,10 +1,4 @@
 data-dir      : _data
-metadata:
-  bibliography: _data/biblio.yaml
-  csl         : _data/apa.csl
-  crossrefYaml: _data/pandoc-crossref.yaml
-  lang        : pt
-  reference-section-title: "Referências bibliográficas"
 filters:
   - pandoc-crossref
   - citeproc

@@ -42,6 +42,11 @@ abstract: |
   luso-brasileira, historiografia, Idade Moderna, período Pombalino.
 
   **Eixo temático:** 8. Transversalidades e Contaminações na Lusofonia
+bibliography: _data/biblio.yaml
+csl         : _data/apa.csl
+crossrefYaml: _data/pandoc-crossref.yaml
+lang        : pt-PT
+reference-section-title: "Referências bibliográficas"
 ---
 
 <!--
@@ -63,9 +68,11 @@ abstract: |
 
 # Introdução #
 
-- Pouca sobreposição entre a historiografia e os estudos vernaculares
-- Controvérsia do "estilo chão" e do barroco como estilos nacionais
-- Cooptação modernista da casa popular
+<!--
+   -- Pouca sobreposição entre a historiografia e os estudos vernaculares
+   -- Controvérsia do "estilo chão" e do barroco como estilos nacionais
+   -- Cooptação modernista da casa popular
+   -->
 
 # Periodizações da arte luso-brasileira #
 
@@ -157,9 +164,180 @@ progressistas das décadas de 1930 a 60 e, por outro, das ditaduras de
 direita em busca de legitimação cultural. Eliana @sousa:2016history
 mostra como o cachê de simplicidade do estilo chão transita desde a
 ideologia salazarista do "português suave" até a ética da "economia de
-meios" entre os arquitetos da Escola do Porto e críticos contemporâneos.
+meios" promovida pelos arquitetos modernistas e críticos contemporâneos
+como Paulo Varela. De igual modo, a exaltação do "barroco mineiro"
+permite, como argumenta Guiomar de @grammont:2008aleijadinho, a
+convergência tríplice entre o regime Vargas, o conservadorismo católico
+representado nesse regime pelo grupo do ministro mineiro Gustavo
+Capanema, e os modernistas alinhados a Mário de Andrade e Lucio Costa.
+Reciprocamente, situar na Idade Moderna as raízes dos estilos nacionais
+permite reforçar o estigma contra os estilos historicistas da Idade
+Contemporânea. É contra este fulcro do neoclassicismo e do ecletismo,
+precisamente, que se formulam os *modernismos* nacionais, os quais
+continuam a ser objeto de um diálogo luso-brasileiro nas décadas de 1930
+e 40, segundo Ana Vaz @milheiro:2005construcao.
+
+A periodização da arquitetura erudita luso-brasileira é, portanto, uma
+linha modulada pelo maior ou menor prestígio de certas épocas e, também,
+pontuada por um hiato que desperta escasso interesse acadêmico. Partindo
+da premissa do atraso de seus estilos com respeito à linha do tempo
+europeia, a começar pelo auge do românico português nos séculos XI e
+XII, ela se ramificava em ilhas nacionais, nomeadamente o estilo chão no
+século XVII em Portugal e o barroco mineiro na segunda metade do século
+XVIII no Brasil. Essa linhagem autóctone se esgotou então sob o efeito,
+também retardado, do neoclassicismo importado em finais desse século. O
+século XIX se abria com um vácuo seja no volume de produção
+arquitetônica, seja na sua relevância cultural, eivada de estrangeirismo
+e revivalismo. Certo é que a historiografia contemporânea seja
+ostensivamente avessa a uma distinção conceitual entre o que seja
+"tradicional" ou "moderno". Mesmo assim, os argumentos e até, em certa
+medida, o (des)interesse disciplinar por certos períodos desenham uma
+linha do tempo implicitamente cindida por um hiato entre o fim da
+linhagem luso-brasileira tradicional, situado por volta de 1780--1815
+--- da Viradeira à Missão francesa ---, e o lento engrenar da
+modernidade industrial na segunda metade do século XIX.
+
+Em Portugal, o estilo chão suplantou o românico e o manuelino como
+repertório arquitetônico erudito por excelência, relegando estes à
+alçada arqueológica. Mais importante, porém, a preferência pela Idade
+Moderna ajudou a intensificar a imagem de uma estagnação material e
+moral da arquitetura no período que ia do reinado de D. Maria I até a
+industrialização promovida pelo fontismo (*grosso modo* 1780--1850).
+Estagnação material devido às dificuldades econômicas legadas pelas
+malfadadas reformas mercantilistas e pelos expansivos programas de obras
+do pombalismo, mas também, segundo autores do calibre de José-Augusto
+@franca:2004pombalismo, estagnação moral provocada pela substituição do
+desenvolvimento artístico autóctone por um crescente estrangeirismo na
+importação de profissionais e de modelos italianos e franceses.
+Descola-se dessa linhagem intelectual, contudo, a espetacular
+demonstração de continuidade no neomedievalismo exposta por Regina
+@anacleto:1997arquitectura.
+
+No Brasil, o classicismo imperial --- terminologia proposta por
+@sousa:1994arquitetura ---, embora incorporado à narrativa evolucionista
+proposta pelos primeiros agentes institucionais do patrimônio, ficou
+compreensivelmente maculado pela herança aristocrática e escravista. Por
+isso, autores como Sousa negaram-lhe o prefixo *neo* que sinalizaria,
+para além do *revival* estético, a renovação ideológica da cultura
+burguesa que tivera lugar na Europa na mesma época. Quando não
+desprezado por ser mera roupagem renovada no corpo retrógrado da
+monarquia escravista, o neoclassicismo pôde ser acoplado, como o fez
+Gustavo @rocha-peixoto:2000reflexos seguindo a premissa de Luciano
+@patetta:1975larchitettura, enquanto capítulo introdutório do ecletismo
+execrado pelos modernistas.
+
 
 # Cronologia em xeque no presente eterno do vernacular #
+
+A periodização canônica da arte erudita luso-brasileira se baseia na
+modulação nacionalista das cronologias convencionais da arte europeia.
+Tal modulação deixou um hiato no período 1780--1850 (em Portugal) ou
+1815--1870 (no Brasil), intervalo no qual se presume a interrupção das
+linhagens tradicionais, embora também seja-lhe negado qualquer dealbar
+de modernidade. A arquitetura vernacular --- ou popular, como ficou
+conhecida em Portugal ---, por outro lado, coloca em xeque a própria
+hipótese de se estabelecer uma periodização. Durante a vigência das
+histórias comparadas da arquitetura, até a década de 1960, a
+transformação significativa das formas construtivas na história é alçada
+própria aos estilos europeus eruditos, como argumentam
+@fletcher:1905history tendo como contraponto a arquitetura "a-histórica"
+oriental. A arquitetura do povo, sem estilo propriamente dito, é, por
+outro lado, determinada não pela mudança ao longo do tempo, mas pelo
+condicionamento imutável dos fatores geográficos, geológicos,
+climáticos, bem como pelo conservadorismo das culturas rurais. Esta é a
+tônica de textos intitulados "arquitetura popular", de
+@oliveira:1992arquitectura a @moutinho:1995arquitectura,
+@weimer:2005arquitetura e @mascarenhas:2015arquitectura.
+
+No Brasil, há uma proposta de sequência cronológica famosa, porém
+baseada em exemplos anedóticos e sem representatividade. Trata-se do
+esquema de fachadas domésticas proposto por Lucio Costa no seu artigo
+"Documentação necessária" [-@costa:1937documentacao], onde ele sugere
+que a história da arquitetura vernacular consistia numa evolução
+determinista das casas em taipa de pilão do século XVII, com poucas e
+pequenas janelas, rumo à janela-fita corbusiana do século XX.
+Inconsequente do ponto de vista historiográfico e arqueológico, a
+periodização de Lucio Costa exemplifica o essencialismo e determinismo
+que frequentemente contaminam os estudos de arquitetura vernacular.
+
+Essa sombra cronológica serviu a dois movimentos arquitetônicos
+luso-brasileiros ideologicamente opostos um ao outro: de um lado os
+nativismos tradicionalistas predominantes no início do século XX, e do
+outro os modernismos nacionalistas que os suplantaram no meio
+profissional a partir de meados do mesmo século. Para os primeiros,
+nomeadamente o movimento da Casa Portuguesa capitaneado pelo arquiteto
+Raul @lino:1918nossa e o neocolonial brasileiro impulsionado pelo
+engenheiro e arqueólogo Ricardo @severo:1916arte e pelo médico José
+@mariannofilho:1943margem, a falta de balizas cronológicas na história
+da morada rural permitia essencializar os estilemas mais facilmente
+adaptáveis aos programas e ao gosto contemporâneos. Estes eram extraídos
+menos do espectro propriamente popular, e mais frequentemente de um
+registro mais elaborado que por vezes fugia ao escopo doméstico,
+incorporando nas casas tradicionalistas motivos da arquitetura
+religiosa. Sobretudo, o nativismo luso-brasileiro distinguia-se de seus
+congêneres germânico, francês e norteamericano por aplastar diferenças
+regionais, seja em prol de uma região dominante --- a casa saloia como
+epítome da nacionalidade portuguesa em Raul Lino ---, seja construindo o
+mito de uma homogeneidade nacional, mito este que forma a ponte
+etnocêntrica entre o neocolonial e o modernismo no Brasil.
+
+Para os arquitetos envolvidos no Inquérito à arquitetura regional
+portuguesa, durante a década de 1950, a temporalidade invisível da
+construção rural permitia fabricar um argumento aproximando o registro
+popular ao ideal modernista de uma plena adaptação das formas à técnica
+disponível e ao programa funcional. A atemporalidade do vernacular,
+nesse sentido, tornava-se um instrumento para combater o tradicionalismo
+alegando incompatibilidade entre as formas oriundas do mundo rural
+tradicional e as necessidades e possibilidades da vida urbana moderna.
+Nesse sentido, as limitações operacionais e filológicas que impuseram,
+segundo @ollero:2010depois, uma organização puramente geográfica à
+publicação resultante do Inquérito [@arquitectura:1961] foram
+transformadas num argumento acerca da dicotomia erudito / popular,
+instrumentalizada para substituir a hegemonia da Casa Portuguesa pela da
+"arquitetura eficiente" contemporânea.
+
+Uma consequência de tal dicotomia, porém, acaba sendo a introdução de
+uma rutura no senso de precedência entre ambos os momentos que os
+teóricos buscavam reconciliar. Tanto os tradicionalistas quanto os
+modernistas argumentavam pela continuidade da tradição vernacular na sua
+própria prática, mas tais argumentos supunham uma contradição
+cronológica e conceitual que passou despercebida a proponentes e
+detratores de ambos os movimentos. Essa contradição consiste no problema
+da precedência das invenções formais nos registros erudito e popular.
+
+O pressuposto de toda dicotomia erudito / popular é o de que os motivos
+ornamentais são da alçada do primeiro e, via de regra, ausentes deste
+último, o qual se ocupa apenas do detalhamento construtivo estritamente
+funcional. Por isso, sempre que algum ornato comparece numa obra de
+arquitetura vernacular, ele deve ter origem na releitura de um elemento
+erudito. Isto é, o sentido da transferência de saberes e práticas é
+sempre --- lenta e imperfeitamente, porém inelutavelmente --- no sentido
+do erudito para o vernáculo. Ou seja, movimentos eruditos que pretendiam
+aprender com os saberes vernaculares aderiam implicitamente a uma visão
+de mundo onde o vernacular é que aprendia com o erudito!
+
+Estudos mais recentes e criteriosos, por sua vez, se têm aproximado
+indiretamente à cronologia das construções vernaculares, especialmente
+em meio urbano, pelo viés das condicionantes à prática construtiva em
+diferentes épocas. Mascarenhas-Mateus, por exemplo, analisa a literatura
+técnica [-@mascarenhas-mateus:2002tecnicas] como aproximação às práticas
+construtivas vigentes no período 1750--1900. Diversos autores nos dias
+de hoje [por exemplo em @mascarenhas-mateus:2018historia;
+@pessotti:2011construcao; @reis:2013liberdade; @pareto:2011cotidiano]
+exploram a documentação relativa a contratos, empreitadas, aprendizagens
+e trajetórias profissionais, circunscrevendo assim a datação de
+edifícios e de tradições construtivas. Também são dignos de nota o
+estudo que Sandra @pinto:2015portugal16 desenvolve acerca das normas
+edilícias em Portugal e no Brasil, assim como a identificação de
+construções por meio de documentos tributários, feita por Beatriz
+@bueno:2005tecido e diversos investigadores por ela orientados.
+
+Dessa literatura sobre a história da construção vernacular se depreendem
+marcos cronológicos, afinal, refinando o entendimento de um registro
+antes classificado tão somente segundo critérios geográficos e
+tipológicos. Tais marcos colocam em xeque, porém, a periodização
+convencional baseada na arquitetura erudita.
+
 
 # Repensar a definição e a periodização #
 
