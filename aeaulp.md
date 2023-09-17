@@ -49,23 +49,6 @@ lang        : pt-PT
 reference-section-title: "Referências bibliográficas"
 ---
 
-<!--
-   -Se a sua proposta for aceite, convidamo-lo a enviar o artigo completo
-   -antes do dia 4 de setembro de 2023 para avaliação da Comissão
-   -Científica. O envio do artigo completo será feito através do OpenConf .
-   -Utilizando o modelo fornecido, os autores deverão fazer o upload do novo
-   -ficheiro.
-   -
-   -O artigo NÃO deverá conter os dados dos autores para garantir o anonimato.
-   -Nomeie o ficheiro da seguinte maneira: IDxx_ProximidadesDistantes23
-   -
-   -O artigo deve ter no máximo 4.000-5.000 palavras, incluindo notas e
-   -bibliografia (formato APA).
-   -
-   -Recomenda-se que as imagens tenham qualidade suficiente, não excedendo
-   -300 dpi. O formato estipulado deve ser  rigorosamente seguido.
-   -->
-
 # Introdução #
 
 <!--
@@ -332,16 +315,101 @@ edilícias em Portugal e no Brasil, assim como a identificação de
 construções por meio de documentos tributários, feita por Beatriz
 @bueno:2005tecido e diversos investigadores por ela orientados.
 
+------------------------------------------------------------------------
+
 Dessa literatura sobre a história da construção vernacular se depreendem
 marcos cronológicos, afinal, refinando o entendimento de um registro
 antes classificado tão somente segundo critérios geográficos e
 tipológicos. Tais marcos colocam em xeque, porém, a periodização
-convencional baseada na arquitetura erudita.
+convencional baseada na arquitetura erudita. Por exemplo, a investigação
+de Sandra M. G. Pinto [-@pinto:2012interacoes; -@pinto:2016regulacao]
+aponta para uma instauração de práticas construtivas e jurídicas em
+meados do setecentos, as quais se consolidaram e persistiram até ao
+menos a segunda metade do século seguinte. Em particular, data de 1745
+uma inovação regulatória em Lisboa na relação entre o lote edificado
+privado e o espaço público [@pinto:2016regulacao]. A esta reforma segue
+a mais conhecida centralização do poder de polícia das posturas ensejada
+pela reconstrução pombalina da capital, em 1758. Por mais inovadores que
+sejam os códigos civis promulgados pelas monarquias liberais portuguesa
+e brasileira, no domínio da construção eles consolidam e apenas
+gradualmente reformam o marco regulatório do século XVIII. Tais poderes
+normativos de origem pombalina ou mesmo joanina, que se sobrepunham à
+autoridade das câmaras municipais ou mesmo se antecipavam à existência
+futura destas, como apontado por @derntl:2010metodo, vigoraram até um
+ciclo de profundas reformas urbanas no último terço do século XIX.
+
+Este último ciclo, por sua vez, caracterizava-se pela instituição
+centralizada ou municipal de códigos de obras e posturas em diversas
+cidades portuguesas e brasileiras, introduzindo preocupações
+sanitaristas ausentes das normativas mais antigas. Tais códigos se
+distinguiam por sua maior minúcia normativa, bem como pela intromissão
+em aspectos que foram até então deixados ao arbítrio da propriedade
+privada, tais como a regulação dos pés-direitos mínimos
+[@speltz:1898architectura] e do nivelamento das cotas de soleira
+[@pinto:2016regulacao], ou ainda as exigências de iluminação e
+ventilação no interior de habitações individuais [@lemos:1999republica].
+Embora essas intromissões não tenham, obviamente, eliminado as tradições
+construtivas vernaculares em Portugal e no Brasil, elas sinalizaram uma
+progressiva restrição no escopo de tais práticas, gradualmente
+estigmatizadas pelos profissionais com formação superior
+[@pareto:2016pandegos], dificultadas pela crescente formalização das
+aprovações de projetos, e impelidas a uma transformação cada vez mais
+rápida pela contínua evolução das normativas.
 
 
 # Repensar a definição e a periodização #
+
+As seções anteriores espelham a cisão disciplinar entre dois campos
+profissionais da investigação. De um lado está a história da
+arquitetura, originada no estudo de estilos e de agentes eruditos, em
+geral conhecidos no registro documental e portanto enviesada para um
+olhar crítico sobre a mudança diacrônica. Do outro lado, figura a
+investigação em história da construção, que se esforça por abarcar o
+domínio do vernacular e das suas continuidades na longa duração, e cujo
+principal desdobramento é a conservação do patrimônio cultural. No
+entanto, os objetos de estudo desses dois campos disciplinares não se
+encaixam eles mesmos com clareza em tal cisão. Para além da conhecida
+popularização de elementos estilísticos eruditos, há um movimento
+recíproco que merece mais atenção na historiografia: trata-se da
+constatação de que toda arquitetura erudita está assente, em maior ou
+menor grau, sobre um conjunto de saberes e práticas vernaculares. Tais
+saberes consistem não apenas em procedimentos construtivos, mas
+inclusive em costumes de projeto e mecanismos formais.
+
+O duplo sentido de trânsito das influências arquitetônicas --- do
+erudito para o vernacular e vice-versa --- dá a dimensão própria a um
+conceito de tradição, no qual os modos de fazer as construções e as
+cidades são premissas subjacentes a todo o espectro do popular ao
+monumental. Dentre as várias instâncias de elementos ou motivos que se
+fazem presentes em todo o *continuum* do vernacular ao erudito, três são
+especialmente relevantes para delimitar uma periodização da tradição
+luso-brasileira de meados do século XVIII a meados do XIX: a difusão do
+módulo alentejano de 40 palmos, a implantação de sistemas de esqueletos
+em madeira como o frontal ou a gaiola pombalina, e a intrusão na
+arquitetura rural de um tipo de distribuição espacial originário da
+arquitetura doméstica urbana. Uma quarta instância, a consolidação de um
+estilo "clássico imperial" ou "clássico liberal", não será tratada neste
+artigo pois merece uma argumentação mais extensa e dedicada.
+
 
 # Por que falar em tradição #
 
 # Conclusão #
 
+
+<!--
+   -Se a sua proposta for aceite, convidamo-lo a enviar o artigo completo
+   -antes do dia 4 de setembro de 2023 para avaliação da Comissão
+   -Científica. O envio do artigo completo será feito através do OpenConf .
+   -Utilizando o modelo fornecido, os autores deverão fazer o upload do novo
+   -ficheiro.
+   -
+   -O artigo NÃO deverá conter os dados dos autores para garantir o anonimato.
+   -Nomeie o ficheiro da seguinte maneira: IDxx_ProximidadesDistantes23
+   -
+   -O artigo deve ter no máximo 4.000-5.000 palavras, incluindo notas e
+   -bibliografia (formato APA).
+   -
+   -Recomenda-se que as imagens tenham qualidade suficiente, não excedendo
+   -300 dpi. O formato estipulado deve ser  rigorosamente seguido.
+   -->
