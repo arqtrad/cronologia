@@ -386,13 +386,159 @@ especialmente relevantes para delimitar uma periodização da tradição
 luso-brasileira de meados do século XVIII a meados do XIX: a difusão do
 módulo alentejano de 40 palmos, a implantação de sistemas de esqueletos
 em madeira como o frontal ou a gaiola pombalina, e a intrusão na
-arquitetura rural de um tipo de distribuição espacial originário da
+arquitetura rural brasileira de um tipo distributivo originário da
 arquitetura doméstica urbana. Uma quarta instância, a consolidação de um
 estilo "clássico imperial" ou "clássico liberal", não será tratada neste
 artigo pois merece uma argumentação mais extensa e dedicada.
 
+------------------------------------------------------------------------
 
-# Por que falar em tradição #
+Os "montes" são uma tipologia de estabelecimentos domésticos e
+produtivos rurais no Alentejo, atestados ao menos desde o início da
+Idade Moderna mas provavelmente com raízes nas *villae* romanas. Nessa
+tipologia, predomina um módulo espacial e estrutural de quatro células,
+com ou sem corredor longitudinal central. O monte é formado por um
+alinhamento transversal desses módulos, formando um renque entre a
+elevação exterior do edifício e o eirado nos fundos. Cada módulo, por
+sua vez, consiste num quadrado com cerca de 40 palmos (9 metros) de
+lado.
+
+De um expediente popular e rural, contudo, o módulo de quatro células
+com 40 palmos começa a entrar no repertório dos engenheiros militares e
+arquitetos desde a era pombalina em projetos de novas povoações, onde
+suplanta o antigo módulo de 25 palmos que predominava desde o século
+XIII. No projeto para a Vila Real de Santo António, no Algarve, o
+engenheiro militar José Sande de Vasconcelos ainda empregou em 1774 a
+testada tradicional de 25 palmos. Em 1777, porém, Manoel Vieira Leão
+utilizou no plano de Taquari, Rio Grande do Sul, o módulo alentejano de
+40 palmos. O mesmo módulo se repetiu em outras fundações pombalinas no
+Brasil, como Casalvasco, Mato Grosso, em 1782. Porto Covo, uma
+urbanização planeada da iniciativa privada no litoral do Alentejo, foi
+concebida pelo arquiteto civil Henrique Guilherme de Oliveira em 1794
+também usando o módulo de 40 palmos para os lotes.
+
+A adoção do módulo de 40 palmos pelos arquitetos e engenheiros de finais
+do setecentos pode ter influenciado a sua difusão, até agora
+dificilmente datável, pelo centro de Portugal. Esta região, do baixo
+vale do Tejo até a Beira litoral, era o domínio de um tipo
+característico de morada suburbana ou aldeã, a "casa atlântica" com 50
+palmos de testada. A partir de finais do século XIX, porém, nos projetos
+de casarios suburbanos e vilas operárias nas principais localidades da
+Beira, este tipo tradicional deu lugar sistematicamente ao módulo de 40
+palmos. Tal processo está documentado, especialmente, em duas vilas
+operárias na periferia de Coimbra: junto à estação Velha, cerca de 1900,
+e na vila operária dos franciscanos em Montes Claros, 1926 [análise do
+autor baseada em documentação por @calmeiro:2015urbanismo].
+
+------------------------------------------------------------------------
+
+Um sistema construtivo amiúde associado ao adobe é o frontal. A
+cronologia desse sistema muito difundido de esqueleto autônomo em
+madeira é mal conhecida, e o que se pode dizer dela deriva da associação
+do frontal a outros sistemas construtivos e tipologias específicas ---
+do edifício de rendimentos lisboeta ao Oeste do Brasil colonial, em
+casas térreas com adobe e construções maiores com taipa de pilão. Na sua
+associação com a taipa, por sinal, o frontal é seguramente de grande
+antiguidade e ampla difusão geográfica. Este uso parece decorrer de uma
+intenção de reforço sísmico da taipa; como quer que seja, faz-se
+presente em construções da primeira metade do século XVIII em Goiás,
+como a igreja matriz de Pirenópolis e a casa de câmara e cadeia de Santa
+Luzia (atual Luziânia). Formas mais intensivas de reforço da taipa com
+madeira foram documentadas por Thedim @barreto:1947casas11 justamente em
+cadeias públicas do período colonial brasileiro.
+
+Na arquitetura habitacional, o frontal propriamente dito corresponde a
+um esqueleto envolvendo uma vedação em alvenaria --- adobe no Brasil
+colonial e em Portugal a partir do século XIX, senão tijolos cozidos.
+Esta definição acaba, porém, por ser mapeada a um presumido grau zero da
+arquitetura vernacular, originário do norte da península Ibérica mas
+atemporal em sua difusão pelo mundo luso-brasileiro. A homogeneização do
+conceito de frontal enseja tanto uma falta de circunscrição cronológica,
+por exemplo na descrição dos prédios de rendimentos lisboetas por
+@mascarenhas:2012reabilitacao, quanto uma descrição uniforme de sistemas
+construtivos no Brasil sob rótulos genéricos como "arquitetura da
+mineração" [@coelho:2007arquitetura] ou "a casa da fazenda mineira"
+[@cruz:2010fazendas, 70]. Todavia, há uma distinção fundamental entre as
+aplicações do frontal que é pouco observada na literatura
+historiográfica, e cujas implicações cronológicas não foram, até o
+momento, exploradas.
+
+Em quase todo o universo vernacular luso-brasileiro, o frontal se
+caracteriza por ser um esqueleto retangular simplesmente apoiado sobre
+alicerces ou paredes portantes em alvenaria. Todavia, no contexto da
+expansão mineradora de origem paulista pela região do cerrado
+brasileiro, no século XVIII, uma variante desse sistema se torna
+dominante na construção das casas térreas com vedação em adobe. Essa
+variante consiste na projeção de um "nabo" dos esteios, os quais passam
+a atravessar toda a profundidade do alicerce para estarem solidamente
+fincados no solo [@vasconcellos:1979arquitetura].
+
+A profundidade histórica do frontal como um todo pode ser debatida, e
+não seria despropositado atribuir-lhe a natureza quase atemporal das
+tradições populares. O mesmo se não pode dizer, porém, da variante do
+frontal com esteios engastados no solo. A raridade, senão inexistência,
+de tal sistema fora da região do cerrado brasileiro, que vai do vale do
+Tietê no estado de São Paulo até as antigas capitanias de Goiás e Mato
+Grosso, assim como o noroeste de Minas Gerais, é prova de que se trata
+de uma invenção delimitada no tempo histórico dos estabelecimentos
+mineradores, a partir do século XVIII e persistindo até meados do XX.
+Mais ainda, e na falta de datações arqueológicas mais precisas, o
+registro iconográfico inequívoco de construções nessa variante do
+frontal remonta, no máximo, à primeira metade do século XIX, na obra de
+artistas como John Burchell ou, mais tarde, Franz Keller. Com isso, é
+possível avançar a hipótese de que o frontal engastado fosse uma
+inovação da segunda metade do século XVIII. Ele estaria relacionado com
+o conjunto de adaptações sísmicas posteriores não apenas ao terremoto de
+Lisboa, mas também aos menos conhecidos sismos ocorridos ao longo do
+mesmo século nos Açores, em parte responsáveis por uma migração rumo ao
+Brasil. A introdução dessa variante seria, então, resultado de
+crescimentos periféricos assim como de uma segunda geração de
+construções nas cidades e fazendas do cerrado brasileiro.
+
+A hipótese de um ciclo de reconstruções de moradas nos centros urbanos
+brasileiros a partir da segunda metade do século XVIII não apenas é
+plausível diante da natureza expedita e possivelmente pouco resiliente
+que se pode supor para as casas originais dos núcleos mineradores. Esse
+ciclo também é corroborado por evidências diretamente datáveis,
+especialmente oriundas da cidade de São Luís, no Maranhão. Ali, a
+introdução da gaiola pombalina e os estilos de azulejos, por primeira
+vez empregados nas fachadas, apontam inequivocamente para a reconstrução
+de diversos casarões da cidade da segunda metade de setecentos até
+meados de oitocentos, isto em áreas do centro histórico já consolidadas
+desde finais do século XVII, assim atestadas pela documentação
+cartográfica.
+
+------------------------------------------------------------------------
+
+Se os dois fatores anteriores --- a difusão do módulo de 40 palmos e a
+introdução do frontal engastado --- apontam para uma transição
+técnico-projetual na arquitetura vernacular na segunda metade do século
+XVIII, o terceiro fator em causa aponta para a consolidação e unificação
+de uma tipologia doméstica ao longo do século XIX. Nas casas rurais
+portuguesas, uma divisão regional consagrada desde o Inquérito
+[-@arquitectura:1961] até investigações mais recentes
+[@costa:2015arquitetura] consistia na composição em torno de um ou mais
+salões grandes e alongados, eventualmente com alpendre, no Norte, por
+oposição à tipologia meridional e insular com uma malha de células de
+pequenas dimensões, quadradas ou ligeiramente retangulares. Esses tipos
+se preservaram, em Portugal, mesmo diante da difusão em contexto urbano
+da tipologia europeia de casas correntes com corredor central ou
+lateral. No Brasil colonial, embora a distinção tipológica regional se
+tenha suavizado, manteve-se o contraste entre os tipos rurais e urbanos.
+
+No entanto, ao longo do século XIX no Brasil, esta última distinção
+também se relativizou com a intrusão do tipo urbano da habitação de
+frente larga, ou casa de morada inteira, como parte ou todo de moradas
+rurais. Essa intrusão ocorreu em várias frentes, das grandes fazendas
+nas regiões pecuaristas do Nordeste [@diniz:2013sertao] até as casas de
+pequenas propriedades horticultoras no vale do rio Tietê, estado de São
+Paulo [@martins:1978partido]. A transição tipológica é datável por
+evidências documentais quanto à idade das casas, permitindo situar com
+alguma confiança a consolidação dessa transição ao mais tardar na
+segunda metade do século XIX.
+
+
+# Por que e quando falar em tradição #
 
 # Conclusão #
 
