@@ -537,8 +537,62 @@ evidências documentais quanto à idade das casas, permitindo situar com
 alguma confiança a consolidação dessa transição ao mais tardar na
 segunda metade do século XIX.
 
+------------------------------------------------------------------------
+
+Da análise desses três fatores, forma-se a imagem de uma tradição
+luso-brasileira, do vernacular às suas apropriações no registro erudito,
+que passa por significativas transformações na segunda metade do século
+XVIII e se consolida por meio da uniformização das suas práticas ao
+longo do século XIX, culminando cerca de 1900 numa paisagem de tipos e
+processos construtivos padronizados, ainda que artesanais, em grandes
+extensões dos territórios português e brasileiro.
+
 
 # Por que e quando falar em tradição #
+
+O uso do conceito de "tradição" no âmbito de uma periodização da
+arquitetura vernacular implica certas tomadas de posição que se tornam
+mais claras agora que os seus principais aspectos foram elencados.
+Primeiramente, o conceito de tradição aqui adotado reflete um relativo
+consenso no campo disciplinar da arquitetura desde o início do século
+XX. Este conceito se refere a um sistema de práticas que, longe de serem
+estáticas num eterno presente primitivista, movem-se e transformam-se
+[@lino:1929casa] de par com inovações tecnológicas, mudanças sociais e
+evoluções nos quadros normativo e cultural que envolvem a atuação de
+profissionais especializados. Esta última parte do conceito de tradição
+articula-se ainda com o de vernacular, tal como entendido por
+@vellinga:2006inventiveness13, reconhecendo a iniciativa dos agentes na
+adoção de soluções técnicas e operacionais eventualmente vindas de
+outras tradições.
+
+Ao *porquê* de se recorrer ao conceito de tradição num contexto
+historiográfico, então, sucede a questão de *quando* situar
+cronologicamente uma tradição. A crítica historiográfica é pouco afeita
+a distinguir períodos ditos tradicionais, preferindo criticar ideologias
+a referendar seus pressupostos. Todavia, @hobsbawm:1983invention mostram
+como a construção programática de tradições, ainda que *a posteriori*,
+não deixa de ter efetividade no próprio processo histórico. Mais ainda,
+cabe distinguir entre o que se define historiograficamente como uma
+tradição, marcada pela lenta consolidação e transformação de saberes e
+práticas de modo análogo ao que hoje se reconhece como o patrimônio
+imaterial, e os movimentos tradicionalistas que em finais do século XIX
+e início do XX apropriam-se seletivamente dessas tradições para fins
+operativos [@pigafetta:2002architettura].
+
+Cronologicamente, a tradição luso-brasileira discutida neste artigo se
+sobrepõe parcialmente ao movimento tradicionalista dos estilos ditos
+nacional ou neocolonial. Conceitualmente, porém, o tradicionalismo
+pertence mais bem à modernidade teórico-crítica que revisita os saberes
+vernaculares, seja em busca de motivos plásticos, seja, a partir da
+segunda metade do século XX, em busca de instrumentos mais estruturantes
+de continuidade edilícia, como a tipologia processual desenvolvida por
+@caniggia:1984moderno e representada no mundo luso-brasileiro sobretudo
+pelos estudos morfológicos de cunho mais acadêmico
+[@netto:2015fundamentos; @oliveira:2018diferentes].
+
+Assim, uma periodização da tradição vernacular luso-brasileira pode ser
+representada pelo diagrama abaixo:
+
 
 # Conclusão #
 
