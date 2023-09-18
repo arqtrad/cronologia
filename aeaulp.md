@@ -13,7 +13,7 @@ authors:
 abstract: |
   A periodização canônica na história da arquitetura tradicional
   luso-brasileira é congruente com a existência do império atlântico
-  português (1415–1822), ou quiçá, situada entre os marcos normativos
+  português (1415--1822), ou quiçá, situada entre os marcos normativos
   que foram as ordenações Manuelinas de 1513 e a extinção das
   corporações de ofício pelas Constituições liberais de 1824 (Brasil) e
   1836 (Portugal). Essa periodização, aparentemente assente em eventos e
@@ -56,6 +56,100 @@ reference-section-title: "Referências bibliográficas"
    -- Controvérsia do "estilo chão" e do barroco como estilos nacionais
    -- Cooptação modernista da casa popular
    -->
+
+O estudo da arquitetura vernacular luso-brasileira tem por premissa a
+primazia da diversidade geográfica sobre a transformação histórica.
+Inicialmente estabelecida em Portugal pelos arquitetos do Inquérito em
+meados do século XX, essa premissa compareceu mais tardiamente no
+Brasil. Assim, a investigação e a didática universitária em torno ao
+tema da construção tradicional corporificam o postulado de Waisman sobre
+a história da arquitetura iberoamericana operar por meio de
+periodizações largas e imprecisas, devido à escassez de fontes
+documentais e à sobreposição entre manifestações progressivas e
+retrógradas. À margem dos períodos estilísticos da arte erudita, a
+tradição vernacular luso-brasileira é pensada no ciclo longo da Idade
+Moderna.
+
+A periodização canônica na história da arquitetura tradicional
+luso-brasileira é congruente com a existência do império atlântico
+português (1415--1822), ou quiçá, mais a propósito dos ofícios da
+construção, situada entre os marcos normativos que foram as ordenações
+Manuelinas de 1513 e a extinção das corporações de ofício pelas
+Constituições liberais de 1824 (Brasil) e 1836 (Portugal). Não por
+acaso, esses recortes coincidem com a especialização cronológica de
+vários dentre os mais ilustres historiadores da arquitetura
+luso-brasileira. Esta cronologia é reforçada, ainda, pelo escasso
+interesse historiográfico na construção vernacular do hiato entre o
+final do Antigo Regime e o dealbar da industrialização em Portugal e no
+Brasil, a partir de 1850--1870.
+
+Essa periodização, aparentemente assente em eventos e ciclos pertinentes
+para a história da construção, na verdade mais propriamente racionaliza
+argumentos advindos da história política e da economia. Mais além, a
+narrativa global baseada em tal periodização não dá a devida ênfase às
+significativas trocas entre os ofícios vernaculares e a atuação erudita
+dos engenheiros militares e arquitetos. Entretanto, trabalhos recentes
+(e outros nem tanto) com focos temáticos mais específicos oferecem
+olhares alternativos para a tradição vernacular e a sua continuidade e
+transformação ao longo do tempo.
+
+Nesse âmbito, o conceito de tradição adquire crucial importância para se
+enquadrar a construção vernacular luso-brasileira na sua diversidade
+regional e transformação diacrônica. A tradição é incompatível com uma
+linha do tempo determinista onde cada época é representada tão somente
+pelas suas manifestações sincrônicas. Como conceituou Rossa, o
+patrimônio urbanístico que forma o contexto de toda nova produção
+edilícia é composto tanto pelo conjunto de práticas vigentes na
+sociedade, quanto pelo acúmulo de artefatos e saberes legados desde
+todas as épocas anteriores.
+
+Com amparo neste conceito de tradição, dá-se a ver um ciclo de
+transformações históricas na construção vernacular luso-brasileira que
+corresponde, não ao início da Idade Moderna, mas em linhas gerais do
+período Pombalino até a virada do século. Corroboram esta proposta de
+periodização fatores como: a inexistência de significativas inovações
+tecnológicas, organizacionais e urbanísticas na construção vernacular
+coincidindo com o Renascimento erudito; reciprocamente, a ocorrência de
+tais inovações desde o período Pombalino até a revolução liberal; a
+continuidade do paradigma da vila de fundação medieval no processo de
+expansão ultramarina de Portugal, interrompida pelo modelo dito
+"Iluminista" do urbanismo pombalino; a intrusão, nesse modelo pombalino,
+de padrões urbanísticos e edilícios de raiz vernacular, sobretudo
+alentejana; o diálogo entre reformas eruditas e práticas de ofício no
+contexto da imposição do sistema da gaiola e da difusão de uma estética
+neoclássica popularizada.
+
+Este artigo começa revisando a periodização convencional da arquitetura
+luso-brasileira e sua origem na história da arte erudita, para em
+seguida mostrar as limitações desta perspectiva, bem como as
+investigações recentes que colocam em xeque essa periodização. Desse
+contraste decorre uma discussão sobre critérios de periodização e como
+repensar a cronologia da arquitetura luso-brasileira do ponto de vista
+das tradições vernaculares e dos marcos normativos e tecnológicos que a
+influenciam, bem como da influência do vernacular sobre o erudito. A
+partir desses critérios é que podemos, então, ter uma nova proposta de
+periodização da arquitetura luso-brasileira.
+
+Dando efetividade a esses fatores, há importante atividade de renovação
+ou expansão dos tecidos construídos em várias partes do Império
+português na segunda metade do século XVIII e início do XIX,
+especialmente nos Açores, no Brasil, e em polos industriais do Reino,
+tais como o Algarve ou Aveiro. Isso desmente o axioma historiográfico
+que supõe ser este um período de estagnação construtiva, postulada a
+partir da crise demográfica luso-brasileira e do declínio da economia
+aurífera. Ao mesmo tempo, as evidências que apontassem para uma
+continuidade vernacular ao longo de toda a Idade Moderna são mais
+escassas do que supõe a narrativa convencional.
+
+A construção vernacular luso-brasileira é, portanto, uma tradição mais
+recente do que o recorte convencional da Idade Moderna faz parecer. Na
+nova periodização proposta, esta tradição se inicia em meados do século
+XVIII e prossegue pelo século XIX. Elementos da arquitetura vernacular
+tradicional continuam a ser empregados, inclusive, durante o processo de
+industrialização e crescimento urbano do início do século XX, permitindo
+a consolidação de crescimentos periféricos à margem dos grandes
+empreendimentos centrais.
+
 
 # Periodizações da arte luso-brasileira #
 
@@ -335,7 +429,7 @@ e brasileira, no domínio da construção eles consolidam e apenas
 gradualmente reformam o marco regulatório do século XVIII. Tais poderes
 normativos de origem pombalina ou mesmo joanina, que se sobrepunham à
 autoridade das câmaras municipais ou mesmo se antecipavam à existência
-futura destas, como apontado por @derntl:2010metodo, vigoraram até um
+futura destas, como apontado por @derntl:2013metodo, vigoraram até um
 ciclo de profundas reformas urbanas no último terço do século XIX.
 
 Este último ciclo, por sua vez, caracterizava-se pela instituição
@@ -595,6 +689,39 @@ representada pelo diagrama abaixo:
 
 
 # Conclusão #
+
+Feito este breve exercício de periodização, caberia levantar novamente o
+questionamento acerca da pertinência e validade de periodizações em
+geral. Se é verdade que a transformação dos saberes arquitetônicos e das
+práticas construtivas é contínua, também é verdade que tais
+transformações muitas vezes seguem, durante longos períodos, um caráter
+ora intencionalmente autorreferente, ora implicitamente conservador.
+Certo é que, em qualquer instantâneo que se tome do passado, haverá
+fatores de continuidade com épocas anteriores assim como elementos em
+pleno processo de modernização. Por isso mesmo, levantar a poeira das
+antigas periodizações baseadas na arte erudita, explorando modos
+alternativos de enfatizar mudanças e continuidades, constitui uma
+provocação válida diante dos lugares-comuns da historiografia.
+
+Nesse quesito, cabe lembrar o quanto os enquadramentos disciplinares
+atuais continuam tributários da periodização convencional. Titulações
+acadêmicas e unidades curriculares em história da arquitetura, ou mesmo
+em patrimônio cultural, seguem via de regra as clivagens da história da
+arte erudita --- medievistas, especialistas na arquitetura e urbanização
+do Império português, estudiosos do historicismo estilístico do século
+XIX, e finalmente historiadores da assim chamada "arquitetura moderna".
+Questionando tais convenções, alguns projetos de investigação,
+nomeadamente o recém concluído TechNetEmpire, manipulam os cortes da
+periodização para evidenciar relações e continuidades em diferentes
+escopos.
+
+A proposta de uma nova periodização, esta baseada na trajetória das
+tradições vernaculares, não pretende, portanto, estabelecer um marco
+normativo para a escrita da história da arquitetura. É mais bem um
+ensejo para uma apreciação renovada dos modos de fazer o ambiente
+construído no mundo luso-brasileiro: um ponto de partida para novas
+explorações tanto no campo da historiografia quanto no da prática da
+arquitetura tradicional.
 
 
 <!--
