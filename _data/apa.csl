@@ -118,7 +118,7 @@
     <!-- TODO: New creator roles (media, contributor) -->
     <!-- TODO: Add new item types -->
     <names variable="composer" delimiter=", ">
-      <name name-as-sort-order="all" and="symbol" sort-separator=", " initialize-with=". " delimiter=", " delimiter-precedes-last="always"/>
+      <name name-as-sort-order="all" and="symbol" sort-separator=", " initialize-with=". " delimiter=", " delimiter-precedes-last="always" text-case="uppercase"/>
       <substitute>
         <names variable="author"/>
         <names variable="illustrator"/>
@@ -1294,6 +1294,9 @@
       <choose>
         <if type="thesis">
           <choose>
+            <if variable="publisher-place">
+              <text variable="publisher-place" suffix=": "/>
+            </if>
             <if variable="archive DOI URL" match="none">
               <text variable="publisher"/>
             </if>
@@ -1309,6 +1312,9 @@
         <else-if type="paper-conference">
           <!-- For paper-conference, don't print publisher if in a journal-like proceedings -->
           <choose>
+            <if variable="publisher-place">
+              <text variable="publisher-place" suffix=": "/>
+            </if>
             <if variable="collection-editor editor editorial-director" match="any">
               <text variable="publisher"/>
             </if>

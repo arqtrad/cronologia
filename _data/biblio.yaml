@@ -389,6 +389,23 @@ references:
   URL: https://www.jstor.org/stable/3047591
   volume: '37'
 
+- id: calder:2021architecture
+  author:
+    - family: Calder
+      given: Barnabas
+  citation-key: calder:2021architecture
+  event-place: Harmondsworth
+  ISBN: 978-0-241-39673-5
+  issued:
+    - year: 2021
+  language: en
+  publisher: Penguin
+  publisher-place: Harmondsworth
+  source: Open WorldCat
+  title: 'Architecture: from prehistory to climate emergency'
+  title-short: Architecture
+  type: book
+
 - id: calmeiro:2015urbanismo
   abstract: >-
     O estudo da transformação da cidade de Coimbra entre 1834 e 1934 pretende 
@@ -493,7 +510,6 @@ references:
 - id: caniggia:1984moderno
   call-number: NA1118 .M64 1984
   citation-key: caniggia:1984moderno
-  edition: '1'
   editor:
     - family: Caniggia
       given: Gianfranco
@@ -1039,7 +1055,7 @@ references:
   event-place: New York
   issued:
     - year: 1961
-  language: en-GB
+  language: en
   publisher: Charles Scribner’s Sons
   publisher-place: New York
   title: History of architecture on the comparative method
@@ -1161,10 +1177,30 @@ references:
   number-of-pages: '53'
   publisher: <span smallcaps="smallcaps">INTBAU</span> España
   publisher-place: Madrid
-  title: Nueva arquitectura tradicional = New traditional architecture
+  title: Nueva arquitectura tradicional
   title-short: Nueva arquitectura tradicional
   type: book
   URL: https://intbauspain.com/publicaciones/
+
+- id: giedion:1961space
+  author:
+    - family: Giedion
+      given: Sigfried
+  citation-key: giedion:1961space
+  edition: '4'
+  event-place: Cambridge, Mass.
+  issued:
+    - year: 1961
+      month: 1
+      day: 1
+  language: en
+  number-of-pages: '768'
+  publisher: Harvard University Press
+  publisher-place: Cambridge, Mass.
+  source: Amazon
+  title: 'Space, time and architecture: the growth of a new tradition'
+  title-short: Space, time and architecture
+  type: book
 
 - id: gomes:2003cultura
   author:
@@ -1384,7 +1420,6 @@ references:
       given: George
   call-number: NA1325 .K8
   citation-key: kubler:1972portuguese
-  edition: 1st ed.
   event-place: Middletown, Conn.
   ISBN: 978-0-8195-4045-4
   issued:
@@ -1775,7 +1810,6 @@ references:
       month: 5
       day: 15
   citation-key: mascarenhas-mateus:2018historia
-  edition: '1'
   editor:
     - family: Mascarenhas-Mateus
       given: João
@@ -2555,6 +2589,21 @@ references:
   URL: >-
     https://scielo.conicyt.cl/scielo.php?script=sci_abstract&pid=S0716-54552016000100006&lng=es&nrm=iso&tlng=pt
 
+- id: rapoport:1969house
+  author:
+    - family: Rapoport
+      given: Amos
+  citation-key: rapoport:1969house
+  event-place: Englewood Cliffs, N.J.
+  issued:
+    - year: 1969
+  language: en
+  publisher: Prentice-Hall
+  publisher-place: Englewood Cliffs, N.J.
+  source: Open WorldCat
+  title: House form and culture
+  type: book
+
 - id: raposo:2016transformacao
   abstract: >-
     O livro “Arquitectura Popular. Tradição e Vanguarda”, propõe uma
@@ -2853,6 +2902,32 @@ references:
   type: thesis
   URL: https://estudogeral.sib.uc.pt/handle/10316/21479
 
+- id: rossa:2015fomos
+  accessed:
+    - year: 2023
+      month: 11
+      day: 14
+  author:
+    - family: Rossa
+      given: Walter
+  citation-key: rossa:2015fomos
+  collection-title: Olhares
+  DOI: 10.14195/978-989-26-0883-9
+  event-place: Coimbra
+  ISBN: 978-989-26-0883-9
+  issued:
+    - year: 2015
+  language: pt
+  publisher: Imprensa da Universidade de Coimbra
+  publisher-place: Coimbra
+  source: DOI.org (Crossref)
+  title: >-
+    Fomos condenados à cidade: uma década de estudos sobre património
+    urbanístico
+  title-short: Fomos condenados à cidade
+  type: book
+  URL: https://ucdigitalis.uc.pt/pombalina/item/54503
+
 - id: saia:1977sao
   author:
     - family: Saia
@@ -3131,7 +3206,7 @@ references:
   ISBN: 978-85-7266-038-9
   issued:
     - year: 1994
-  language: pt-BR
+  language: pt
   number-of-pages: '120'
   publisher: Pini
   publisher-place: São Paulo
@@ -3329,6 +3404,26 @@ references:
   title-short: A arquitectura dos descobrimentos e o renascimento ibérico
   type: book
 
+- id: unamuno:1902torno
+  author:
+    - family: Unamuno
+      given: Miguel
+      dropping-particle: de
+  call-number: '316.7'
+  citation-key: unamuno:1902torno
+  collection-number: '4'
+  collection-title: Biblioteca moderna de ciencias sociales
+  event-place: 'Madrid : Barcelona'
+  issued:
+    - year: 1902
+  language: es
+  number-of-pages: '212'
+  publisher: Fernando Fé ; Antonio López
+  publisher-place: 'Madrid : Barcelona'
+  source: webopac.sib.uc.pt Library Catalog
+  title: En torno al casticismo
+  type: book
+
 - id: vasconcellos:1979arquitetura
   author:
     - family: Vasconcellos
@@ -3371,6 +3466,25 @@ references:
   URL: https://www.jstor.org/stable/20355388
   volume: '13'
 
+- id: waisman:1993interior
+  author:
+    - family: Waisman
+      given: Marina
+  citation-key: waisman:1993interior
+  edition: '2'
+  event-place: Bogotá
+  issued:
+    - year: 1993
+  language: es
+  publisher: Escala
+  publisher-place: Bogotá
+  source: Open WorldCat
+  title: >-
+    El interior de la historia: historiografía arquitectónica para uso de
+    latinoamericanos
+  title-short: El interior de la historia
+  type: book
+
 - id: watson:1908portuguese
   abstract: '"Books consulted": p. 272'
   accessed:
@@ -3401,12 +3515,11 @@ references:
     - family: Weimer
       given: Günter
   citation-key: weimer:2005arquitetura
-  edition: '1'
   event-place: São Paulo
   ISBN: 978-85-7827-504-4
   issued:
     - year: 2005
-  language: pt-BR
+  language: pt
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat

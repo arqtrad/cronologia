@@ -62,7 +62,8 @@ primazia da diversidade geográfica sobre a transformação histórica.
 Inicialmente estabelecida em Portugal pelos arquitetos do Inquérito em
 meados do século XX, essa premissa compareceu mais tardiamente no
 Brasil. Assim, a investigação e a didática universitária em torno ao
-tema da construção tradicional corporificam o postulado de Waisman sobre
+tema da construção tradicional corporificam o postulado de Marina
+@waisman:1993interior sobre
 a história da arquitetura iberoamericana operar por meio de
 periodizações largas e imprecisas, devido à escassez de fontes
 documentais e à sobreposição entre manifestações progressivas e
@@ -93,32 +94,6 @@ dos engenheiros militares e arquitetos. Entretanto, trabalhos recentes
 olhares alternativos para a tradição vernacular e a sua continuidade e
 transformação ao longo do tempo.
 
-Nesse âmbito, o conceito de tradição adquire crucial importância para se
-enquadrar a construção vernacular luso-brasileira na sua diversidade
-regional e transformação diacrônica. A tradição é incompatível com uma
-linha do tempo determinista onde cada época é representada tão somente
-pelas suas manifestações sincrônicas. Como conceituou Rossa, o
-patrimônio urbanístico que forma o contexto de toda nova produção
-edilícia é composto tanto pelo conjunto de práticas vigentes na
-sociedade, quanto pelo acúmulo de artefatos e saberes legados desde
-todas as épocas anteriores.
-
-Com amparo neste conceito de tradição, dá-se a ver um ciclo de
-transformações históricas na construção vernacular luso-brasileira que
-corresponde, não ao início da Idade Moderna, mas em linhas gerais do
-período Pombalino até a virada do século. Corroboram esta proposta de
-periodização fatores como: a inexistência de significativas inovações
-tecnológicas, organizacionais e urbanísticas na construção vernacular
-coincidindo com o Renascimento erudito; reciprocamente, a ocorrência de
-tais inovações desde o período Pombalino até a revolução liberal; a
-continuidade do paradigma da vila de fundação medieval no processo de
-expansão ultramarina de Portugal, interrompida pelo modelo dito
-"Iluminista" do urbanismo pombalino; a intrusão, nesse modelo pombalino,
-de padrões urbanísticos e edilícios de raiz vernacular, sobretudo
-alentejana; o diálogo entre reformas eruditas e práticas de ofício no
-contexto da imposição do sistema da gaiola e da difusão de uma estética
-neoclássica popularizada.
-
 Este artigo começa revisando a periodização convencional da arquitetura
 luso-brasileira e sua origem na história da arte erudita, para em
 seguida mostrar as limitações desta perspectiva, bem como as
@@ -138,7 +113,6 @@ tradicional continuam a ser empregados, inclusive, durante o processo de
 industrialização e crescimento urbano do início do século XX, permitindo
 a consolidação de crescimentos periféricos à margem dos grandes
 empreendimentos centrais.
-
 
 # Periodizações da arte luso-brasileira #
 
@@ -200,9 +174,35 @@ dissipou com a chegada tardia do neoclassicismo no final do século
 XVIII. O século XIX foi caracterizado por um vácuo na produção
 arquitetônica, influenciado pelo estrangeirismo e revivalismo. Embora a
 historiografia contemporânea evite distinções conceituais entre
-"tradicional" e "moderno," há implicitamente um hiato entre o fim da
-linhagem luso-brasileira tradicional, por volta de 1780--1815, e o
-início da modernidade industrial na segunda metade do século XIX.
+"tradicional" e "moderno," ela supõe implicitamente um hiato entre o fim
+da linhagem luso-brasileira tradicional, por volta de 1780--1815, e
+o início da modernidade industrial na segunda metade do século XIX.
+
+Não obstante a importância de que se reveste, portanto, o debate
+estilístico na historiografia da arquitetura erudita luso-brasileira, a
+questão está longe de ser pacificada. Um problema frequentemente
+levantado na literatura de meados do século XIX a meados do XX, por
+exemplo, é o do atraso cronológico na introdução de diferentes estilos
+ou formas artísticas. O defeito de sincronia é observado tanto no
+descompasso entre a história dos estilos em Itália e França com respeito
+à sua repercussão em Portugal, por exemplo na síntese de
+@fernandes:2006arquitectura, quanto de Portugal para o Brasil, cuja
+evidência mais corriqueiramente apontada é a pretensa "introdução" do
+neoclassicismo pela missão artística francesa em 1816
+[@morales:1941grandjean]. Pouco importa se o equívoco dessa premissa já
+tenha sido amplamente apontado [por exemplo por
+@rocha-peixoto:2000reflexos].
+
+Deste mítico problema cronológico, não restrito ao mundo
+luso-brasileiro, Marina @waisman:1993interior faz um trunfo para
+defender a especificidade metodológica de uma historiografia
+arquitetônica latinoamericana. Central para o seu argumento é o problema
+da sequência de estilos eruditos europeus que chegam não apenas
+atrasados, mas sobretudo, por assim dizer, fora de ordem. Tomando como
+certa, a partir daí, a impossibilidade de se racionalizar *qualquer*
+cronologia, @waisman:1993interior [50] defende dar precedência às
+"pautas extra-arquitectónicas" como fio condutor de uma historiografia
+pretensamente mais crítica e portanto metodologicamente superior.
 
 
 # Cronologia em xeque no presente eterno do vernacular #
@@ -231,8 +231,8 @@ cronológica passou despercebida.
 Uma consequência de tal dicotomia, porém, acaba sendo a introdução de
 uma rutura no senso de precedência entre ambos os momentos que os
 teóricos buscavam reconciliar. Tanto os tradicionalistas quanto os
-modernistas argumentavam pela continuidade da tradição vernacular na sua
-própria prática, mas tais argumentos supunham uma contradição
+modernistas argumentavam pela continuidade da arquitetura vernacular na
+sua própria prática, mas tais argumentos supunham uma contradição
 cronológica e conceitual que passou despercebida a proponentes e
 detratores de ambos os movimentos. Essa contradição consiste no problema
 da precedência das invenções formais nos registros erudito e popular.
@@ -247,11 +247,11 @@ de hoje [por exemplo em @mascarenhas-mateus:2018historia;
 @pessotti:2011construcao; @reis:2013liberdade]
 exploram a documentação relativa a contratos, empreitadas, aprendizagens
 e trajetórias profissionais, circunscrevendo assim a datação de
-edifícios e de tradições construtivas. Também são dignos de nota o
-estudo que Sandra @pinto:2015portugal16 desenvolve acerca das normas
-edilícias em Portugal e no Brasil, assim como a identificação de
-construções por meio de documentos tributários, feita por Beatriz
-@bueno:2005tecido e diversos investigadores por ela orientados.
+edifícios e de práticas construtivas. Também são dignos de nota o estudo
+que Sandra @pinto:2015portugal16 desenvolve acerca das normas edilícias
+em Portugal e no Brasil, assim como a identificação de construções por
+meio de documentos tributários, feita por Beatriz @bueno:2005tecido e
+diversos investigadores por ela orientados.
 
 ------------------------------------------------------------------------
 
@@ -301,7 +301,10 @@ O duplo sentido de trânsito das influências arquitetônicas --- do
 erudito para o vernacular e vice-versa --- dá a dimensão própria a um
 conceito de tradição, no qual os modos de fazer as construções e as
 cidades são premissas subjacentes a todo o espectro do popular ao
-monumental.
+monumental (um conceito mais abrangente e criterioso de tradição vai ser
+útil mais abaixo, mas por ora basta esta simples e pouco pretensiosa
+definição).
+
 Três instâncias de elementos ou motivos são especialmente relevantes
 para uma periodização da tradição luso-brasileira do século XVIII ao
 XIX: a difusão do módulo doméstico de 40 palmos, a implantação de
@@ -324,7 +327,7 @@ arquitetos civis desde a era pombalina,
 suplantando o antigo módulo de 25 palmos que predominava desde o século
 XIII. No projeto para a Vila Real de Santo António, no Algarve, o
 engenheiro José Sande de Vasconcelos ainda empregou em 1774 a
-testada tradicional de 25 palmos. Em 1777, porém, Manoel Vieira Leão
+testada ancestral de 25 palmos. Em 1777, porém, Manoel Vieira Leão
 utilizou no plano de Taquari, Rio Grande do Sul, o módulo de
 40 palmos, que se repetiu em outras fundações pombalinas no
 Brasil, como Casalvasco, Mato Grosso, em 1782. Porto Covo, uma
@@ -337,9 +340,8 @@ do setecentos pode ter influenciado a sua difusão pelo centro de
 Portugal. Esta região, do baixo vale do Tejo até a Beira litoral, era o
 domínio de um tipo característico de morada, a "casa atlântica" com 50
 palmos de testada. A partir de finais do século XIX, porém, nos projetos
-de casarios suburbanos e vilas operárias nas
-Beiras, este tipo tradicional deu frequentemente lugar ao módulo de 40
-palmos.
+de casarios suburbanos e vilas operárias nas Beiras, este tipo ancestral
+deu frequentemente lugar ao módulo de 40 palmos.
 
 ## Frontal ##
 
@@ -418,7 +420,7 @@ alguma confiança a consolidação dessa transição ao mais tardar na
 segunda metade do século XIX.
 
 
-# Por que e quando falar em tradição #
+# Por que e quando falar em tradição luso-brasileira #
 
 Da análise desses três fatores, forma-se a imagem de uma tradição
 luso-brasileira, do vernacular às suas apropriações no registro erudito,
@@ -442,9 +444,13 @@ escassas do que supõe a narrativa convencional.
 O uso do conceito de "tradição" no âmbito de uma periodização da
 arquitetura vernacular implica certas tomadas de posição que se tornam
 mais claras agora que os seus principais aspectos foram elencados.
-Primeiramente, o conceito de tradição aqui adotado reflete um relativo
-consenso no campo disciplinar da arquitetura desde o início do século
-XX. Este conceito se refere a um sistema de práticas que, longe de serem
+Embora haja uma controvérsia sobretudo de ordem político-ideológica em
+torno do conceito de tradição em arquitetura, a sua definição resumida
+no tema da continuidade evolutiva é relativamente consensual entre
+autores ditos tradicionalistas, como @lino:1929casa, e críticos, como
+@rapoport:1969house.
+
+Esse conceito se refere a um sistema de práticas que, longe de serem
 estáticas num eterno presente primitivista, movem-se e transformam-se
 [@lino:1929casa] de par com inovações tecnológicas, mudanças sociais e
 evoluções nos quadros normativo e cultural que envolvem a atuação de
@@ -453,6 +459,52 @@ articula-se ainda com o de vernacular, tal como entendido por
 @vellinga:2006inventiveness13, reconhecendo a iniciativa dos agentes na
 adoção de soluções técnicas e operacionais eventualmente vindas de
 outras tradições.
+
+Nesse âmbito, o conceito de tradição adquire crucial importância para se
+enquadrar a construção vernacular luso-brasileira na sua diversidade
+regional e transformação diacrônica. Metodologicamente, este artigo
+parte da formulação de @rapoport:1969house de que uma tradição é um
+conjunto de práticas elaboradas, aplicadas e transformadas
+colaborativamente tanto no espaço sincrônico de uma comunidade quanto na
+extensão diacrônica de sucessivas gerações. Com tal definição, evitam-se
+os niilismos conceituais tanto de um entendimento rígido da tradição por
+@unamuno:1902torno como "casticismo" determinista, quanto da diluição do
+significado da palavra a ponto de esta poder ser usada por
+@giedion:1961space para designar um movimento revolucionário e
+esotérico.
+
+Disso decorre, portanto, uma contraposição sensata entre tradição e
+modernidade. @calder:2021architecture conceitua a modernidade em termos
+da rutura na escala produtiva, e portanto na concentração de poder
+econômico, proporcionada pelo uso sistemático de combustíveis fósseis.
+Essa transição tem como uma de suas consequências a de que, voltando ao
+argumento de @rapoport:1969house, a originalidade e a inovação emergem
+como valores culturais da modernidade, sobrepujando o consenso e o
+conservadorismo das sociedades tradicionais.
+
+A tradição é incompatível com uma
+linha do tempo determinista onde cada época é representada tão somente
+pelas suas manifestações sincrônicas. Como conceituou Walter
+@rossa:2015fomos, o patrimônio urbanístico que forma o contexto de toda
+nova produção edilícia é composto tanto pelo conjunto de práticas
+vigentes na sociedade, quanto pelo acúmulo de artefatos e saberes
+legados desde todas as épocas anteriores.
+
+Com amparo neste conceito de tradição, dá-se a ver um ciclo de
+transformações históricas na construção vernacular luso-brasileira que
+corresponde, não ao início da Idade Moderna, mas em linhas gerais do
+período Pombalino até a virada do século. Corroboram esta proposta de
+periodização fatores como: a inexistência de significativas inovações
+tecnológicas, organizacionais e urbanísticas na construção vernacular
+coincidindo com o Renascimento erudito; reciprocamente, a ocorrência de
+tais inovações desde o período Pombalino até a revolução liberal; a
+continuidade do paradigma da vila de fundação medieval no processo de
+expansão ultramarina de Portugal, interrompida pelo modelo dito
+"Iluminista" do urbanismo pombalino; a intrusão, nesse modelo pombalino,
+de padrões urbanísticos e edilícios de raiz vernacular, sobretudo
+alentejana; o diálogo entre reformas eruditas e práticas de ofício no
+contexto da imposição do sistema da gaiola e da difusão de uma estética
+neoclássica popularizada.
 
 Ao *porquê* de se recorrer ao conceito de tradição num contexto
 historiográfico, então, sucede a questão de *quando* situar
