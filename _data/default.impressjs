@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html$if(lang)$ lang="$lang$"$endif$$if(dir)$ dir="$dir$"$endif$>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+$for(author-meta)$
+  <meta name="author" content="$author-meta$">
+$endfor$
+$if(date-meta)$
+  <meta name="dcterms.date" content="$date-meta$">
+$endif$
+$if(keywords)$
+  <meta name="keywords" content="$for(keywords)$$keywords$$sep$, $endfor$">
+$endif$
+  <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <!--<meta name="viewport" content="width=1024" />-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+$for(css)$
+  <link rel="stylesheet" href="$css$"/>
+$endfor$
+$if(math)$
+  $math$
+$endif$
+  <link rel="shortcut icon" href="favicon.png" />
+  <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+$for(header-includes)$
+  $header-includes$
+$endfor$
+</head>
+<body class="impress-not-supported">
+$for(include-before)$
+$include-before$
+$endfor$
+  <div class="fallback-message">
+  $if(fallback-message)$$fallback-message$$else$
+    <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+    <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
+  $endif$
+  </div>
+  <div id="impress"
+    data-transition-duration="$if(impress.transition-duration)$$impress.transition-duration$$else$1000$endif$"
+    data-width="$if(impress.width)$$impress.width$$else$1024$endif$"
+    data-height="$if(impress.height)$$impress.height$$else$768$endif$"
+    data-max-scale="$if(impress.max-scale)$$impress.max-scale$$else$3$endif$"
+    data-min-scale="$if(impress.min-scale)$$impress.min-scale$$else$0$endif$"
+    data-perspective="if(impress.perspective)$$impress.perspective$$else$1000$endif$"
+    data-autoplay="$if(impress.autoplay)$$impress.autoplay$$else$0$endif$">
+
+$if(title)$
+<section id="$idprefix$title-slide"$for(title-slide-attributes/pairs)$ $it.key$="$it.value$"$endfor$>
+  <h1 class="title">$title$</h1>
+$if(subtitle)$
+  <p class="subtitle">$subtitle$</p>
+$endif$
+$for(author)$
+  <p class="author">$author$</p>
+$endfor$
+$for(institute)$
+  <p class="institute">$institute$</p>
+$endfor$
+$if(date)$
+  <p class="date">$date$</p>
+$endif$
+</section>
+$endif$
+$if(toc)$
+<section id="$idprefix$TOC">
+<nav role="doc-toc"> 
+$if(toc-title)$
+<h2 id="$idprefix$toc-title">$toc-title$</h2>
+$endif$
+$table-of-contents$
+</nav>
+</section>
+$endif$
+
+$body$
+  </div>
+$if(mathjax)$
+  <script src="$revealjs-url$/plugin/math/math.js"></script>
+$endif$
+  $for(include-after)$
+  $include-after$
+  $endfor$
+  <script type="text/javascript" src="$if(impress.dir)$impress.url$/$else$impress.js$endif$"></script>
+  </body>
+</html>
