@@ -1,6 +1,7 @@
 ---
-title: "Repensar a periodização da construção vernacular luso-brasileira"
+title   : "Repensar a periodização da construção vernacular luso-brasileira"
 subtitle: "ou, como a nossa arquitetura tradicional é mais recente do que parece"
+author  : Pedro Palazzo
 authors:
 - name: "Pedro P. Palazzo"
   affiliation: >
@@ -42,6 +43,8 @@ abstract: |
   luso-brasileira, historiografia, Idade Moderna, período Pombalino.
 
   **Eixo temático:** 8. Transversalidades e Contaminações na Lusofonia
+keywords    : ["arquitetura tradicional", "construção luso-brasileira", "historiografia", "Idade Moderna", "período Pombalino"]
+description:
 bibliography: _data/biblio.yaml
 csl         : _data/apa.csl
 crossrefYaml: _data/pandoc-crossref.yaml
