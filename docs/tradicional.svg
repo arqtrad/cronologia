@@ -9,14 +9,15 @@
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25)"
    sodipodi:docname="tradicional.svg"
+   xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <sodipodi:namedview
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"
      bordercolor="#999999"
@@ -27,10 +28,102 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      labelstyle="default"
-     inkscape:current-layer="layer4" />
-  <defs
-     id="defs1">
-    <marker
+     inkscape:current-layer="layer5"><inkscape:page
+       x="0"
+       y="0"
+       width="2560"
+       height="1440"
+       id="page1"
+       margin="0"
+       bleed="0"
+       inkscape:export-filename="../_out/tradicional.pdf"
+       inkscape:export-xdpi="47.9615"
+       inkscape:export-ydpi="47.9615" /><inkscape:page
+       x="2685.8909"
+       y="0"
+       width="2560"
+       height="1440"
+       id="page74"
+       margin="0"
+       bleed="0"
+       inkscape:export-filename="../_out/tradicional.pdf"
+       inkscape:export-xdpi="47.9615"
+       inkscape:export-ydpi="47.9615" /><inkscape:page
+       x="5378.644"
+       y="0"
+       width="2560"
+       height="1440"
+       id="page2"
+       margin="0"
+       bleed="0"
+       inkscape:export-filename="../_out/tradicional.pdf"
+       inkscape:export-xdpi="47.9615"
+       inkscape:export-ydpi="47.9615" /></sodipodi:namedview><defs
+     id="defs1"><inkscape:path-effect
+       effect="tiling"
+       id="path-effect81"
+       is_visible="true"
+       lpeversion="1"
+       unit="px"
+       seed="1;1"
+       lpesatellites=""
+       num_rows="1"
+       num_cols="6"
+       gapx="460"
+       gapy="0"
+       offset="0"
+       offset_type="false"
+       scale="0"
+       rotate="0"
+       mirrorrowsx="false"
+       mirrorrowsy="false"
+       mirrorcolsx="false"
+       mirrorcolsy="false"
+       mirrortrans="false"
+       shrink_interp="false"
+       split_items="false"
+       link_styles="true"
+       interpolate_scalex="false"
+       interpolate_scaley="true"
+       interpolate_rotatex="false"
+       interpolate_rotatey="true"
+       random_scale="false"
+       random_rotate="false"
+       random_gap_y="false"
+       random_gap_x="false"
+       transformorigin="" /><inkscape:path-effect
+       effect="tiling"
+       id="path-effect74"
+       is_visible="true"
+       lpeversion="1"
+       unit="px"
+       seed="1;1"
+       lpesatellites=""
+       num_rows="1"
+       num_cols="6"
+       gapx="460"
+       gapy="0"
+       offset="0"
+       offset_type="false"
+       scale="0"
+       rotate="0"
+       mirrorrowsx="false"
+       mirrorrowsy="false"
+       mirrorcolsx="false"
+       mirrorcolsy="false"
+       mirrortrans="false"
+       shrink_interp="false"
+       split_items="false"
+       link_styles="true"
+       interpolate_scalex="false"
+       interpolate_scaley="true"
+       interpolate_rotatex="false"
+       interpolate_rotatey="true"
+       random_scale="false"
+       random_rotate="false"
+       random_gap_y="false"
+       random_gap_x="false"
+       transformorigin="" /><marker
        style="overflow:visible"
        id="marker31"
        refX="0"
@@ -42,14 +135,11 @@
        viewBox="0 0 1 1"
        inkscape:isstock="true"
        inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
+       preserveAspectRatio="xMidYMid"><path
          transform="scale(0.5)"
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="m 6,0 c -3,1 -7,3 -9,5 0,0 0,-4 2,-5 -2,-1 -2,-5 -2,-5 2,2 6,4 9,5 z"
-         id="path31" />
-    </marker>
-    <marker
+         id="path31" /></marker><marker
        style="overflow:visible"
        id="ArrowTriangleStylized"
        refX="0"
@@ -61,14 +151,11 @@
        viewBox="0 0 1 1"
        inkscape:isstock="true"
        inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
+       preserveAspectRatio="xMidYMid"><path
          transform="scale(0.5)"
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="m 6,0 c -3,1 -7,3 -9,5 0,0 0,-4 2,-5 -2,-1 -2,-5 -2,-5 2,2 6,4 9,5 z"
-         id="path4" />
-    </marker>
-    <inkscape:path-effect
+         id="path4" /></marker><inkscape:path-effect
        effect="tiling"
        id="path-effect2"
        is_visible="true"
@@ -100,48 +187,53 @@
        random_rotate="false"
        random_gap_y="false"
        random_gap_x="false"
-       transformorigin="" />
-  </defs>
-  <g
+       transformorigin="" /></defs><g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="fundo-nao-exportar"
+     inkscape:label="fundo"
      style="display:inline"
-     sodipodi:insensitive="true">
-    <rect
+     sodipodi:insensitive="true"><rect
        style="fill:#fffff8;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:1"
        id="rect29"
        width="2560"
        height="1440"
+       x="2685.8909"
+       y="0"
+       inkscape:label="fundo-p2" /><rect
+       style="fill:#fffff8;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:1"
+       id="rect74"
+       width="2560"
+       height="1440"
        x="0"
        y="0"
-       inkscape:label="fundo" />
-  </g>
-  <g
+       inkscape:label="fundo-p1" /><rect
+       style="fill:#fffff8;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:1"
+       id="rect81"
+       width="2560"
+       height="1440"
+       x="5378.644"
+       y="0"
+       inkscape:label="fundo-p3" /></g><g
      inkscape:label="fixo"
      inkscape:groupmode="layer"
      id="layer1"
-     sodipodi:insensitive="true">
-    <rect
+     sodipodi:insensitive="true"><rect
        style="fill:none;fill-opacity:0.502973;stroke:#111111;stroke-width:3;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:1"
        id="rect2"
        width="2460"
        height="1383.75"
        x="50"
        y="28.125"
-       inkscape:label="margem" />
-    <path
-       style="fill:none;fill-opacity:0.502973;stroke:#111111;stroke-width:2.03961;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.25098"
+       inkscape:label="margem-p1" /><path
+       style="fill:none;fill-opacity:0.502973;stroke:#111111;stroke-width:2.03961;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.1"
        d="m 80,70 v 1300 m 460,-1300 v 1300 m 460,-1300 v 1300 m 460,-1300 v 1300 m 460,-1300 v 1300 m 460,-1300 v 1300"
        id="path2"
        inkscape:path-effect="#path-effect2"
        inkscape:original-d="m 80,70 v 1300"
        transform="matrix(1,0,0,0.96153846,50,52.692308)"
-       inkscape:label="grade" />
-    <g
+       inkscape:label="grade-p1" /><g
        id="g8"
-       inkscape:label="datas">
-      <text
+       inkscape:label="datas-p1"><text
          xml:space="preserve"
          style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
          x="129.72798"
@@ -152,8 +244,7 @@
            id="tspan2"
            x="129.72798"
            y="97.071999"
-           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none">1500</tspan></text>
-      <text
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none">1500</tspan></text><text
          xml:space="preserve"
          style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
          x="591.96796"
@@ -164,8 +255,7 @@
            id="tspan4"
            x="591.96796"
            y="97.071999"
-           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none">1600</tspan></text>
-      <text
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none">1600</tspan></text><text
          xml:space="preserve"
          style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
          x="1052.832"
@@ -176,8 +266,7 @@
            id="tspan5"
            x="1052.832"
            y="97.071999"
-           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none">1700</tspan></text>
-      <text
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none">1700</tspan></text><text
          xml:space="preserve"
          style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
          x="1511.968"
@@ -188,8 +277,7 @@
            id="tspan7"
            x="1511.968"
            y="97.071999"
-           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none">1800</tspan></text>
-      <text
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none">1800</tspan></text><text
          xml:space="preserve"
          style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
          x="1971.5841"
@@ -200,8 +288,7 @@
            id="tspan8"
            x="1971.5841"
            y="97.071999"
-           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none">1900</tspan></text>
-      <text
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none">1900</tspan></text><text
          xml:space="preserve"
          style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
          x="2432.24"
@@ -211,21 +298,180 @@
            sodipodi:role="line"
            x="2432.24"
            y="97.071999"
-           id="tspan3">2000</tspan></text>
-    </g>
-  </g>
-  <g
+           id="tspan3">2000</tspan></text></g><rect
+       style="fill:none;fill-opacity:0.502973;stroke:#111111;stroke-width:3;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:1"
+       id="rect68"
+       width="2460"
+       height="1383.75"
+       x="5428.644"
+       y="28.125"
+       inkscape:label="margem-p3" /><path
+       style="fill:none;fill-opacity:0.502973;stroke:#111111;stroke-width:2.03961;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.1"
+       d="m 80,70 v 1300 m 460,-1300 v 1300 m 460,-1300 v 1300 m 460,-1300 v 1300 m 460,-1300 v 1300 m 460,-1300 v 1300"
+       id="path68"
+       inkscape:path-effect="#path-effect74"
+       inkscape:original-d="m 80,70 v 1300"
+       transform="matrix(1,0,0,0.96153846,5428.6441,52.69231)"
+       inkscape:label="grade-p3" /><g
+       id="g73"
+       inkscape:label="datas-p3"
+       transform="translate(5378.6441)"><text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         x="129.72798"
+         y="97.071999"
+         id="text68"
+         inkscape:label="text-1500"><tspan
+           sodipodi:role="line"
+           id="tspan68"
+           x="129.72798"
+           y="97.071999"
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none">1500</tspan></text><text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         x="591.96796"
+         y="97.071999"
+         id="text69"
+         inkscape:label="text-1600"><tspan
+           sodipodi:role="line"
+           id="tspan69"
+           x="591.96796"
+           y="97.071999"
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none">1600</tspan></text><text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         x="1052.832"
+         y="97.071999"
+         id="text70"
+         inkscape:label="text-1700"><tspan
+           sodipodi:role="line"
+           id="tspan70"
+           x="1052.832"
+           y="97.071999"
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none">1700</tspan></text><text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         x="1511.968"
+         y="97.071999"
+         id="text71"
+         inkscape:label="text-1800"><tspan
+           sodipodi:role="line"
+           id="tspan71"
+           x="1511.968"
+           y="97.071999"
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none">1800</tspan></text><text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         x="1971.5841"
+         y="97.071999"
+         id="text72"
+         inkscape:label="text-1900"><tspan
+           sodipodi:role="line"
+           id="tspan72"
+           x="1971.5841"
+           y="97.071999"
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none">1900</tspan></text><text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         x="2432.24"
+         y="97.071999"
+         id="text73"
+         inkscape:label="text-2000"><tspan
+           sodipodi:role="line"
+           x="2432.24"
+           y="97.071999"
+           id="tspan73">2000</tspan></text></g><path
+       style="fill:none;fill-opacity:0.502973;stroke:#111111;stroke-width:2.03961;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.1"
+       d="m 80,70 v 1300 m 460,-1300 v 1300 m 460,-1300 v 1300 m 460,-1300 v 1300 m 460,-1300 v 1300 m 460,-1300 v 1300"
+       id="path75"
+       inkscape:path-effect="#path-effect81"
+       inkscape:original-d="m 80,70 v 1300"
+       transform="matrix(1,0,0,0.96153846,2735.8909,52.69231)"
+       inkscape:label="grade-p2" /><g
+       id="g80"
+       inkscape:label="datas-p2"
+       transform="translate(2685.8909)"><text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         x="129.72798"
+         y="97.071999"
+         id="text75"
+         inkscape:label="text-1500"><tspan
+           sodipodi:role="line"
+           id="tspan75"
+           x="129.72798"
+           y="97.071999"
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none">?</tspan></text><text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         x="591.96796"
+         y="97.071999"
+         id="text76"
+         inkscape:label="text-1600"><tspan
+           sodipodi:role="line"
+           id="tspan76"
+           x="591.96796"
+           y="97.071999"
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none">?</tspan></text><text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         x="1052.832"
+         y="97.071999"
+         id="text77"
+         inkscape:label="text-1700"><tspan
+           sodipodi:role="line"
+           id="tspan77"
+           x="1052.832"
+           y="97.071999"
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none">?</tspan></text><text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         x="1511.968"
+         y="97.071999"
+         id="text78"
+         inkscape:label="text-1800"><tspan
+           sodipodi:role="line"
+           id="tspan78"
+           x="1511.968"
+           y="97.071999"
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none">?</tspan></text><text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         x="1971.5841"
+         y="97.071999"
+         id="text79"
+         inkscape:label="text-1900"><tspan
+           sodipodi:role="line"
+           id="tspan79"
+           x="1971.5841"
+           y="97.071999"
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none">1900</tspan></text><text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Medium Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         x="2432.24"
+         y="97.071999"
+         id="text80"
+         inkscape:label="text-2000"><tspan
+           sodipodi:role="line"
+           x="2432.24"
+           y="97.071999"
+           id="tspan80">2000</tspan></text></g><rect
+       style="fill:none;fill-opacity:0.502973;stroke:#111111;stroke-width:3;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:1"
+       id="rect82"
+       width="2460"
+       height="1383.75"
+       x="2735.8909"
+       y="28.125"
+       inkscape:label="margem-p2" /></g><g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="cronologia-canonica"
-     sodipodi:insensitive="true"
-     style="display:none">
-    <g
+     style="display:inline"
+     sodipodi:insensitive="true"><g
        id="g27"
-       inkscape:label="estilos">
-      <text
+       inkscape:label="estilos"><text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
          x="221.84142"
          y="1097.3124"
          id="text9"
@@ -233,10 +479,9 @@
            sodipodi:role="line"
            id="tspan9"
            x="221.84142"
-           y="1097.3124">Manuelino</tspan></text>
-      <text
+           y="1097.3124">Manuelino</tspan></text><text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
          x="324.92239"
          y="1002.6956"
          id="text10"
@@ -244,10 +489,9 @@
            sodipodi:role="line"
            id="tspan10"
            x="324.92239"
-           y="1002.6956">Renascimento</tspan></text>
-      <text
+           y="1002.6956">Renascimento</tspan></text><text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
          x="370.16309"
          y="908.07886"
          id="text11"
@@ -255,10 +499,9 @@
            sodipodi:role="line"
            id="tspan11"
            x="370.16309"
-           y="908.07886">Maneirismo</tspan></text>
-      <text
+           y="908.07886">Maneirismo</tspan></text><text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
          x="589.90399"
          y="718.84528"
          id="text12"
@@ -266,10 +509,9 @@
            sodipodi:role="line"
            id="tspan12"
            x="589.90399"
-           y="718.84528">Estilo chão</tspan></text>
-      <text
+           y="718.84528">Estilo chão</tspan></text><text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
          x="722.76801"
          y="813.46204"
          id="text13"
@@ -277,10 +519,9 @@
            sodipodi:role="line"
            id="tspan13"
            x="722.76801"
-           y="813.46204">Classicismo erudito</tspan></text>
-      <text
+           y="813.46204">Classicismo erudito</tspan></text><text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
          x="1050"
          y="624.22852"
          id="text14"
@@ -288,10 +529,9 @@
            sodipodi:role="line"
            id="tspan14"
            x="1050"
-           y="624.22852">Barroco nacional</tspan></text>
-      <text
+           y="624.22852">Barroco nacional</tspan></text><text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
          x="1207.5199"
          y="529.61169"
          id="text15"
@@ -299,10 +539,9 @@
            sodipodi:role="line"
            id="tspan15"
            x="1207.5199"
-           y="529.61169">Barroco joanino</tspan></text>
-      <text
+           y="529.61169">Barroco joanino</tspan></text><text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
          x="1332.1919"
          y="434.99493"
          id="text18"
@@ -310,10 +549,9 @@
            sodipodi:role="line"
            id="tspan18"
            x="1332.1919"
-           y="434.99493">Barroco tardio</tspan></text>
-      <text
+           y="434.99493">Barroco tardio</tspan></text><text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
          x="1279.84"
          y="766.15369"
          id="text19"
@@ -321,10 +559,9 @@
            sodipodi:role="line"
            id="tspan19"
            x="1279.84"
-           y="766.15369">Pombalismo</tspan></text>
-      <text
+           y="766.15369">Pombalismo</tspan></text><text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
          x="1460.7104"
          y="676.99518"
          id="text20"
@@ -332,10 +569,9 @@
            sodipodi:role="line"
            id="tspan20"
            x="1460.7104"
-           y="676.99518">Rocaille</tspan></text>
-      <text
+           y="676.99518">Rocaille</tspan></text><text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
          x="1460.448"
          y="855.66876"
          id="text21"
@@ -343,10 +579,9 @@
            sodipodi:role="line"
            id="tspan21"
            x="1460.448"
-           y="855.66876">Neoclássico palladiano</tspan></text>
-      <text
+           y="855.66876">Neoclássico palladiano</tspan></text><text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
          x="1556.8579"
          y="961.95184"
          id="text22"
@@ -354,10 +589,9 @@
            sodipodi:role="line"
            id="tspan22"
            x="1556.8579"
-           y="961.95184">Neoclássico bolonês</tspan></text>
-      <text
+           y="961.95184">Neoclássico bolonês</tspan></text><text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
          x="1712.1599"
          y="1044.9877"
          id="text23"
@@ -365,10 +599,9 @@
            sodipodi:role="line"
            id="tspan23"
            x="1712.1599"
-           y="1044.9877">Romantismo</tspan></text>
-      <text
+           y="1044.9877">Romantismo</tspan></text><text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
          x="1896.9686"
          y="1128.5781"
          id="text24"
@@ -376,10 +609,9 @@
            sodipodi:role="line"
            id="tspan24"
            x="1896.9686"
-           y="1128.5781">Beaux-Arts</tspan></text>
-      <text
+           y="1128.5781">Beaux-Arts</tspan></text><text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
          x="2033.0262"
          y="1002.973"
          id="text25"
@@ -387,10 +619,9 @@
            sodipodi:role="line"
            id="tspan25"
            x="2033.0262"
-           y="1002.973">Arte Nova</tspan></text>
-      <text
+           y="1002.973">Arte Nova</tspan></text><text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
          x="2059.1331"
          y="1217.6726"
          id="text26"
@@ -398,10 +629,9 @@
            sodipodi:role="line"
            id="tspan26"
            x="2059.1331"
-           y="1217.6726">Estilo nacional</tspan></text>
-      <text
+           y="1217.6726">Estilo nacional</tspan></text><text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:0.4"
          x="2205.4399"
          y="239.08942"
          id="text27"
@@ -409,19 +639,15 @@
            sodipodi:role="line"
            id="tspan27"
            x="2205.4399"
-           y="239.08942">Modernismo(s)</tspan></text>
-    </g>
-    <g
+           y="239.08942">Modernismo(s)</tspan></text></g><g
        id="g31"
-       inkscape:label="grupo-tradicional">
-      <path
+       inkscape:label="grupo-tradicional"><path
          style="fill:#cc0000;fill-opacity:1;stroke:#cc0000;stroke-width:5;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:1;marker-start:url(#ArrowTriangleStylized);marker-end:url(#marker31)"
          d="m 281.51602,328.24283 h 1328.13438"
          id="path29"
-         inkscape:label="linha-tradicional" />
-      <text
+         inkscape:label="linha-tradicional" /><text
          xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:1"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:1"
          x="947.27917"
          y="292.99341"
          id="text31"
@@ -429,25 +655,103 @@
            sodipodi:role="line"
            id="tspan31"
            x="947.27917"
-           y="292.99341">Arquitetura tradicional luso-brasileira</tspan></text>
-    </g>
-  </g>
-  <g
+           y="292.99341">Arquitetura tradicional luso-brasileira</tspan></text></g></g><g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="livros"><image
+       width="1600"
+       height="747"
+       preserveAspectRatio="xMidYMid"
+       style="image-rendering:optimizeSpeed"
+       xlink:href="../assets/media/inquerito.jpg"
+       id="image1-2"
+       x="3106.6206"
+       y="118.87393"
+       inkscape:label="inquerito" /><image
+       width="412.44388"
+       height="617.97614"
+       preserveAspectRatio="xMidYMid"
+       style="stroke-width:0.724947;image-rendering:optimizeSpeed"
+       xlink:href="../assets/media/baganha.jpg"
+       id="image1-7"
+       x="4655.6831"
+       y="150.66"
+       inkscape:label="baganha" /><image
+       width="468.62665"
+       height="692.97852"
+       preserveAspectRatio="xMidYMid"
+       style="stroke-width:1.53925;image-rendering:optimizeSpeed"
+       xlink:href="../assets/media/valdevez.jpg"
+       id="image1-5"
+       x="4010.4431"
+       y="701.95404"
+       inkscape:label="valdevez" /><image
+       width="496.11984"
+       height="496.11984"
+       preserveAspectRatio="xMidYMid"
+       style="stroke-width:0.530195;image-rendering:optimizeSpeed"
+       xlink:href="../assets/media/barata.jpg"
+       id="image1-18"
+       x="3584.6838"
+       y="617.81403"
+       inkscape:label="barata" /><image
+       width="395.73047"
+       height="587.1012"
+       preserveAspectRatio="xMidYMid"
+       style="stroke-width:0.369544;image-rendering:optimizeSpeed"
+       xlink:href="../assets/media/martins.jpg"
+       id="image1"
+       x="2776.595"
+       y="186.69971"
+       inkscape:label="martins" /><image
+       width="466.66666"
+       height="616"
+       preserveAspectRatio="xMidYMid"
+       style="image-rendering:optimizeSpeed"
+       xlink:href="../assets/media/caldas.jpg"
+       id="image1-1"
+       x="2865.8259"
+       y="695.94623"
+       inkscape:label="caldas" /><image
+       width="457.7883"
+       height="629.25085"
+       preserveAspectRatio="xMidYMid"
+       style="stroke-width:1.6019;image-rendering:optimizeSpeed"
+       xlink:href="../assets/media/mascarenhas.jpg"
+       id="image1-4"
+       x="3227.2393"
+       y="745"
+       inkscape:label="mascarenhas" /><image
+       width="428.58868"
+       height="656.91132"
+       preserveAspectRatio="xMidYMid"
+       style="stroke-width:1.32304;image-rendering:optimizeSpeed"
+       xlink:href="../assets/media/sambricio.jpg"
+       id="image1-6"
+       x="4441.3887"
+       y="655.03491"
+       inkscape:label="sambricio" /><image
+       width="370.98822"
+       height="568.43134"
+       preserveAspectRatio="xMidYMid"
+       style="stroke-width:0.281195;image-rendering:optimizeSpeed"
+       xlink:href="../assets/media/weimer.jpg"
+       id="image1-50"
+       x="4804.4854"
+       y="821.32812"
+       inkscape:label="weimer" /></g><g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="cronologia-vernacular">
-    <g
+     inkscape:label="cronologia-vernacular"><g
        id="g32"
        inkscape:label="grupo-tradicional"
-       transform="translate(855.17855)">
-      <path
+       transform="translate(6233.8227)"><path
          style="fill:#cc0000;fill-opacity:1;stroke:#cc0000;stroke-width:5;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:1;marker-start:url(#ArrowTriangleStylized);marker-end:url(#marker31)"
          d="m 424.82145,328.24283 h 941.46515"
          id="path32"
-         inkscape:label="linha-tradicional" />
-      <text
+         inkscape:label="linha-tradicional" /><text
          xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:1"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Italic';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-miterlimit:9.99883;stroke-opacity:1"
          x="897.25"
          y="292.99341"
          id="text32"
@@ -455,153 +759,121 @@
            sodipodi:role="line"
            id="tspan32"
            x="897.25"
-           y="292.99341">Arquitetura tradicional luso-brasileira</tspan></text>
-      <path
-         style="fill:#cc0000;fill-opacity:1;stroke:#cc0000;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:9.99883;stroke-dasharray:30,10;stroke-dashoffset:0;stroke-opacity:1"
+           y="292.99341">Arquitetura tradicional luso-brasileira</tspan></text><path
+         style="fill:#cc0000;fill-opacity:1;stroke:#cc0000;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:9.99883;stroke-dasharray:30, 10;stroke-dashoffset:0;stroke-opacity:1"
          d="m 1318.7262,328.24283 h 308.0952"
          id="path33"
-         inkscape:label="linha-tracejada" />
-    </g>
-    <text
+         inkscape:label="linha-tracejada" /></g><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:9.99883;stroke-dasharray:30, 10;stroke-dashoffset:0;stroke-opacity:1"
-       x="1280.192"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:9.99883;stroke-dasharray:30, 10;stroke-dashoffset:0;stroke-opacity:1"
+       x="6658.8359"
        y="419.64651"
        id="text33"
        inkscape:label="text-normas-1700"><tspan
          sodipodi:role="line"
          id="tspan33"
-         x="1280.192"
+         x="6658.8359"
          y="419.64651">Novas regulações</tspan><tspan
          sodipodi:role="line"
-         x="1280.192"
+         x="6658.8359"
          y="499.64651"
-         id="tspan34">edilícias</tspan></text>
-    <text
+         id="tspan34">edilícias</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:9.99883;stroke-dasharray:30, 10;stroke-dashoffset:0;stroke-opacity:1"
-       x="2190.4568"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;display:inline;fill:#111111;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:9.99883;stroke-dasharray:30, 10;stroke-dashoffset:0;stroke-opacity:1"
+       x="7569.1006"
        y="419.64651"
        id="text36"
        inkscape:label="text-normas-1900"><tspan
          sodipodi:role="line"
          id="tspan35"
-         x="2190.4568"
+         x="7569.1006"
          y="419.64651">Novas regulações</tspan><tspan
          sodipodi:role="line"
-         x="2190.4568"
+         x="7569.1006"
          y="499.64651"
-         id="tspan36">edilícias</tspan></text>
-    <text
+         id="tspan36">edilícias</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:9.99883;stroke-dasharray:30, 10;stroke-dashoffset:0;stroke-opacity:1"
-       x="1280.192"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:9.99883;stroke-dasharray:30, 10;stroke-dashoffset:0;stroke-opacity:1"
+       x="6658.8359"
        y="640.72296"
        id="text38"
        inkscape:label="text-frontal"><tspan
          sodipodi:role="line"
-         x="1280.192"
+         x="6658.8359"
          y="640.72296"
-         id="tspan38">Frontal</tspan></text>
-    <text
+         id="tspan38">Frontal</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:9.99883;stroke-dasharray:30, 10;stroke-dashoffset:0;stroke-opacity:1"
-       x="1280.192"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:9.99883;stroke-dasharray:30, 10;stroke-dashoffset:0;stroke-opacity:1"
+       x="6658.8359"
        y="1020.0005"
        id="text39"
        inkscape:label="text-frontal"><tspan
          sodipodi:role="line"
-         x="1280.192"
+         x="6658.8359"
          y="1020.0005"
          id="tspan39">Classicismo</tspan><tspan
          sodipodi:role="line"
-         x="1280.192"
+         x="6658.8359"
          y="1100.0005"
-         id="tspan40">nacionalizado</tspan></text>
-    <text
+         id="tspan40">nacionalizado</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:9.99883;stroke-dasharray:30, 10;stroke-dashoffset:0;stroke-opacity:1"
-       x="2189.9448"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:9.99883;stroke-dasharray:30, 10;stroke-dashoffset:0;stroke-opacity:1"
+       x="7568.5889"
        y="640.72296"
        id="text41"
        inkscape:label="text-frontal"><tspan
          sodipodi:role="line"
-         x="2189.9448"
+         x="7568.5889"
          y="640.72296"
-         id="tspan41">Concreto / betão</tspan></text>
-    <text
+         id="tspan41">Concreto / betão</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:9.99883;stroke-dasharray:30, 10;stroke-dashoffset:0;stroke-opacity:1"
-       x="2191.1672"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:9.99883;stroke-dasharray:30, 10;stroke-dashoffset:0;stroke-opacity:1"
+       x="7569.8115"
        y="1020.0005"
        id="text43"
        inkscape:label="text-frontal"><tspan
          sodipodi:role="line"
-         x="2191.1672"
+         x="7569.8115"
          y="1020.0005"
          id="tspan42">Modernismo</tspan><tspan
          sodipodi:role="line"
-         x="2191.1672"
+         x="7569.8115"
          y="1100.0005"
-         id="tspan43">nacionalizado</tspan></text>
-    <text
+         id="tspan43">nacionalizado</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:9.99883;stroke-dasharray:30, 10;stroke-dashoffset:0;stroke-opacity:1"
-       x="1280.192"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:9.99883;stroke-dasharray:30, 10;stroke-dashoffset:0;stroke-opacity:1"
+       x="6658.8359"
        y="782.15601"
        id="text45"
        inkscape:label="text-frontal"><tspan
          sodipodi:role="line"
-         x="1280.192"
+         x="6658.8359"
          y="782.15601"
          id="tspan45">Módulo de</tspan><tspan
          sodipodi:role="line"
-         x="1280.192"
-         y="862.15594"
-         id="tspan46">40 palmos</tspan></text>
-    <text
+         x="6658.8359"
+         y="862.15601"
+         id="tspan46">40 palmos</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64px;font-family:'Cormorant Garamond';-inkscape-font-specification:'Cormorant Garamond, Light';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:9.99883;stroke-dasharray:30, 10;stroke-dashoffset:0;stroke-opacity:1"
-       x="2190.5273"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:oldstyle-nums proportional-nums;text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:9.99883;stroke-dasharray:30, 10;stroke-dashoffset:0;stroke-opacity:1"
+       x="7569.1719"
        y="782.15601"
        id="text48"
        inkscape:label="text-frontal"><tspan
          sodipodi:role="line"
-         x="2190.5273"
+         x="7569.1719"
          y="782.15601"
          id="tspan48">Módulos</tspan><tspan
          sodipodi:role="line"
-         x="2190.5273"
-         y="862.15594"
-         id="tspan49">métricos</tspan></text>
-  </g>
-  <metadata
-     id="metadata2">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>Pedro P. Palazzo</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <dc:language>pt</dc:language>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by/4.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-</svg>
+         x="7569.1719"
+         y="862.15601"
+         id="tspan49">métricos</tspan></text></g><metadata
+     id="metadata2"><rdf:RDF><cc:Work
+         rdf:about=""><dc:creator><cc:Agent><dc:title>Pedro P. Palazzo</dc:title></cc:Agent></dc:creator><dc:language>pt</dc:language><cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/"><cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" /><cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" /><cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /></cc:License></rdf:RDF></metadata></svg>
