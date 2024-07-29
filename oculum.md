@@ -12,55 +12,65 @@ authors:
 # e resultados/conclusões em até 250 palavras. Em seguida, devem ser
 # incluídas 5 palavras-chave separadas por vírgulas.
 abstract: |
-  A periodização canônica na história da arquitetura tradicional
-  luso-brasileira é congruente com a existência do império atlântico
-  português, ou quiçá, situada entre os marcos
-  que foram as ordenações Manuelinas de 1513 e a extinção das
-  corporações pelas Constituições liberais do século XIX.
-  Essa periodização, aparentemente assente em eventos e
-  ciclos pertinentes para a história da construção, na verdade
-  racionaliza argumentos advindos da história política e
-  econômica. Ela também
-  não dá a devida ênfase às significativas trocas entre os ofícios
-  vernaculares e a atuação erudita dos engenheiros e
-  arquitetos. O conceito de tradição serve, então, para
-  enquadrar a construção vernacular luso-brasileira
-  na sua diversidade regional e transformação diacrônica. A tradição é
-  incompatível com uma linha do tempo determinista onde cada época é
-  representada tão somente pelas suas manifestações marcantes. Com
-  este conceito de tradição, dá-se a ver um ciclo de
-  transformações na construção vernacular luso-brasileira que
-  é mais recente do que o
-  recorte convencional da Idade Moderna faz parecer. Na nova
-  periodização proposta, esta tradição se inicia em meados do século
-  XVIII e prossegue pelo século XIX. Elementos da arquitetura vernacular
-  tradicional continuam a ser empregados, inclusive, durante o processo
-  de industrialização e crescimento urbano do início do século XX.
+  Este artigo propõe um conceito de arquitetura tradicional
+  luso-brasileira com base na caracterização da construção vernacular
+  e no questionamento à cronologia canônica baseada na história
+  político-econômica e dos estilos artísticos.
+  No centro da problemática aqui levantada está o diálogo entre os
+  saberes vernaculares e a atuação profissional erudita,
+  numa temporalidade diferente daquela marcada pelos monumentos que
+  sinalizavam a identidade nacional na historiografia dos séculos
+  XIX e XX.
+  Em oposição à periodização convencional, que situava o cerne
+  da tradição luso-brasileira no período colonial, esta discussão
+  privilegia o recorte de meados do século XVIII ao início do XX
+  como época de consolidação de saberes tradicionais partilhados
+  entre as esferas vernacular e erudita.
+  Três elementos principais subsidiam essa proposta:
+  o desenvolvimento e difusão do módulo de lotes com 40 palmos
+  de testada do vernáculo alentejano para o urbanismo iluminista e
+  daí para a produção da morada econômica no início do século XX;
+  a revisão crítica do conhecimento histórico-arqueológico acerca da
+  cronologia dos sistemas construtivos conhecidos como "frontais",
+  especialmente na sua forma engastada nas fundações; e
+  a consolidação de uma tipologia doméstica unificada entre o meio
+  rural e o urbano, com a difusão da planta típica da morada urbana
+  de frente larga para as plantas de casas de fazenda.
+  Esse conceito de tradição não é totalmente congruente com aquele
+  dos movimentos tradicionalistas do passado ou do presente,
+  embora ofereça um subsídio para se discutir a relevância tanto do
+  recorte cronológico como ferramenta analítica, quanto da
+  tradição como instrumento operativo da arquitetura.
 
   **Palavras-chave:** Arquitetura tradicional, construção
   luso-brasileira, historiografia, Idade Moderna, período Pombalino.
 
   ## Abstract
 
-  The canonical periodization in the history of traditional Luso-Brazilian
-  architecture maps to the duration of the Portuguese Atlantic Empire,
-  perhaps between the milestones of the Manueline Ordinances of 1513
-  and the abolition of guilds by the liberal Constitutions of the 19th century.
-  This periodization, seemingly based on events and cycles relevant to the
-  history of construction, actually rationalizes arguments derived from
-  political and economic history. It also fails to stress the significant
-  exchanges between vernacular crafts and the erudite actions of engineers and
-  architects. The concept of tradition is helpful, therefore, in framing
-  Luso-Brazilian vernacular construction in its regional diversity and
-  transformation over time. Tradition is at odds with a deterministic
-  timeline where each era is treated as a monolithic *Zeitgeist*.
-  With this concept of tradition, one begins to see a cycle of
-  transformations in Luso-Brazilian vernacular construction, more recent
-  than the conventional bounds of the Early Modern Age. In this new
-  periodization, this tradition begins in the mid-18th century and
-  continues through the 19th century. Elements of traditional vernacular
-  architecture even persist throughout the industrialization and urban
-  growth in the early 20th century.
+  This article puts forward an understanding of traditional Luso-Brazilian
+  architecture based on vernacular building while questioning
+  canonical timelines drawn from political, economic, and stylistic
+  histories.
+  At the core of this task is the interplay between vernacular knowledge
+  and professional erudition on a different timeline than that of the
+  Early Modern milestones.
+  As opposed to conventional periodization, for which the traditional
+  core of this architecture belonged to the colonial period,
+  this novel approach considers the time frame from the mid-18th to the
+  early 20th century as the period in which a shared world of
+  vernacular and learned practices took shape.
+  Three aspects chiefly support this thesis:
+  the growth of the 40-span lot frontages from Alentejo vernacular to
+  Enlightenment town plans and to early 20th-century affordable houses;
+  a critical assessment of the state of the art regarding the timeline
+  of wood-framed masonry construction; and
+  the settling of a domestic typology shared between rural and urban
+  houses, with townhouse plans drifting into the design of farmhouses.
+  This concept of tradition does not overlap fully with that of the
+  traditionalist movements, past or present, though it provides
+  a framework to discuss the relevance of periodization as
+  an analytical tool as well as of tradition as an operative
+  tool of architectural practice.
   
   **Keywords:** Traditional architecture, Luso-Brazilian construction,
   Historiography, Early Modern Age, Pombaline period.
