@@ -102,7 +102,8 @@ luso-brasileira é congruente com a existência do império atlântico
 português (1415--1822), ou quiçá, mais a propósito dos ofícios da
 construção, situada entre os marcos normativos que foram as ordenações
 Manuelinas de 1513 e a extinção das corporações de ofício pelas
-Constituições liberais de 1824 (Brasil) e 1836 (Portugal). Não por
+Constituições liberais de 1824 (Brasil) e 1836 (Portugal).
+Não por
 acaso, esses recortes coincidem com a especialização cronológica de
 vários dentre os mais ilustres historiadores da arquitetura
 luso-brasileira. Esta cronologia é reforçada, ainda, pelo escasso
@@ -110,15 +111,23 @@ interesse historiográfico na construção vernacular do hiato entre o
 final do Antigo Regime e o dealbar da industrialização em Portugal e no
 Brasil, a partir de 1850--1870.
 
-Essa periodização, aparentemente assente em eventos e ciclos pertinentes
-para a história da construção, na verdade mais propriamente racionaliza
-argumentos advindos da história política e da economia. Mais além, a
+O recorte no Atlântico se justifica pelo caráter diferenciado
+da arquitetura luso-indiana, tal como descrito por
+@carita:1999arquitectura e @silveira:1999casa-patio,
+embora os cruzamentos técnico-profissionais evidenciados por
+@fernandes:1998india e @donato:2009cidade no âmbito do urbanismo
+sejam notáveis.
+No entanto,
+a periodização, aparentemente assente em eventos e ciclos pertinentes
+para a história da construção, mais propriamente racionaliza
+argumentos da história política e da economia. Mais além, a
 narrativa global baseada em tal periodização não dá a devida ênfase às
 significativas trocas entre os ofícios vernaculares e a atuação erudita
 dos engenheiros militares e arquitetos. Entretanto, trabalhos recentes
 (e outros nem tanto) com focos temáticos mais específicos oferecem
 olhares alternativos para a tradição vernacular e a sua continuidade e
-transformação ao longo do tempo.
+transformação ao longo do tempo
+[@baganha:2016arquitetura; @garcia:2018projecto; @garcia:2023project].
 
 Nesse âmbito, o conceito de tradição adquire crucial importância para se
 enquadrar a construção vernacular luso-brasileira na sua diversidade
