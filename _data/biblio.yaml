@@ -166,6 +166,24 @@ references:
   type: book
   URL: https://repositorio.iscte-iul.pt/handle/10071/12359
 
+- id: baganha:2016arquitetura
+  author:
+    - family: Baganha
+      given: José
+  call-number: NA1329.A43 B33 2016
+  citation-key: baganha:2016arquitetura
+  event-place: Lisboa
+  ISBN: 978-972-44-1887-2
+  issued:
+    - year: 2016
+  language: por
+  number-of-pages: '231'
+  publisher: Edições 70
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: A arquitetura popular dos povoados do Alentejo
+  type: book
+
 - id: barreto:1947casas11
   author:
     - family: Barreto
@@ -1011,6 +1029,54 @@ references:
   type: thesis
   URL: http://www.teses.usp.br/teses/disponiveis/16/16133/tde-02072013-120148/
 
+- id: donato:2009cidade
+  abstract: >-
+    O estudo consiste de uma análise de documentos iconográficos referentes a
+    cinco cidades portuguesas Luanda, em Angola, Ilha de Moçambique, em
+    Moçambique, Salvador, no Brasil, Goa, na Índia e Macau, na China durante
+    seus respectivos períodos coloniais. Por meio de comparação dos núcleos
+    urbanos iniciais, este trabalho pretende reconhecer Lisboa como modelo na
+    criação de novas cidades durante do século XVI, além de identificar padrões
+    na estruturação e consolidação dos centros urbanos nas Províncias
+    Ultramarinas. Dentre os contextos políticos, econômicos e religiosos que
+    impulsionaram a expansão marítima portuguesa, a necessidade de consolidação
+    e de unificação do Reino levou os reis de Portugal a adotar políticas que
+    resultaram na criação de um vasto e próspero Império que se espalhou por
+    todo o globo. Teriam sido os continentes, os oceanos e as longas distâncias
+    barreiras à unidade cultural lusófona? Supondo que Lisboa tivesse de fato
+    sido o modelo na implantação dos primeiros núcleos urbanos, quais eram as
+    características comuns das novas cidades fundadas? Embora as cidades
+    ultramarinas estivessem geograficamente afastadas umas das outras e de
+    Lisboa, através da ação dos navegadores se consolidou, nas referidas
+    cidades, um Império unificado por uma linguagem urbanística e arquitetônica
+    comum, que era um reflexo da imagem de Lisboa.
+    _________________________________________________________________________________
+    ABSTRACT
+  accessed:
+    - year: 2020
+      month: 5
+      day: 15
+  author:
+    - family: Donato
+      given: Lila
+  citation-key: donato:2009cidade
+  event-place: Brasília
+  genre: Dissertação (Mestrado em Arquitetura e Urbanismo)
+  issued:
+    - year: 2009
+      month: 6
+  language: por
+  license: Acesso Aberto
+  publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
+  publisher-place: Brasília
+  source: repositorio.unb.br
+  title: >-
+    A cidade portuguesa nas províncias ultramarinas : uma análise iconográfica
+    comparativa : Ilha de Moçambique, Goa, Salvador, Macau e Luanda
+  title-short: A cidade portuguesa nas províncias ultramarinas
+  type: thesis
+  URL: https://repositorio.unb.br/handle/10482/4181
+
 - id: dors:1936barroco
   author:
     - family: Ors
@@ -1298,6 +1364,26 @@ references:
   title: O pombalismo e o romantismo
   type: book
 
+- id: garcia:2018projecto
+  citation-key: garcia:2018projecto
+  editor:
+    - family: García Hermida
+      given: Alejandro
+  event-place: Lisboa
+  ISBN: 978-989-98624-6-3
+  issued:
+    - year: 2018
+  language: pt
+  publisher: Fundação Serra Henriques
+  publisher-place: Lisboa
+  title: >-
+    Um projecto de futuro para a Beirã (Marvão): baseado na arquitectura e
+    urbanismo de tradição alentejana
+  title-short: Um projecto de futuro para a Beirã
+  type: book
+  URL: >-
+    https://www.premiorafaelmanzano.com/wp-content/uploads/2018/12/Livro_FSH_Marvao-1.pdf
+
 - id: garcia:2023nueva
   accessed:
     - year: 2023
@@ -1320,6 +1406,34 @@ references:
   title-short: Nueva arquitectura tradicional
   type: book
   URL: https://intbauspain.com/publicaciones/
+
+- id: garcia:2023projecto
+  accessed:
+    - year: 2023
+      month: 10
+      day: 17
+  citation-key: garcia:2023projecto
+  editor:
+    - family: García Hermida
+      given: Alejandro
+    - family: Gil Fernández
+      given: Guillermo
+    - family: Gómez-Gordo Villa
+      given: Rebeca
+  event-place: Lisboa
+  ISBN: 978-989-33-4329-6
+  issued:
+    - year: 2023
+  language: pt
+  publisher: Fundação Serra Henriques
+  publisher-place: Lisboa
+  source: dialnet.unirioja.es
+  title: >-
+    Um projecto de futuro para Lajes do Pico: com base na arquitectura e
+    urbanismo da tradição local
+  title-short: Um projecto de futuro para Lajes do Pico
+  type: book
+  URL: https://www.premiorafaelmanzano.com/pt-pt/publicacoes/
 
 - id: giedion:1961space
   author:
@@ -1359,6 +1473,25 @@ references:
   title: 'A cultura arquitectónica em Portugal: 1880-1920: tradição e inovação'
   title-short: A cultura arquitectónica em Portugal
   type: thesis
+
+- id: gonzagaduque:1995arte
+  author:
+    - family: Gonzaga Duque
+      given: Luís
+  citation-key: gonzagaduque:1995arte
+  editor:
+    - family: Chiarelli
+      given: Tadeu
+  event-place: Campinas
+  ISBN: 85-85725-14-1 978-85-85725-14-3
+  issued:
+    - year: 1995
+  language: pt
+  publisher: Mercado de Letras
+  publisher-place: Campinas
+  source: Open WorldCat
+  title: A arte brasileira
+  type: book
 
 - id: goodwin:1943brazil
   abstract: >-

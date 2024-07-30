@@ -1,16 +1,15 @@
 ---
 title: "Repensar a periodização da construção vernacular luso-brasileira: ou, como a nossa arquitetura tradicional é mais recente do que parece[^1]"
-subtitle: "Rethinking the periodization of vernacular Luo-Brazilian construction: or, why our traditional architecture is more recent than it seems"
-thanks: "Pesquisa fomentada por um auxílio do XXXXXXX"
-authors:
-- name: "Pedro P. Palazzo"
-  affiliation: >
-    Departamento de Teoria e História da Arquitetura e Urbanismo,
-    Universidade de Brasília
-  email: "palazzo@unb.br"
-# O resumo deve incluir uma breve introdução, objetivos, metodologia
-# e resultados/conclusões em até 250 palavras. Em seguida, devem ser
-# incluídas 5 palavras-chave separadas por vírgulas.
+subtitle: "Rethinking the periodization of vernacular Luso-Brazilian construction: or, why our traditional architecture is more recent than it seems"
+author: "Pedro Paulo Palazzo"
+date: >-
+  ORCiD [0000-0002-0187-774X](https://orcid.org/0000-0002-0187-774X) |
+  Universidade de Brasília |
+  Faculdade de Arquitetura e Urbanismo |
+  Departamento de Teoria e História |
+  Campus Darcy Ribeiro, ICC Norte Bloco A |
+  Brasília DF 70910--900 |
+  Email: <palazzo@unb.br>
 abstract: |
   Este artigo propõe um conceito de arquitetura tradicional
   luso-brasileira com base na caracterização da construção vernacular
@@ -129,7 +128,7 @@ dos engenheiros militares e arquitetos. Entretanto, trabalhos recentes
 (e outros nem tanto) com focos temáticos mais específicos oferecem
 olhares alternativos para a tradição vernacular e a sua continuidade e
 transformação ao longo do tempo
-[@baganha:2016arquitetura; @garcia:2018projecto; @garcia:2023project].
+[@baganha:2016arquitetura; @garcia:2018projecto; @garcia:2023projecto].
 
 Outrossim, o conceito de vernacular no universo cultural luso-brasileiro
 é ele próprio legado de controvérsias teóricas.
@@ -266,7 +265,7 @@ A bandeira identitária assim atribuída ao descompasso cronológico
 serve como campo neutro onde se mediam os
 interesses conflitantes dos arquitetos e investigadores
 progressistas das décadas de 1930 a 60 e das ditaduras de
-direita em busca de legitimação cultural. Eliana @sousa:2016history
+direita em busca de legitimação cultural. Eliana @sousa:2016history4
 mostra como o cachê de simplicidade do estilo chão transita desde a
 ideologia salazarista do "português suave" até a ética da "economia de
 meios" promovida pelos arquitetos e críticos de esquerda.
@@ -339,7 +338,7 @@ tônica de vários textos intitulados "arquitetura popular", de
 No Brasil, há uma proposta de sequência cronológica famosa para a
 arquitetura popular, porém baseada em exemplos anedóticos. Trata-se do
 esquema de fachadas domésticas proposto por Lucio Costa no seu artigo
-"Documentação necessária" [-@costa:1937documentacao], onde ele sugere
+"Documentação necessária" [-@costa:1937documentacao1], onde ele sugere
 que a história da arquitetura vernacular consistia numa evolução
 determinista à janela-fita corbusiana do século XX (@fig:documenta]).
 Inconsequente do ponto de vista historiográfico e arqueológico, a
@@ -375,7 +374,7 @@ alegando incompatibilidade entre as formas oriundas do mundo rural
 tradicional e as necessidades e possibilidades da vida urbana moderna.
 Nesse sentido, as limitações operacionais e filológicas que impuseram,
 segundo @ollero:2010depois, uma organização puramente geográfica à
-publicação resultante do Inquérito [@arquitectura:1961] foram
+publicação resultante do Inquérito [@amaral:1961arquitectura] foram
 transformadas num trunfo para substituir a hegemonia da Casa Portuguesa
 pela da "arquitetura eficiente" contemporânea.
 
@@ -612,7 +611,7 @@ XVIII, o terceiro fator em causa aponta para a consolidação e unificação
 de uma tipologia doméstica ao longo do século XIX.
 
 Nas casas rurais portuguesas, uma divisão regional consagrada desde o
-Inquérito [-@arquitectura:1961] até investigações mais recentes
+Inquérito [-@amaral:1961arquitectura] até investigações mais recentes
 [@costa:2015arquitetura] consistia na composição em torno de um ou mais
 salões grandes e alongados, eventualmente com alpendre, no Norte, por
 oposição à tipologia meridional e insular com uma malha de células de
