@@ -1,5 +1,5 @@
 ---
-title: "Repensar a periodização da construção vernacular luso-brasileira: ou, como a nossa arquitetura tradicional é mais recente do que parece"
+title: "Repensar a periodização da construção vernacular luso-brasileira: ou, como a nossa arquitetura tradicional é mais recente do que parece[^1]"
 subtitle: "Rethinking the periodization of vernacular Luo-Brazilian construction: or, why our traditional architecture is more recent than it seems"
 thanks: "Pesquisa fomentada por um auxílio do XXXXXXX"
 authors:
@@ -21,15 +21,14 @@ abstract: |
   numa temporalidade diferente daquela marcada pelos monumentos que
   sinalizavam a identidade nacional na historiografia dos séculos
   XIX e XX.
-  Em oposição à periodização convencional, que situava o cerne
-  da tradição luso-brasileira no período colonial, esta discussão
-  privilegia o recorte de meados do século XVIII ao início do XX
+  Em oposição à periodização convencional, a história das técnicas
+  e das regulações edilícias permite situar
+  o recorte de meados do século XVIII ao início do XX
   como época de consolidação de saberes tradicionais partilhados
   entre as esferas vernacular e erudita.
   Três elementos principais subsidiam essa proposta:
-  o desenvolvimento e difusão do módulo de lotes com 40 palmos
-  de testada do vernáculo alentejano para o urbanismo iluminista e
-  daí para a produção da morada econômica no início do século XX;
+  o desenvolvimento e difusão do módulo de testadas com 40 palmos
+  do vernáculo alentejano para o urbanismo iluminista e além;
   a revisão crítica do conhecimento histórico-arqueológico acerca da
   cronologia dos sistemas construtivos conhecidos como "frontais",
   especialmente na sua forma engastada nas fundações; e
@@ -54,14 +53,14 @@ abstract: |
   At the core of this task is the interplay between vernacular knowledge
   and professional erudition on a different timeline than that of the
   Early Modern milestones.
-  As opposed to conventional periodization, for which the traditional
-  core of this architecture belonged to the colonial period,
-  this novel approach considers the time frame from the mid-18th to the
+  As opposed to conventional periodization,
+  the history of building practices and regulations suggests
+  a time frame from the mid-18th to the
   early 20th century as the period in which a shared world of
   vernacular and learned practices took shape.
   Three aspects chiefly support this thesis:
   the growth of the 40-span lot frontages from Alentejo vernacular to
-  Enlightenment town plans and to early 20th-century affordable houses;
+  Enlightenment town plans and beyond;
   a critical assessment of the state of the art regarding the timeline
   of wood-framed masonry construction; and
   the settling of a domestic typology shared between rural and urban
@@ -81,6 +80,9 @@ crossrefYaml: _data/pandoc-crossref.yaml
 lang        : pt-BR
 reference-section-title: "Referências bibliográficas"
 ---
+
+[^1]: Este trabalho foi fomentado por um auxílio à
+    execução de pesquisas da Universidade de Brasília.
 
 # Introdução #
 
@@ -129,10 +131,39 @@ olhares alternativos para a tradição vernacular e a sua continuidade e
 transformação ao longo do tempo
 [@baganha:2016arquitetura; @garcia:2018projecto; @garcia:2023project].
 
-Nesse âmbito, o conceito de tradição adquire crucial importância para se
+Outrossim, o conceito de vernacular no universo cultural luso-brasileiro
+é ele próprio legado de controvérsias teóricas.
+Quer à fantasia duma identidade arquitetônica unitária pelos
+tradicionalistas e modernistas da primeira metade do século XX
+[@mello:2007ricardo; @milheiro:2005construcao],
+quer à afirmação peremptória duma diversidade irredutível na segunda
+metade do mesmo século pelos autores do Inquérito em Portugal
+[@caldas:2000introducao] e
+pelos protagonistas da renovação ideológica do IPHAN no Brasil
+[@schlee:2018revista],
+falta o critério fundamental do que seja efetivamente uma
+tradição vernacular.
+Na bibliografia de língua portuguesa, o termo "vernacular" é amiúde
+usado de modo intercambiável com o mais frequente termo "popular",
+(vide a nomenclatura híbrida dos Seminários de Arquitetura Vernácula / Popular)
+e remete quase exclusivamente à produção do espaço doméstico e dos seus
+anexos utilitários.
+Nesse sentido, aponta mais para a ação do artífice popular em geral
+do que para o produto resultante em sua especificidade regional.
+De resto, circunscrever com rigidez o(s) vernacular(es)
+luso-brasileiro(s) seria desconsiderar a circulação de
+saberes e práticas populares tanto no rumo da expansão colonizadora
+quanto em sentido inverso, na bagagem cultural dos torna-viagem.
+
+Daí que o conceito de tradição adquire crucial importância para se
 enquadrar a construção vernacular luso-brasileira na sua diversidade
-regional e transformação diacrônica. A tradição é incompatível com uma
-linha do tempo determinista onde cada época é representada tão somente
+regional e transformação diacrônica.
+Mais do que frutos deterministicamente enraizados num lugar,
+as nossas arquiteturas vernaculares são expressões dessa tradição que
+viaja, se transforma e e hibridiza,
+mas sobretudo que se acumula no tempo.
+A tradição é incompatível com uma
+linha do tempo inexorável onde cada época é representada tão somente
 pelas suas manifestações sincrônicas. Como conceituou Walter
 @rossa:2015fomos, o patrimônio urbanístico que forma o contexto de toda
 nova produção edilícia é composto tanto pelo conjunto de práticas
