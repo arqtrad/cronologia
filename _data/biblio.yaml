@@ -1,5 +1,73 @@
 ---
 references:
+- id: albergaria:2013forja
+  abstract: >-
+    O conceito de "geografia da arte" (ou Kunstgeographie na consagrada
+    expressão alemã) radica na longa tradição do determinismo ambiental,
+    pensamento que postula o peso das condições físicas e mesológicas sobre a
+    conduta humana, os seus traços psico-sociais e as suas manifestações
+    artístico-culturais. Este raciocínio justifica a ideia de que a arte, como
+    síntese do meio, tem em cada região um carácter definido1. Tal asserção,
+    estendida do plano regional ao nacional, justifica por igual a intenção de
+    criar uma produção artística de expressão regionalista ou nacionalista,
+    conduzindo à formação de núcleos espacialmente definidos de identidades
+    nacionais/regionais. 
+
+    Ao longo da segunda metade do século XIX e, sobretudo, na viragem para o
+    século XX, as abordagens acerca da geografia da arte assentaram nas
+    premissas estabelecidas por um evolucionismo etnogenético de carácter
+    antropológico, de raiz darwinista, que se converteu no fermento ideológico
+    dos movimentos regionalistas e nacionalistas na arte, disseminados um pouco
+    por toda a Europa, e também presentes em Portugal. 
+
+    Tendo este quadro por pano de fundo, o inquérito que se intenta levar a cabo
+    centra-se em torno das representações da arquitetura popular açoriana, tal
+    como estas surgiram, de forma “voluntária” mas, numa primeira fase, em
+    contexto ainda desfavorável à eclosão de um discurso positivo e unificador
+    da realidade arquipelágica, sendo convertidas, durante a I República, numa
+    narrativa assente nos valores da singularidade e da diferença que abraçam o
+    universo insular como um todo coletivo possuidor de “alma própria”. 
+
+    […]. (da Introdução)
+  accessed:
+    - year: 2021
+      month: 7
+      day: 18
+  author:
+    - family: Albergaria
+      given: Isabel Soares
+      dropping-particle: de
+  citation-key: albergaria:2013forja
+  container-title: Colóquio Internacional Arquitectura Popular
+  issued:
+    - year: 2013
+  language: por
+  license: openAccess
+  page: 1-25
+  source: repositorio.uac.pt
+  title: >-
+    Na forja da "Arquitetura Regional" : Entre o determinismo geográfico e as
+    desinências nacionalistas: o caso açoriano
+  title-short: Na forja da "Arquitetura Regional"
+  type: paper-conference
+  URL: https://repositorio.uac.pt/handle/10400.3/3833
+
+- id: amaral:1961arquitectura
+  citation-key: amaral:1961arquitectura
+  editor:
+    - family: Amaral
+      given: Francisco Keil
+      dropping-particle: do
+  event-place: Lisboa
+  issued:
+    - year: 1961
+  language: por
+  number-of-volumes: '2'
+  publisher: Sindicato Nacional dos Arquitectos
+  publisher-place: Lisboa
+  title: Arquitectura popular em Portugal
+  type: book
+
 - id: anacleto:1997arquitectura
   accessed:
     - year: 2019
@@ -12,7 +80,7 @@ references:
   event-place: Lisboa
   issued:
     - year: 1997
-  language: pt
+  language: por
   license: embargoedAccess
   number-of-volumes: '2'
   publisher: Fundação Calouste Gulbenkian
@@ -32,12 +100,16 @@ references:
       given: Rodrigo Melo Franco
       dropping-particle: de
   citation-key: andrade:1952brasil
-  event-place: México <span smallcaps="smallcaps">D.F.</span>
+  event-place: >-
+    México <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">D.F.</span>
   issued:
     - year: 1952
-  language: pt
+  language: por
   publisher: Instituto Panamericano de Geografía e Historia
-  publisher-place: México <span smallcaps="smallcaps">D.F.</span>
+  publisher-place: >-
+    México <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">D.F.</span>
   source: Open WorldCat
   title: 'Brasil: monumentos históricos e arqueológicos'
   title-short: Brasil
@@ -82,29 +154,17 @@ references:
   ISBN: 978-989-732-973-9
   issued:
     - year: 2016
-  language: pt
+  language: por
   license: openAccess
   publisher: >-
-    <span smallcaps="smallcaps">Dinâmia’cet-iul</span> do <span
-    smallcaps="smallcaps">iscte</span> - Instituto Universitário de Lisboa
+    Dinâmia’CET–IUL do <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">ISCTE</span> - Instituto Universitário de Lisboa
   publisher-place: Lisboa
   source: repositorio.iscte-iul.pt
   title: Arquitectura popular. Tradição e vanguarda
   title-short: Arquitectura popular
   type: book
   URL: https://repositorio.iscte-iul.pt/handle/10071/12359
-
-- id: arquitectura:1961
-  citation-key: arquitectura:1961
-  event-place: Lisboa
-  issued:
-    - year: 1961
-  language: pt
-  number-of-volumes: '2'
-  publisher: Sindicato Nacional dos Arquitectos
-  publisher-place: Lisboa
-  title: Arquitectura popular em Portugal
-  type: book
 
 - id: barreto:1947casas11
   author:
@@ -114,7 +174,7 @@ references:
   container-title: Revista do Serviço do Patrimonio Historico e Artistico Nacional
   issued:
     - year: 1947
-  language: pt
+  language: por
   page: 9–196
   title: Casas de câmara e cadeia
   type: article-journal
@@ -151,13 +211,16 @@ references:
   ISBN: 978-989-97558-0-2
   issued:
     - year: 2011
-  language: pt
-  publisher: CITCEM
+  language: por
+  publisher: >-
+    <span style="font-variant: all-small-caps"
+    smallcaps="smallcaps">CITCEM</span>
   publisher-place: Porto
   source: Open WorldCat
   title: >-
-    Construtores e artesãos muçulmanos; do serviço colectivo do rei ao
+    Construtores e artesãos muçulmanos: do serviço colectivo do rei ao
     desempenho individual
+  title-short: Construtores e artesãos muçulmanos
   type: chapter
   URL: https://dspace.uevora.pt/rdpc/handle/10174/3811
 
@@ -169,7 +232,7 @@ references:
   event-place: Paris
   issued:
     - year: 1956
-  language: fr
+  language: fre
   number-of-pages: '408'
   number-of-volumes: '2'
   publisher: Plon
@@ -190,7 +253,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1983
-  language: pt
+  language: por
   number-of-volumes: '2'
   publisher: Record
   publisher-place: Rio de Janeiro
@@ -217,7 +280,7 @@ references:
   issue: '2'
   issued:
     - year: 1961
-  language: de
+  language: ger
   page: '128'
   source: DOI.org (Crossref)
   title: >-
@@ -238,7 +301,7 @@ references:
   ISBN: 978-0-89862-349-9 978-0-89862-348-2
   issued:
     - year: 1993
-  language: en
+  language: eng
   number-of-pages: '246'
   publisher: Guilford
   publisher-place: New York
@@ -257,9 +320,11 @@ references:
   event-place: Belo Horizonte
   issued:
     - year: 1963
-  language: pt
+  language: por
   number-of-volumes: '5'
-  publisher: Escola de Arquitetura da <span smallcaps="smallcaps">U.M.G.</span>
+  publisher: >-
+    Escola de Arquitetura da <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">U.M.G.</span>
   publisher-place: Belo Horizonte
   source: Open WorldCat
   title: História da arquitetura
@@ -281,7 +346,7 @@ references:
   issued:
     - year: 2005
       month: 6
-  language: pt-BR
+  language: por
   page: 59-97
   source: SciELO
   title: >-
@@ -302,9 +367,11 @@ references:
   ISBN: 978-85-314-1284-4
   issued:
     - year: 2011
-  language: pt
+  language: por
   number-of-pages: '352'
-  publisher: '<span smallcaps="smallcaps">FAPESP</span> : Edusp'
+  publisher: >-
+    <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">FAPESP</span> : Edusp
   publisher-place: São Paulo
   source: Library of Congress ISBN
   title: 'Desenho e desígnio: o Brasil dos engenheiros militares (1500-1822)'
@@ -329,13 +396,14 @@ references:
     - year: 1964
       month: 4
       day: 1
-  language: en
+  language: eng
   license: Copyright © 1964 The American Society for Aesthetics
   page: 303-313
   source: JSTOR
   title: >-
-    The Baroque <span smallcaps="smallcaps">S-T-O-R-M</span>: a study in the
-    limits of the culture-epoch theory
+    The Baroque <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">S-T-O-R-M</span>: a study in the limits of the
+    culture-epoch theory
   title-short: The Baroque <span smallcaps="smallcaps">S-T-O-R-M</span>
   type: article-journal
   URL: http://www.jstor.org/stable/427234
@@ -355,7 +423,7 @@ references:
   event-place: Basel
   issued:
     - year: 1860
-  language: de
+  language: ger
   number-of-pages: '588'
   publisher: Schweighauser
   publisher-place: Basel
@@ -381,13 +449,38 @@ references:
   issue: '1'
   issued:
     - year: 1955
-  language: en
+  language: eng
   page: 27-53
   source: JSTOR
   title: The "Borrominesque" churches of colonial Brazil
   type: article-journal
   URL: https://www.jstor.org/stable/3047591
   volume: '37'
+
+- id: caldas:2000introducao
+  archive_location: 728.6 (469.9)
+  call-number: NA1329.A96 A76 2000
+  citation-key: caldas:2000introducao
+  container-title: Arquitectura popular dos Açores
+  contributor:
+    - family: Fernandes
+      given: José Manuel
+    - family: Tostões
+      given: Ana
+  editor:
+    - family: Caldas
+      given: João Vieira
+  event-place: Lisboa
+  ISBN: 978-972-97668-1-7
+  issued:
+    - year: 2000
+  language: por
+  page: 13–29
+  publisher: Ordem dos Arquitectos
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: Introdução
+  type: chapter
 
 - id: calder:2021architecture
   author:
@@ -398,7 +491,7 @@ references:
   ISBN: 978-0-241-39673-5
   issued:
     - year: 2021
-  language: en
+  language: eng
   publisher: Penguin
   publisher-place: Harmondsworth
   source: Open WorldCat
@@ -497,7 +590,7 @@ references:
     - year: 2015
       month: 10
       day: 20
-  language: pt
+  language: por
   license: openAccess
   publisher: Faculdade de Ciências e Tecnologia da Universidade de Coimbra
   publisher-place: Coimbra
@@ -519,7 +612,7 @@ references:
   ISBN: 978-88-317-4720-2
   issued:
     - year: 1984
-  language: it
+  language: ita
   number-of-pages: '167'
   publisher: Marsilio
   publisher-place: Venezia
@@ -527,6 +620,23 @@ references:
   title: 'Moderno non moderno: il luogo e la continuità'
   title-short: Moderno non moderno
   type: book
+
+- id: carita:1999arquitectura
+  author:
+    - family: Carita
+      given: Helder
+  citation-key: carita:1999arquitectura
+  container-title: 'Os Espaços de Um Império: Estudos'
+  event-place: Lisboa
+  issued:
+    - year: 1999
+  language: por
+  page: 77–89
+  publisher: Comissão Nacional para as Comemorações dos Descobrimentos Portugueses
+  publisher-place: Lisboa
+  source: Google Scholar
+  title: Arquitectura civil indo-portuguesa e a paisagem urbana de Goa
+  type: chapter
 
 - id: carvalho:2011construcao
   call-number: F2521 .H553 2011
@@ -544,7 +654,7 @@ references:
   ISBN: 978-85-390-0319-8
   issued:
     - year: 2011
-  language: pt
+  language: por
   publisher: 'Objetiva : Fundación Mapfre'
   publisher-place: 'Rio de Janeiro : Madrid'
   source: Library of Congress ISBN
@@ -562,7 +672,7 @@ references:
     - year: 1924
       month: 6
       day: 21
-  language: pt
+  language: por
   page: '3'
   publisher-place: Rio de Janeiro
   section: '1'
@@ -581,7 +691,7 @@ references:
   ISBN: 978-972-9419-43-0
   issued:
     - year: 2003
-  language: pt
+  language: por
   number-of-pages: 30 cm
   publisher: Centro regional de artes tradicionais
   publisher-place: Porto
@@ -602,8 +712,10 @@ references:
   ISBN: 85-7103-143-6 978-85-7103-143-2
   issued:
     - year: 2001
-  language: pt
-  publisher: Editora <span smallcaps="smallcaps">UCG</span>
+  language: por
+  publisher: >-
+    Editora <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">UCG</span>
   publisher-place: Goiânia
   source: Open WorldCat
   title: 'Goiás: identidade, paisagem e tradição'
@@ -618,7 +730,7 @@ references:
   event-place: Paris
   issued:
     - year: 1899
-  language: fr
+  language: fre
   number-of-volumes: '2'
   publisher: Gauthier-Villars
   publisher-place: Paris
@@ -633,7 +745,7 @@ references:
   event-place: Paris
   issued:
     - year: 1964
-  language: fr
+  language: fre
   publisher: Vincent, Fréal & cie.
   publisher-place: Paris
   title: Histoire de l'architecture
@@ -648,7 +760,7 @@ references:
   event-place: Goiânia
   issued:
     - year: 2007
-  language: pt
+  language: por
   publisher: Trilhas Urbanas
   publisher-place: Goiânia
   title: Arquitetura da mineração em Goiás
@@ -666,7 +778,7 @@ references:
   ISBN: 978-972-23-1442-8
   issued:
     - year: 1991
-  language: pt
+  language: por
   publisher: Presença
   publisher-place: Lisboa
   source: BnF ISBN
@@ -684,7 +796,7 @@ references:
   ISBN: 978-85-86552-95-3
   issued:
     - year: 2004
-  language: pt
+  language: por
   number-of-pages: '109'
   publisher: RiMa
   publisher-place: São Carlos
@@ -703,20 +815,20 @@ references:
     - year: 1929
       month: 6
       day: 24
-  language: pt
+  language: por
   publisher-place: Rio de Janeiro
   title: O Aleijadinho e a arquitetura tradicional
   type: article-newspaper
 
-- id: costa:1937documentacao
+- id: costa:1937documentacao1
   author:
     - family: Costa
       given: Lucio
-  citation-key: costa:1937documentacao
+  citation-key: costa:1937documentacao1
   container-title: Revista do Patrimônio Histórico e Artístico Nacional
   issued:
     - year: 1937
-  language: pt
+  language: por
   page: 31-39
   title: Documentação necessária
   type: article-journal
@@ -731,7 +843,7 @@ references:
   event-place: Porto Alegre
   issued:
     - year: 2007
-  language: pt
+  language: por
   page: 12–16
   publisher: Editora UniRitter
   publisher-place: Porto Alegre
@@ -741,7 +853,6 @@ references:
 - id: costa:2015arquitetura
   call-number: 728x(46-13)
   citation-key: costa:2015arquitetura
-  edition: '1'
   editor:
     - family: Costa
       given: Miguel Reimão Lopes
@@ -756,7 +867,7 @@ references:
   ISBN: 978-972-8479-85-5
   issued:
     - year: 2015
-  language: pt
+  language: por
   number-of-pages: '176'
   publisher: Argumentum ; Campo Arqueológico de Mértola
   publisher-place: 'Lisboa : Mértola'
@@ -792,7 +903,7 @@ references:
   issued:
     - year: 2014
       month: 6
-  language: es
+  language: spa
   page: '64'
   source: EBSCOhost
   title: El estilo neocolonial como modernismo latinoamericano
@@ -810,14 +921,15 @@ references:
   ISBN: 978-85-7334-140-9
   issued:
     - year: 2010
-  language: pt
+  language: por
   number-of-pages: '354'
   publisher: Instituto do Patrimônio Histórico e Artístico Nacional
   publisher-place: Brasília
   source: Library of Congress ISBN
   title: >-
     Fazendas do sul de Minas Gerais: arquitetura rural nos séculos <span
-    smallcaps="smallcaps">XVIII</span> e <span smallcaps="smallcaps">XIX</span>
+    style="font-variant:all-small-caps" smallcaps="smallcaps">XVIII</span> e
+    <span style="font-variant:all-small-caps" smallcaps="smallcaps">XIX</span>
   title-short: Fazendas do sul de Minas Gerais
   type: book
 
@@ -830,7 +942,7 @@ references:
   genre: Tese de Doutorado em História
   issued:
     - year: 2006
-  language: pt
+  language: por
   publisher: Universidade Federal de Minas Gerais
   publisher-place: Belo Horizonte
   source: Zotero
@@ -853,9 +965,9 @@ references:
   ISBN: 978-85-7939-157-6
   issued:
     - year: 2013
-  language: pt
+  language: por
   number-of-pages: '276'
-  publisher: Alameda
+  publisher: 'Alameda : Fapesp'
   publisher-place: São Paulo
   source: Library of Congress ISBN
   title: >-
@@ -891,7 +1003,7 @@ references:
     - year: 2013
       month: 4
       day: 29
-  language: pt
+  language: por
   publisher: Universidade de São Paulo
   source: www.teses.usp.br
   title: 'Um sertão entre tantos outros: fazendas de gado das Ribeiras do Norte'
@@ -908,7 +1020,7 @@ references:
   event-place: Madrid
   issued:
     - year: 1936
-  language: es
+  language: spa
   number-of-pages: '312'
   publisher: M. Aguilar
   publisher-place: Madrid
@@ -916,6 +1028,34 @@ references:
   title: Lo Barroco
   title-short: Lo Barroco
   type: book
+
+- id: fernandes:1998india
+  archive_location: 711 (469) "14/18"
+  author:
+    - family: Fernandes
+      given: José Manuel
+  call-number: HT384.P8 U54 1998
+  citation-key: fernandes:1998india
+  container-title: 'Universo urbanístico português 1415-1822: colectânea de estudos'
+  editor:
+    - family: Araujo
+      given: Renata
+    - family: Carita
+      given: Helder
+  event-place: Lisboa
+  ISBN: 978-972-8325-70-1
+  issued:
+    - year: 1998
+  language: por
+  page: 243–254
+  publisher: Commissão Nacional para as Comemorações dos Descobrimentos Portugueses
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: >-
+    Índia e Sul do Brasil: planos do urbanismo português no século <span
+    style="font-variant:all-small-caps" smallcaps="smallcaps">XVIII</span>
+  title-short: Índia e Sul do Brasil
+  type: chapter
 
 - id: fevereiro:2012genealogia29
   abstract: info:eu-repo/semantics/publishedVersion
@@ -931,7 +1071,7 @@ references:
   ISBN: '9789729656699'
   issued:
     - year: 2012
-  language: pt
+  language: por
   license: openAccess
   page: 241-292
   publisher: Associação Portuguesa de Genealogia
@@ -956,13 +1096,13 @@ references:
   issued:
     - year: 1988
       month: 7
-  language: pt
+  language: por
   page: 129-130
   title: O ensino da construção no domínio da arquitetura
   title-short: O Ensino da Construção
   type: article-journal
 
-- id: ficher:2018desconstrucao
+- id: ficher:2018desconstrucao2
   accessed:
     - year: 2023
       month: 8
@@ -970,14 +1110,14 @@ references:
   author:
     - family: Ficher
       given: Sylvia
-  citation-key: ficher:2018desconstrucao
+  citation-key: ficher:2018desconstrucao2
   container-title: 'Arquitetura e Urbanismo no Brasil atual: crises, impasses e desafios'
   event-place: Salvador
   event-title: V Enanparq
   ISSN: 2358-6214
   issued:
     - year: 2018
-  language: pt
+  language: por
   page: 2457-2481
   publisher: Associação Nacional de Pesquisa e Pós-graduação em Arquitetura e Urbanismo
   publisher-place: Salvador
@@ -1003,7 +1143,7 @@ references:
   event-place: London
   issued:
     - year: 1896
-  language: en
+  language: eng
   number-of-pages: '422'
   publisher: B.T. Batsford
   publisher-place: London
@@ -1031,7 +1171,7 @@ references:
   event-place: 'London : New York'
   issued:
     - year: 1905
-  language: en-GB
+  language: eng
   number-of-pages: '808'
   publisher: 'Batsford : Scribner''s sons'
   publisher-place: 'London : New York'
@@ -1055,7 +1195,7 @@ references:
   event-place: New York
   issued:
     - year: 1961
-  language: en
+  language: eng
   publisher: Charles Scribner’s Sons
   publisher-place: New York
   title: History of architecture on the comparative method
@@ -1099,7 +1239,7 @@ references:
     - year: 2018
       month: 3
       day: 28
-  language: pt
+  language: por
   license: Acesso Aberto
   publisher: Universidade Federal de Minas Gerais
   publisher-place: Belo Horizonte
@@ -1122,7 +1262,7 @@ references:
   event-place: Lisboa
   issued:
     - year: 1989
-  language: pt
+  language: por
   publisher: 'Instituto de cultura e lingua portuguesa : Ministerio da Educação'
   publisher-place: Lisboa
   source: Open WorldCat
@@ -1145,14 +1285,13 @@ references:
       given: Vítor Manuel
   collection-number: '5'
   collection-title: História da arte em Portugal
-  edition: '1'
   event-place: Lisboa
   ISBN: >-
     978-972-23-2827-2 978-972-23-2841-8 978-972-23-2924-8 978-972-23-3017-6
     978-972-23-3154-8 978-972-23-3244-6
   issued:
     - year: 2004
-  language: pt
+  language: por
   publisher: Presença
   publisher-place: Lisboa
   source: Open WorldCat
@@ -1173,7 +1312,7 @@ references:
   ISBN: 978-84-09-51554-7
   issued:
     - year: 2023
-  language: es
+  language: spa
   number-of-pages: '53'
   publisher: <span smallcaps="smallcaps">INTBAU</span> España
   publisher-place: Madrid
@@ -1193,7 +1332,7 @@ references:
     - year: 1961
       month: 1
       day: 1
-  language: en
+  language: eng
   number-of-pages: '768'
   publisher: Harvard University Press
   publisher-place: Cambridge, Mass.
@@ -1212,7 +1351,7 @@ references:
   genre: Tese (Doutoramento em Arquitectura)
   issued:
     - year: 2003
-  language: pt
+  language: por
   number-of-pages: '3'
   publisher: Universidade Técnica de Lisboa, Faculdade de Arquitectura
   publisher-place: Lisboa
@@ -1242,7 +1381,7 @@ references:
   event-place: New York
   issued:
     - year: 1943
-  language: en
+  language: eng
   number-of-pages: '198'
   publisher: The Museum of Modern Art
   publisher-place: New York
@@ -1265,7 +1404,7 @@ references:
   ISBN: 978-972.647-271-1
   issued:
     - year: 2012
-  language: pt
+  language: por
   publisher: Presidência do Governo Regional - Direção Regional da Cultura
   publisher-place: Açores
   title: A reinvenção do vernáculo
@@ -1283,7 +1422,7 @@ references:
   ISBN: 978-85-200-0826-3
   issued:
     - year: 2008
-  language: pt
+  language: por
   publisher: Civilização Brasileira
   publisher-place: Rio de Janeiro
   source: Open WorldCat
@@ -1311,7 +1450,7 @@ references:
   event-place: Frankfurt am Main
   issued:
     - year: 1890
-  language: de
+  language: ger
   number-of-pages: '366'
   publisher: Heinrich Keller
   publisher-place: Frankfurt am Main
@@ -1340,7 +1479,7 @@ references:
   event-place: Frankfurt am Main
   issued:
     - year: 1890
-  language: de
+  language: ger
   number-of-pages: '366'
   publisher: Heinrich Keller
   publisher-place: Frankfurt am Main
@@ -1365,7 +1504,7 @@ references:
   ISBN: 978-0-521-24645-3 978-0-521-43773-8 978-0-521-26985-8
   issued:
     - year: 1983
-  language: en
+  language: eng
   publisher: Cambridge University Press
   publisher-place: Cambridge [Cambridgeshire]; New York
   source: Open WorldCat
@@ -1383,7 +1522,7 @@ references:
   ISBN: 978-85-88847-35-4
   issued:
     - year: 2003
-  language: pt
+  language: por
   number-of-pages: '144'
   publisher: UniABC
   publisher-place: Santo André
@@ -1404,7 +1543,7 @@ references:
   event-place: London
   issued:
     - year: 1959
-  language: en
+  language: eng
   number-of-pages: '676'
   publisher: Penguin
   publisher-place: London
@@ -1424,7 +1563,7 @@ references:
   ISBN: 978-0-8195-4045-4
   issued:
     - year: 1972
-  language: en
+  language: eng
   number-of-pages: '315'
   publisher: Wesleyan University Press
   publisher-place: Middletown, Conn.
@@ -1445,9 +1584,9 @@ references:
   ISBN: 978-972-20-1799-2
   issued:
     - year: 2000
-  language: pt
+  language: por
   number-of-pages: '274'
-  publisher: Publicações Dom Quixote
+  publisher: Dom Quixote
   publisher-place: Lisboa
   source: Library of Congress ISBN
   title: 'Etnografias portuguesas (1870-1970): cultura popular e identidade nacional'
@@ -1498,7 +1637,7 @@ references:
   ISBN: 978-972-99852-3-2
   issued:
     - year: 2009
-  language: pt
+  language: por
   publisher: Fundação Marques da Silva
   publisher-place: Porto
   source: Open WorldCat
@@ -1543,7 +1682,7 @@ references:
     - year: 2019
       month: 1
       day: 21
-  language: pt
+  language: por
   number-of-pages: '274'
   publisher: Etnográfica
   publisher-place: Lisboa
@@ -1588,7 +1727,7 @@ references:
   ISBN: 978-989-8492-49-4
   issued:
     - year: 2018
-  language: pt
+  language: por
   license: openAccess
   page: 65–78
   publisher: Centro de Humanidades da Universidade Nova de Lisboa
@@ -1611,7 +1750,7 @@ references:
   ISBN: 978-85-271-0461-6
   issued:
     - year: 1999
-  language: pt
+  language: por
   publisher: Hucitec
   publisher-place: São Paulo
   source: Open WorldCat
@@ -1627,7 +1766,7 @@ references:
   event-place: Coimbra
   issued:
     - year: 1918
-  language: pt
+  language: por
   number-of-pages: '63'
   publisher: Atlântida
   publisher-place: Coimbra
@@ -1645,7 +1784,7 @@ references:
   event-place: Lisboa
   issued:
     - year: 1929
-  language: pt
+  language: por
   number-of-pages: '68'
   publisher: Imprensa Nacional
   publisher-place: Lisboa
@@ -1673,7 +1812,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1969
-  language: pt
+  language: por
   number-of-pages: '327'
   publisher: 'Edusp : Perspectiva'
   publisher-place: São Paulo
@@ -1694,7 +1833,7 @@ references:
   ISBN: 978-85-273-0359-0
   issued:
     - year: 2003
-  language: pt
+  language: por
   publisher: Perspectiva
   publisher-place: São Paulo
   source: Open WorldCat
@@ -1710,7 +1849,7 @@ references:
   issued:
     date-parts:
       - - '1943'
-  language: pt
+  language: por
   original-date:
     - year: 1943
   publisher: A Noite
@@ -1728,7 +1867,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1943
-  language: pt-BR
+  language: por
   publisher: Mendes Junior
   publisher-place: Rio de Janeiro
   source: Open WorldCat
@@ -1743,7 +1882,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1978
-  language: pt-BR
+  language: por
   publisher: Conselho Estadual de Artes e Ciências Humanas
   publisher-place: São Paulo
   source: Open WorldCat
@@ -1768,7 +1907,7 @@ references:
   issued:
     - year: 2013
       month: 6
-  language: pt
+  language: por
   license: Attribution-NonCommercial-NoDerivs 3.0 Spain
   page: 170-188
   publisher: >-
@@ -1793,7 +1932,7 @@ references:
   ISBN: 978-972-24-1234-6
   issued:
     - year: 2002
-  language: pt
+  language: por
   number-of-pages: '430'
   publisher: Horizonte
   publisher-place: Lisboa
@@ -1817,7 +1956,7 @@ references:
   ISBN: 978-989-8614-66-7
   issued:
     - year: 2018
-  language: pt
+  language: por
   number-of-pages: '189'
   publisher: By the Book
   publisher-place: Lisboa
@@ -1857,7 +1996,7 @@ references:
     - year: 2020
       month: 3
       day: 6
-  language: pt
+  language: por
   page: 88-110
   publisher: >-
     Centro de Pesquisa e Documentação de História Contemporânea do Brasil da
@@ -1883,7 +2022,7 @@ references:
   ISBN: 978-972-24-1757-0
   issued:
     - year: 2004
-  language: pt
+  language: por
   publisher: Horizonte
   publisher-place: Lisboa
   source: Library of Congress ISBN
@@ -1902,7 +2041,7 @@ references:
   ISBN: 978-972-24-1757-0
   issued:
     - year: 2012
-  language: pt
+  language: por
   publisher: Horizonte
   publisher-place: Lisboa
   source: Library of Congress ISBN
@@ -1922,7 +2061,7 @@ references:
   ISBN: 978-972-24-1796-9
   issued:
     - year: 2015
-  language: pt
+  language: por
   number-of-pages: '233'
   publisher: Horizonte
   publisher-place: Lisboa
@@ -1941,7 +2080,7 @@ references:
   ISBN: 978-972-24-1936-9
   issued:
     - year: 2019
-  language: pt
+  language: por
   publisher: Horizonte
   publisher-place: Lisboa
   source: Open WorldCat
@@ -1959,7 +2098,7 @@ references:
       given: Paulo Roberto
   citation-key: masseran:2014casas
   container-title: 'Risco: Revista de Pesquisa em Arquitetura e Urbanismo (Online)'
-  container-title-short: '1'
+  container-title-short: Risco, Rev. Pesqui. Arquit. Urban.
   DOI: 10.11606/issn.1984-4506.v0i18-19p20-40
   ISSN: 1984-4506
   issue: 18-19
@@ -1967,7 +2106,7 @@ references:
     - year: 2014
       month: 12
       day: 30
-  language: pt
+  language: por
   page: 20-40
   source: www.revistas.usp.br
   title: >-
@@ -1985,7 +2124,7 @@ references:
   event-place: Lisboa
   issued:
     - year: 1942
-  language: pt
+  language: por
   publisher: Grémio Nacional dos Industriais de Tipografia e Fotogravura
   publisher-place: Lisboa
   source: catalogo.bn.pt Library Catalog
@@ -2005,13 +2144,30 @@ references:
   ISBN: 978-989-95758-5-1
   issued:
     - year: 2010
-  language: pt
+  language: por
   number-of-pages: '554'
   publisher: Fundação Calouste Gulbenkian
   publisher-place: Lisboa
   source: Library of Congress ISBN
   title: 'Património de origem portuguesa no mundo: arquitectura e urbanismo'
   title-short: Património de origem portuguesa no mundo
+  type: book
+
+- id: mello:2007ricardo
+  author:
+    - family: Mello
+      given: Joana
+  citation-key: mello:2007ricardo
+  event-place: São Paulo
+  ISBN: 978-85-7419-727-2 85-7419-727-0
+  issued:
+    - year: 2007
+  language: por
+  publisher: Annablume
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: 'Ricardo Severo: da arqueologia portuguesa à arquitetura brasileira'
+  title-short: Ricardo Severo
   type: book
 
 - id: menezes:2019materiais
@@ -2025,7 +2181,7 @@ references:
   ISBN: 978-972-49-2311-6
   issued:
     - year: 2019
-  language: pt
+  language: por
   number-of-pages: '292'
   publisher: Laboratório Nacional de Engenharia Civil
   publisher-place: Lisboa
@@ -2042,7 +2198,7 @@ references:
   ISBN: 978-972-9483-77-6 978-972-9483-76-9
   issued:
     - year: 2005
-  language: pt
+  language: por
   publisher: Faculdade de Arquitetura da Universidade do Porto
   publisher-place: Porto
   source: Open WorldCat
@@ -2050,7 +2206,7 @@ references:
   title-short: A construção do Brasil
   type: book
 
-- id: morais:2019construcao
+- id: morais:2019construcao8
   abstract: >-
     O presente artigo tem por objetivo investigar as contribuições de Francisco
     Antônio Pereira de Carvalho, popularmente conhecido como Chiquinho do
@@ -2073,7 +2229,7 @@ references:
   author:
     - family: Morais
       given: Brenda Laisa
-  citation-key: morais:2019construcao
+  citation-key: morais:2019construcao8
   container-title: Revista Latino-Americana de História Unisinos
   DOI: 10.4013/rlah.v8i21.981
   ISSN: 2238-0620
@@ -2082,7 +2238,7 @@ references:
     - year: 2019
       month: 7
       day: 16
-  language: pt
+  language: por
   license: "A submissão de originais para este periódico implica na transferência, pelo (s) autor (es), dos direitos de publicação digital. Os direitos autorais para os artigos publicados são do autor, com direitos do periódico sobre a primeira publicação. O (s) autor (es) declara que, em caso de aceitação do artigo, a Revista Latino-Americana de História passa a ter os direitos autorais a ele referentes, que se tornarão propriedade exclusiva da Revista, sendo vedada qualquer reprodução, total ou parcial, em qualquer outra parte ou meio de divulgação, impressa ou eletrônica, sem a citação deste periódico como \_meio da publicação original. Em virtude de sermos um periódico de acesso aberto, permite-se o uso gratuito dos artigos em aplicações educacionais e acadêmicas, desde que citada a RLAH como fonte. Informamos que a revista possui a licença\_Creative Commons Attribution 3.0 License de direitos autorais."
   number: '21'
   page: 130-147-147
@@ -2118,7 +2274,7 @@ references:
   ISBN: 978-989-26-0810-5
   issued:
     - year: 2008
-  language: it
+  language: ita
   page: 301-317
   publisher: Imprensa da Universidade de Coimbra
   publisher-place: Coimbra
@@ -2137,7 +2293,7 @@ references:
   ISBN: 978-972-33-1054-2
   issued:
     - year: 1995
-  language: pt
+  language: por
   publisher: Estampa
   publisher-place: Lisboa
   source: Open WorldCat
@@ -2168,7 +2324,7 @@ references:
   genre: Dissertação (Mestrado em História)
   issued:
     - year: 2007
-  language: pt
+  language: por
   publisher: '[s.n.]'
   publisher-place: Campinas
   source: repositorio.unicamp.br
@@ -2192,7 +2348,7 @@ references:
   ISBN: 978-85-7654-302-2
   issued:
     - year: 2015
-  language: pt-BR
+  language: por
   number-of-pages: '236'
   publisher: C/Arte
   publisher-place: Belo Horizonte
@@ -2214,7 +2370,7 @@ references:
   ISBN: 978-972-20-0959-1
   issued:
     - year: 1992
-  language: pt
+  language: por
   number-of-pages: '374'
   publisher: Dom Quixote
   publisher-place: Lisboa
@@ -2235,12 +2391,12 @@ references:
   citation-key: oliveira:2003arquitectura
   collection-number: '24'
   collection-title: Portugal de perto
-  edition: 5ª ed
+  edition: '5'
   event-place: Lisboa
   ISBN: 978-972-20-2397-9
   issued:
     - year: 2003
-  language: pt
+  language: por
   number-of-pages: '374'
   publisher: Dom Quixote
   publisher-place: Lisboa
@@ -2257,7 +2413,7 @@ references:
   ISBN: 978-989-20-8164-9
   issued:
     - year: 2018
-  language: pt
+  language: por
   publisher: Urban Forms
   publisher-place: Porto
   source: Zotero
@@ -2296,7 +2452,7 @@ references:
   issue: '1'
   issued:
     - year: 2010
-  language: pt
+  language: por
   license: Copyright (c) 2015 Revista Arquitectura Lusíada
   page: 39-52
   source: revistas.lis.ulusiada.pt
@@ -2339,7 +2495,7 @@ references:
     - year: 2011
       month: 5
       day: 16
-  language: pt
+  language: por
   publisher: Universidade de São Paulo
   source: www.teses.usp.br
   title: 'O cotidiano em construção: os práticos licenciados em São Paulo (1893-1933)'
@@ -2382,7 +2538,7 @@ references:
     - year: 2016
       month: 5
       day: 25
-  language: pt
+  language: por
   publisher: Universidade de São Paulo
   source: www.teses.usp.br
   title: >-
@@ -2400,7 +2556,7 @@ references:
   event-place: Milano
   issued:
     - year: 1975
-  language: it
+  language: ita
   number-of-pages: '412'
   publisher: G. Mazzotta
   publisher-place: Milano
@@ -2415,16 +2571,18 @@ references:
       given: Francisco
   call-number: 69(02)
   citation-key: pereira:1955enciclopedia
+  edition: '2'
   event-place: Lisboa
   issued:
     - year: 1955
-  language: pt
+  language: por
   number-of-volumes: '30'
   publisher: 'Edição do autor : Portugália'
   publisher-place: Lisboa
   title: Enciclopédia prática da construção civil
   title-short: Enciclopédia prática
   type: book
+  URL: https://satae.pt/enciclopedia/
 
 - id: pessotti:2011construcao
   citation-key: pessotti:2011construcao
@@ -2437,7 +2595,7 @@ references:
   ISBN: 978-85-62331-85-5
   issued:
     - year: 2011
-  language: pt
+  language: por
   publisher: PoD
   publisher-place: Rio de Janeiro
   title: A construção da cidade portuguesa na América
@@ -2459,7 +2617,7 @@ references:
   event-place: London
   issued:
     - year: 1948
-  language: en
+  language: eng
   publisher: John Murray
   publisher-place: London
   source: Internet Archive
@@ -2491,7 +2649,7 @@ references:
   ISBN: 978-88-16-40575-2
   issued:
     - year: 2002
-  language: it
+  language: ita
   number-of-pages: '293'
   publisher: Jaca
   publisher-place: Milano
@@ -2519,7 +2677,7 @@ references:
     - year: 2012
       month: 7
       day: 16
-  language: pt
+  language: por
   license: openAccess
   publisher: Universidade de Coimbra, Faculdade de Ciências e Tecnologia
   publisher-place: Coimbra
@@ -2543,7 +2701,7 @@ references:
   ISSN: 0874-9671
   issued:
     - year: 2015
-  language: pt
+  language: por
   page: 369-405
   publisher: >-
     Universidade Nova de Lisboa, Faculdade de Ciências Sociais e Humanas, Centro
@@ -2575,7 +2733,7 @@ references:
   issued:
     - year: 2016
       month: 8
-  language: pt
+  language: por
   page: 149-177
   publisher: >-
     Pontificia Universidad Católica de Valparaíso, .Facultad de Derecho, Escuela
@@ -2597,7 +2755,7 @@ references:
   event-place: Englewood Cliffs, N.J.
   issued:
     - year: 1969
-  language: en
+  language: eng
   publisher: Prentice-Hall
   publisher-place: Englewood Cliffs, N.J.
   source: Open WorldCat
@@ -2647,7 +2805,7 @@ references:
   ISBN: 978-989-732-973-9
   issued:
     - year: 2016
-  language: pt
+  language: por
   license: openAccess
   page: 193-254
   publisher: >-
@@ -2670,7 +2828,7 @@ references:
   ISBN: 978-85-232-1043-4
   issued:
     - year: 2013
-  language: pt
+  language: por
   publisher: Editora <span smallcaps="smallcaps">UFBA</span>
   publisher-place: Salvador
   source: Open WorldCat
@@ -2680,7 +2838,7 @@ references:
   title-short: A liberdade que veio do ofício
   type: book
 
-- id: ribeiro:2021profissionais
+- id: ribeiro:2021profissionais7
   accessed:
     - year: 2021
       month: 7
@@ -2688,7 +2846,7 @@ references:
   author:
     - family: Ribeiro
       given: Nelson Pôrto
-  citation-key: ribeiro:2021profissionais
+  citation-key: ribeiro:2021profissionais7
   container-title: Brazilian Journal of Development
   container-title-short: BJDV
   DOI: 10.34117/bjdv7n6-287
@@ -2698,7 +2856,7 @@ references:
     - year: 2021
       month: 6
       day: 14
-  language: pt
+  language: por
   page: 58132-58149
   source: DOI.org (Crossref)
   title: >-
@@ -2729,7 +2887,7 @@ references:
     - year: 1931
       month: 4
       day: 1
-  language: de
+  language: ger
   license: Copyright © 1931 The Burlington Magazine Publications Ltd.
   page: 202-203
   source: JSTOR
@@ -2746,7 +2904,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 2000
-  language: pt
+  language: por
   publisher: ProEditores
   publisher-place: São Paulo
   title: >-
@@ -2765,15 +2923,14 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 2013
-  language: pt
+  language: por
   number-of-pages: '170'
   publisher: Rio Books
   publisher-place: Rio de Janeiro
   source: www.buscaintegrada.usp.br
   title: >-
     A estratégia da aranha ou: da possibilidade de um ensino metahistórico em
-    arquitetura = The spider’s stratagem or: of the possibility of a
-    metahistorical teaching in architecture
+    arquitetura
   title-short: A estratégia da aranha
   type: book
 
@@ -2794,7 +2951,7 @@ references:
   issued:
     - year: 1944
     - year: 1951
-  language: pt
+  language: por
   number-of-pages: '66'
   number-of-volumes: '8'
   publisher: Martins
@@ -2811,7 +2968,7 @@ references:
   container-title: Arquitectura Popular. Tradição e Vanguarda
   issued:
     - year: 2016
-  language: pt
+  language: por
   page: 19–48
   source: Google Scholar
   title: >-
@@ -2835,7 +2992,7 @@ references:
   genre: Concurso para provimento de duas vagas de professor associado
   issued:
     - year: 2005
-  language: pt
+  language: por
   page: '75'
   publisher: Faculdade de Ciências e Tecnologia da Universidade de Coimbra
   publisher-place: Coimbra
@@ -2861,7 +3018,7 @@ references:
   issue: '1'
   issued:
     - year: 2006
-  language: pt
+  language: por
   license: openAccess
   page: 70-109
   source: estudogeral.sib.uc.pt
@@ -2892,7 +3049,7 @@ references:
   issued:
     - year: 2012
       month: 2
-  language: pt
+  language: por
   license: openAccess
   publisher: Faculdade de Ciências e Tecnologia da Universidade de Coimbra
   publisher-place: Coimbra
@@ -2917,7 +3074,7 @@ references:
   ISBN: 978-989-26-0883-9
   issued:
     - year: 2015
-  language: pt
+  language: por
   publisher: Imprensa da Universidade de Coimbra
   publisher-place: Coimbra
   source: DOI.org (Crossref)
@@ -2939,7 +3096,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1977
-  language: pt
+  language: por
   number-of-pages: '110'
   publisher: Secretaria da Cultura, Ciência e Tecnologia, Governo do Estado de S.Paulo
   publisher-place: São Paulo
@@ -2961,7 +3118,7 @@ references:
   ISBN: 978-85-7656-197-2
   issued:
     - year: 2010
-  language: pt
+  language: por
   number-of-pages: '212'
   publisher: Rima
   publisher-place: São Carlos
@@ -2981,12 +3138,13 @@ references:
   ISBN: 978-85-314-0614-0
   issued:
     - year: 2001
-  language: pt
+  language: por
   publisher: Edusp
   publisher-place: São Paulo
   title: >-
-    Cidades capitais do século <span smallcaps="smallcaps">XIX</span>:
-    racionalidade, cosmopolitismo e transferência de modelos
+    Cidades capitais do século <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">XIX</span>: racionalidade, cosmopolitismo e
+    transferência de modelos
   title-short: Cidades capitais do século <span smallcaps="smallcaps">XIX</span>
   type: book
 
@@ -3030,7 +3188,7 @@ references:
   issued:
     - year: 2019
       month: 7
-  language: en
+  language: eng
   license: openAccess
   page: 389-397
   publisher: Green Lines Institute for Sustainable Development
@@ -3057,7 +3215,7 @@ references:
   genre: Dissertação de Mestrado em Desenho Urbano
   issued:
     - year: 2001
-  language: pt
+  language: por
   publisher: Instituto Superior de Ciências do Trabalho e da Empresa
   publisher-place: Lisboa
   source: www.academia.edu
@@ -3078,7 +3236,7 @@ references:
   issue: '10'
   issued:
     - year: 2012
-  language: en
+  language: eng
   page: 177–187
   publisher: Instituto de História da Arte-Faculdade de Ciências Sociais e Humanas/UNL
   source: Google Scholar
@@ -3115,7 +3273,7 @@ references:
     - year: 2016
       month: 7
       day: 15
-  language: en
+  language: eng
   license: openAccess
   page: 1-13
   publisher: >-
@@ -3126,6 +3284,41 @@ references:
   title-short: George Kubler shifting south
   type: article-journal
   URL: https://estudogeral.sib.uc.pt/handle/10316/35341
+
+- id: schlee:2018revista
+  abstract: >-
+    Este texto no es solo el recorrido de una publicación, sino la de todo un
+    país, Brasil, a través de la historia de la evolución del estudio,
+    reconocimiento y protección de su patrimonio cultural en las diversas
+    coyunturas sociopolíticas. Con su primer número lanzado en 1937, es una
+    “joven” publicación que ya ha cumplido más de 80 años, editada desde sus
+    inicios por el Serviço do Patrimônio Histórico e Artístico Nacional (SPHAN),
+    actual Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN).
+  accessed:
+    - year: 2024
+      month: 7
+      day: 30
+  author:
+    - family: Schlee
+      given: Andrey Rosenthal
+  citation-key: schlee:2018revista
+  container-title: Revista PH
+  container-title-short: revistaph
+  DOI: 10.33349/2018.0.4233
+  ISSN: 2340-7565
+  issued:
+    - year: 2018
+      month: 12
+      day: 7
+  language: spa
+  page: 200-209
+  source: DOI.org (Crossref)
+  title: >-
+    Revista do Patrimônio Histórico e Artístico do Brasil: inventario de
+    contenidos
+  title-short: Revista do Patrimônio Histórico e Artístico do Brasil
+  type: article-journal
+  URL: http://www.iaph.es/revistaph/index.php/revistaph/article/view/4233
 
 - id: severo:1916arte
   author:
@@ -3139,7 +3332,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1916
-  language: pt
+  language: por
   number-of-pages: '46'
   publisher: Tip.Levi
   publisher-place: São Paulo
@@ -3159,7 +3352,7 @@ references:
   issued:
     - year: 1917
       month: 4
-  language: pt
+  language: por
   page: 394–424
   title: A arte tradicional no Brasil
   type: article-journal
@@ -3182,7 +3375,7 @@ references:
   issued:
     - year: 2019
       month: 8
-  language: pt
+  language: por
   page: 597-629
   publisher: Programa de Pós-graduação de História da UFMG
   source: SciELO
@@ -3195,6 +3388,23 @@ references:
     http://www.scielo.br/scielo.php?script=sci_abstract&pid=S0104-87752019000200597&lng=en&nrm=iso&tlng=pt
   volume: '35'
 
+- id: silveira:1999casa-patio
+  author:
+    - family: Silveira
+      given: Ângelo Costa
+  call-number: 728.3 (547)
+  citation-key: silveira:1999casa-patio
+  event-place: Porto
+  ISBN: 978-972-9483-36-3
+  issued:
+    - year: 1999
+  language: por
+  publisher: Facultade de Arquitectura da Universidade de Porto
+  publisher-place: Porto
+  source: Open WorldCat
+  title: A Casa-Pátio de Goa
+  type: book
+
 - id: sousa:1994arquitetura
   author:
     - family: Sousa
@@ -3206,7 +3416,7 @@ references:
   ISBN: 978-85-7266-038-9
   issued:
     - year: 1994
-  language: pt
+  language: por
   number-of-pages: '120'
   publisher: Pini
   publisher-place: São Paulo
@@ -3227,14 +3437,14 @@ references:
   ISBN: 978-989-97558-0-2
   issued:
     - year: 2011
-  language: pt
+  language: por
   publisher: Centro de Investigação Transdisciplinar Cultura, Espaço e Memória
   publisher-place: Porto
   source: Open WorldCat
   title: 'História de construção: os construtores'
   type: book
 
-- id: sousa:2016history
+- id: sousa:2016history4
   accessed:
     - year: 2023
       month: 9
@@ -3242,7 +3452,7 @@ references:
   author:
     - family: Sousa Santos
       given: Eliana
-  citation-key: sousa:2016history
+  citation-key: sousa:2016history4
   container-title: Architecture and Culture
   container-title-short: Architecture and Culture
   DOI: 10.1080/20507828.2016.1239917
@@ -3252,7 +3462,7 @@ references:
     - year: 2016
       month: 11
       day: 11
-  language: en
+  language: eng
   page: 425-434
   source: DOI.org (Crossref)
   title: 'History becoming theory: George Kubler and *Portuguese plain*'
@@ -3269,7 +3479,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1898
-  language: pt
+  language: por
   publisher: Edição do autor
   publisher-place: Rio de Janeiro
   title: >-
@@ -3294,7 +3504,7 @@ references:
     Luso-Brasileira
   issued:
     - year: 2016
-  language: pt
+  language: por
   page: 14–17
   source: Google Scholar
   title: >-
@@ -3317,7 +3527,7 @@ references:
     Assistente
   issued:
     - year: 2004
-  language: pt
+  language: por
   license: openAccess
   publisher: Universidade do Porto
   publisher-place: Porto
@@ -3372,7 +3582,7 @@ references:
   event-title: Reabilitar e construir de forma sustentável
   issued:
     - year: 2018
-  language: pt
+  language: por
   license: openAccess
   page: 1404-1413
   publisher: Faculdade de Engenharia da Universidade do Porto
@@ -3393,7 +3603,7 @@ references:
   event-place: Braga
   issued:
     - year: 1943
-  language: pt
+  language: por
   number-of-pages: '376'
   publisher: Cruz
   publisher-place: Braga
@@ -3416,7 +3626,7 @@ references:
   event-place: 'Madrid : Barcelona'
   issued:
     - year: 1902
-  language: es
+  language: spa
   number-of-pages: '212'
   publisher: Fernando Fé ; Antonio López
   publisher-place: 'Madrid : Barcelona'
@@ -3433,7 +3643,7 @@ references:
   event-place: Belo Horizonte
   issued:
     - year: 1979
-  language: pt
+  language: por
   publisher: Universidade Federal de Minas Gerais
   publisher-place: Belo Horizonte
   source: Open WorldCat
@@ -3456,7 +3666,7 @@ references:
   issue: '2'
   issued:
     - year: 2006
-  language: en
+  language: eng
   page: 115-128
   publisher: Vernacular Architecture Forum
   source: JSTOR
@@ -3475,7 +3685,7 @@ references:
   event-place: Bogotá
   issued:
     - year: 1993
-  language: es
+  language: spa
   publisher: Escala
   publisher-place: Bogotá
   source: Open WorldCat
@@ -3501,7 +3711,7 @@ references:
   event-place: London
   issued:
     - year: 1908
-  language: en
+  language: eng
   number-of-pages: '419'
   publisher: A. Constable and company, ltd.
   publisher-place: London
@@ -3519,7 +3729,7 @@ references:
   ISBN: 978-85-7827-504-4
   issued:
     - year: 2005
-  language: pt
+  language: por
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
@@ -3544,7 +3754,7 @@ references:
   event-place: München
   issued:
     - year: 1888
-  language: de
+  language: ger
   number-of-pages: '155'
   publisher: T. Ackermann
   publisher-place: München
