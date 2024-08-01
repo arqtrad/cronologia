@@ -8,3 +8,5 @@ _site/
 vendor/
 # output
 _out/
+*.docx
+!_data/*.docx
