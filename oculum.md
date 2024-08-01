@@ -775,9 +775,20 @@ nomeadamente o recém concluído TechNetEmpire, manipulam os cortes da
 periodização para evidenciar relações e continuidades em diferentes
 escopos.
 
-A proposta de uma nova periodização, esta baseada na trajetória das
+Por exemplo, o diálogo entre as matrizes portuguesas e as
+contribuições de comunidades imigrantes de outras nacionalidades
+constituiu um patrimônio edilício diversificado em vários núcleos
+populacionais do Brasil.
+Tais contribuições sinalizam para uma cronologia alternativa,
+de meados do século XIX a meados do XX, onde interagem as tradições
+que viajaram com os imigrantes, as adaptações vernaculares já
+estabelecidas de longa data no Brasil e os projetos oficiais
+das "casas de colono", de aparência popular mas com *pedigree*
+erudito.
+
+A proposta de uma nova periodização, baseada na trajetória das
 tradições vernaculares, não pretende, portanto, estabelecer um marco
-normativo para a escrita da história da arquitetura. É mais bem um
+normativo único para a escrita da história da arquitetura. É mais bem um
 ensejo para uma apreciação renovada dos modos de fazer o ambiente
 construído no mundo luso-brasileiro: um ponto de partida para novas
 explorações tanto no campo da historiografia quanto no da prática da
