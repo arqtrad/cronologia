@@ -478,17 +478,29 @@ O duplo trânsito das influências arquitetônicas dá a dimensão própria a
 um conceito de tradição no qual os modos de fazer
 são premissas subjacentes a todo o espectro do popular ao
 monumental. Dentre as várias instâncias de elementos que se
-fazem presentes em todo o *continuum* do vernacular ao erudito, três são
+fazem presentes em todo o *continuum* do vernacular ao erudito, quatro são
 especialmente relevantes para delimitar uma periodização da tradição
-luso-brasileira de meados do século XVIII a meados do XIX: a difusão do
+luso-brasileira de meados do século XVIII a meados do XX:
+as reformas de regulações edilícias, que foram mais intensas e profundas
+nos dois extremos deste recorte cronológico; a difusão do
 módulo alentejano de 40 palmos, a implantação de sistemas de esqueletos
 em madeira como o frontal ou a gaiola pombalina, e a intrusão na
 arquitetura rural brasileira de um tipo distributivo originário da
-arquitetura doméstica urbana. Uma quarta instância, a consolidação de um
+arquitetura doméstica urbana. Uma quinta instância, a consolidação de um
 estilo "clássico imperial" ou "clássico liberal", não será tratada neste
 artigo pois merece uma argumentação mais extensa e dedicada.
 
-## I.
+## Regulações edilícias ##
+
+Embora tais abordagens venham se tornando sistemáticas no estudo da
+arquitetura vernacular, elas são em grande medida restritas ao espaço
+urbanizado, onde incidem com mais força regulações edilícias e
+profissionais, bem como os registros de litígios decorrentes dessas
+regulações. A edificação rural e das povoações pequenas e remotas, de
+escassa cultura textual ou arquivística, permanecem à sombra, justamente
+onde a continuidade de tradições na longa duração é mais presente.
+
+## Módulos de lotes ##
 
 Os "montes" são uma tipologia de estabelecimentos domésticos e
 produtivos rurais no Alentejo, atestados ao menos desde o início da
@@ -529,7 +541,7 @@ operárias na periferia de Coimbra: junto à estação Velha, cerca de 1900,
 e na vila operária dos franciscanos em Montes Claros, 1926 [análise do
 autor baseada em documentação por @calmeiro:2015urbanismo].
 
-## II.
+## Frontal ##
 
 Um sistema construtivo amiúde associado ao adobe é o frontal.
 Associado à taipa, o frontal é seguramente de grande antiguidade. Faz-se
@@ -602,7 +614,7 @@ vez empregados nas fachadas, apontam inequivocamente para a reconstrução
 de diversos casarões da cidade da segunda metade de setecentos até
 meados de oitocentos.
 
-## III.
+## Tipologia doméstica e o estilo vernacular ##
 
 Se os dois fatores anteriores --- a difusão do módulo de 40 palmos e a
 introdução do frontal engastado --- apontam para uma transição
