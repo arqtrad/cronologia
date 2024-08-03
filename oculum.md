@@ -357,29 +357,29 @@ engenheiro e arqueólogo Ricardo @severo:1916arte e pelo médico José
 permitia descontextualizar os motivos mais atraentes
 aos programas e ao gosto contemporâneos. Estes eram extraídos menos do
 espectro propriamente popular do que de um registro mais elaborado,
-muitas vezes da arquitetura
-sacra. Sobretudo, o nativismo luso-brasileiro distinguia-se de seus
+muitas vezes da arquitetura sacra.
+Sobretudo, o nativismo luso-brasileiro distinguia-se de seus
 congêneres europeus e norte-americanos por aplastar diferenças
-regionais, seja em prol de uma região dominante --- a casa saloia como
-epítome da nacionalidade portuguesa em Raul Lino ---, seja construindo o
-mito de uma homogeneidade nacional brasileira.
+regionais, fosse em prol de uma região dominante --- a casa saloia como
+epítome da nacionalidade portuguesa em Raul Lino ---, fosse construindo
+o mito duma homogeneidade nacional brasileira.
 
 Para os arquitetos envolvidos no Inquérito à arquitetura regional
 portuguesa, durante a década de 1950, a atemporalidade da
 construção rural permitia aproximar o registro popular ao ideal
-modernista de uma perfeita adaptação das formas à técnica
+modernista de perfeita adaptação das formas à técnica
 disponível e ao programa funcional. A atemporalidade do vernacular,
 nesse sentido, tornava-se um instrumento para combater o tradicionalismo
 alegando incompatibilidade entre as formas oriundas do mundo rural
 tradicional e as necessidades e possibilidades da vida urbana moderna.
-Nesse sentido, as limitações operacionais e filológicas que impuseram,
+Consequentemente, as limitações operacionais e filológicas que impuseram,
 segundo @ollero:2010depois, uma organização puramente geográfica à
 publicação resultante do Inquérito [@amaral:1961arquitectura] foram
 transformadas num trunfo para substituir a hegemonia da Casa Portuguesa
 pela da "arquitetura eficiente" contemporânea.
 
 Uma consequência da dicotomia rural = popular / urbano = erudito,
-porém, acaba sendo a introdução de
+porém, acabaria sendo a introdução de
 uma rutura no senso de precedência entre ambos os momentos que os
 teóricos buscavam reconciliar. Tanto os tradicionalistas quanto os
 modernistas argumentavam pela continuidade do vernacular na sua
@@ -414,6 +414,45 @@ estudo que Sandra @pinto:2015portugal16 desenvolve acerca das normas
 edilícias em Portugal e no Brasil, assim como a identificação de
 construções por meio de documentos tributários, feita por Beatriz
 @bueno:2005tecido e diversos investigadores por ela orientados.
+
+
+# Repensar a definição e a periodização #
+
+As seções anteriores espelham a cisão disciplinar entre dois campos
+profissionais da investigação. De um lado está a história da
+arquitetura, originada no estudo de estilos e de agentes eruditos, em
+geral conhecidos no registro documental e portanto enviesada para um
+olhar crítico sobre a mudança diacrônica. Do outro lado, figura a
+história da construção, que se esforça por abarcar o
+domínio do vernacular e das suas continuidades na longa duração. No
+entanto, os objetos de estudo desses dois campos disciplinares não se
+encaixam eles mesmos com clareza em tal cisão. Para além da
+popularização de elementos estilísticos eruditos, há um movimento
+recíproco que merece mais atenção na historiografia: trata-se da
+constatação de que toda arquitetura erudita está assente, em maior ou
+menor grau, sobre um conjunto de saberes e práticas vernaculares. Tais
+saberes consistem não apenas em procedimentos construtivos, mas
+inclusive em hábitos de composição e expedientes formais.
+
+O duplo trânsito das influências arquitetônicas dá a dimensão própria a
+um conceito de tradição no qual os modos de fazer
+são premissas subjacentes a todo o espectro do popular ao
+monumental. Dentre as várias instâncias de elementos que se
+fazem presentes em todo o *continuum* do vernacular ao erudito, quatro são
+especialmente relevantes para delimitar uma periodização da tradição
+luso-brasileira de meados do século XVIII a meados do XX:
+as reformas de regulações edilícias, que foram mais intensas e profundas
+nos dois extremos deste recorte cronológico; a difusão do
+módulo alentejano de 40 palmos, a implantação de sistemas de esqueletos
+em madeira como o frontal ou a gaiola pombalina, e a intrusão na
+arquitetura rural brasileira de um tipo distributivo originário da
+arquitetura doméstica urbana. Uma quinta instância, a consolidação de um
+estilo "clássico imperial" ou "clássico liberal", não será tratada neste
+artigo pois merece uma argumentação mais extensa e dedicada.
+
+## Regulações edilícias ##
+
+<!--Introduzir-->
 
 Dessa literatura sobre a história da construção vernacular se depreendem
 marcos cronológicos, afinal, refinando o entendimento de um registro
@@ -454,43 +493,6 @@ formação superior no campo da moradia popular [@pareto:2016pandegos],
 dificultadas pela crescente ritualização das aprovações de projetos, e
 impelidas a uma transformação cada vez mais rápida pela contínua
 evolução das normativas.
-
-
-# Repensar a definição e a periodização #
-
-As seções anteriores espelham a cisão disciplinar entre dois campos
-profissionais da investigação. De um lado está a história da
-arquitetura, originada no estudo de estilos e de agentes eruditos, em
-geral conhecidos no registro documental e portanto enviesada para um
-olhar crítico sobre a mudança diacrônica. Do outro lado, figura a
-história da construção, que se esforça por abarcar o
-domínio do vernacular e das suas continuidades na longa duração. No
-entanto, os objetos de estudo desses dois campos disciplinares não se
-encaixam eles mesmos com clareza em tal cisão. Para além da
-popularização de elementos estilísticos eruditos, há um movimento
-recíproco que merece mais atenção na historiografia: trata-se da
-constatação de que toda arquitetura erudita está assente, em maior ou
-menor grau, sobre um conjunto de saberes e práticas vernaculares. Tais
-saberes consistem não apenas em procedimentos construtivos, mas
-inclusive em hábitos de composição e expedientes formais.
-
-O duplo trânsito das influências arquitetônicas dá a dimensão própria a
-um conceito de tradição no qual os modos de fazer
-são premissas subjacentes a todo o espectro do popular ao
-monumental. Dentre as várias instâncias de elementos que se
-fazem presentes em todo o *continuum* do vernacular ao erudito, quatro são
-especialmente relevantes para delimitar uma periodização da tradição
-luso-brasileira de meados do século XVIII a meados do XX:
-as reformas de regulações edilícias, que foram mais intensas e profundas
-nos dois extremos deste recorte cronológico; a difusão do
-módulo alentejano de 40 palmos, a implantação de sistemas de esqueletos
-em madeira como o frontal ou a gaiola pombalina, e a intrusão na
-arquitetura rural brasileira de um tipo distributivo originário da
-arquitetura doméstica urbana. Uma quinta instância, a consolidação de um
-estilo "clássico imperial" ou "clássico liberal", não será tratada neste
-artigo pois merece uma argumentação mais extensa e dedicada.
-
-## Regulações edilícias ##
 
 Embora tais abordagens venham se tornando sistemáticas no estudo da
 arquitetura vernacular, elas são em grande medida restritas ao espaço
@@ -651,6 +653,9 @@ XVIII e se consolida por meio da uniformização das suas práticas ao
 longo do século XIX, culminando cerca de 1900 numa paisagem de tipos e
 processos construtivos padronizados, ainda que artesanais, em grandes
 extensões dos territórios português e brasileiro.
+
+
+## Ornamento vernacular ##
 
 
 # Por que e quando falar em tradição luso-brasileira #
