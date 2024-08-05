@@ -1925,6 +1925,26 @@ references:
   title: A casa portuguesa
   type: book
 
+- id: lopes:1934planta
+  accessed:
+    - year: 2121
+      month: 11
+      day: 1
+  author:
+    - family: Lopes
+      given: José Batista
+  citation-key: lopes:1934planta
+  event-place: Coimbra
+  issued:
+    - year: 1934
+  language: por
+  publisher: Câmara Municipal de Coimbra
+  publisher-place: Coimbra
+  scale: '1:1000'
+  title: Planta topográfica da cidade de Coimbra
+  type: map
+  URL: https://sig.cm-coimbra.pt
+
 - id: machado:1969barroco
   author:
     - family: Machado
@@ -1972,6 +1992,61 @@ references:
   source: Open WorldCat
   title: Barroco mineiro
   type: book
+
+- id: manta:2011planta
+  abstract: >-
+    RESUMO Neste artigo descreve-se o estudo da Planta Topográfica da Cidade de
+    Coimbra, à escala 1:1.000, executada entre 1932 e 1934, sob a coordenação do
+    Engº Geógrafo José Batista Lopes. O estudo envolveu pesquisa histórica,
+    estudo das especificações técnicas de produção e posterior
+    georreferenciação. A cartografia obtida por levantamento aerofotogramétrico
+    foi uma revolução tecnológica na época. A Comissão Administrativa do
+    Município de Coimbra entendeu mandar produzir a Planta Topográfica da Cidade
+    de Coimbra, com base nesta técnica inovadora, tendo sido provavelmente a
+    primeira executada em Portugal a grande escala. Foram tiradas 216 provas
+    directas das fotografias, à altitude média de voo de 800 e 1000 metros. Foi
+    utilizado o método de reprojecção de Roussilhe, anterior à restituição por
+    processo estereoscópico, para aplicação do qual foram empregues instrumentos
+    cedidos pelos Serviços do Ministério da Agricultura. Para além do interesse
+    técnico e científico, esta planta é de grande importância para a história do
+    Município de Coimbra, uma vez que apresenta com grande detalhe a Alta
+    Coimbrã, antes da execução das obras da Cidade Universitária, que arrasaram
+    a malha urbana, alterando para sempre o perfil de Coimbra. Tem ainda
+    interesse para a geocomunidade, como ferramenta de informação geográfica a
+    diferentes escalas temporais. As várias folhas da planta foram digitalizadas
+    por processo fotográfico e fez-se a georreferenciação das imagens e a
+    montagem num mosaico único, georreferenciado no sistema de coordenadas base
+    desta cartografia. Posteriormente foi ajustado para Datum 73 com um conjunto
+    de pontos comuns à cartografia actual. Procedeu-se também a algumas
+    experiências de tratamento de imagem e georreferenciação, sem
+    ortorrectificação, das fotografias aéreas. Esta informação permite
+    contribuir para uma melhor percepção da ocupação do território da época e é
+    actualmente de grande utilidade. 1. Introdução Faz parte do trabalho de um
+    engenheiro geógrafo que trabalhe numa câmara municipal, averiguar que
+    informação geográfica da área do município tem disponível para trabalhar.
+    Este conhecimento não se limita apenas à informação geográfica mais recente,
+    uma vez que é, frequentemente, necessário fazer análise de informação a
+    diferentes escalas temporais.
+  author:
+    - family: Manta
+      given: Virgínia
+    - family: França
+      given: Paula
+    - family: Gonçalves
+      given: José
+  citation-key: manta:2011planta
+  event-title: VII Conferência Nacional de Cartografia e Geodesia
+  issued:
+    - year: 2011
+      month: 5
+      day: 5
+  language: por
+  source: ResearchGate
+  title: >-
+    Planta topográfica da cidade de Coimbra 1932/1934: contributo para a
+    história da cartografia obtida por fotografia aérea
+  title-short: Planta topográfica da cidade de Coimbra 1932/1934
+  type: paper-conference
 
 - id: marianno:1943influencias
   author:

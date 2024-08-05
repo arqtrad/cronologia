@@ -446,7 +446,8 @@ nos dois extremos deste recorte cronológico; a difusão do
 módulo alentejano de 40 palmos, a implantação de sistemas de esqueletos
 em madeira como o frontal ou a gaiola pombalina, e a intrusão na
 arquitetura rural brasileira de um tipo distributivo originário da
-arquitetura doméstica urbana. Uma quinta instância, a consolidação de um
+arquitetura doméstica urbana.
+Uma quinta instância, a consolidação de um
 estilo "clássico imperial" ou "clássico liberal", não será tratada neste
 artigo pois merece uma argumentação mais extensa e dedicada.
 
@@ -512,13 +513,14 @@ com ou sem corredor longitudinal central. O monte é formado por um
 alinhamento transversal desses módulos, formando um renque entre a
 elevação exterior do edifício e o eirado nos fundos. Cada módulo, por
 sua vez, consiste num quadrado com cerca de 40 palmos (9 metros) de
-lado.
+lado, com uma tolerância de ±2 palmos por acomodação às restrições
+existentes ou imprecisão no dimensionamento do palmo padrão.
 
 De um expediente popular e rural, contudo, o módulo de
-com 40 palmos começa a entrar no repertório dos engenheiros militares e
-arquitetos desde a era pombalina, suplantando o antigo módulo de 25
-palmos que predominava desde o século
-XIII. No projeto para a Vila Real de Santo António, no Algarve, o
+com 40 palmos começava a entrar no repertório dos engenheiros militares
+e arquitetos desde a era pombalina, suplantando o antigo módulo de 25
+palmos que predominava desde o século XIII.
+No projeto para a Vila Real de Santo António, no Algarve, o
 engenheiro militar José Sande de Vasconcelos ainda empregou em 1774 a
 testada tradicional de 25 palmos. Em 1777, porém, Manoel Vieira Leão
 utilizou no plano de Taquari, Rio Grande do Sul, o módulo alentejano de
@@ -526,7 +528,8 @@ utilizou no plano de Taquari, Rio Grande do Sul, o módulo alentejano de
 Brasil, como Casalvasco, Mato Grosso, em 1782. Porto Covo, uma
 urbanização planeada da iniciativa privada no litoral do Alentejo, foi
 concebida pelo arquiteto civil Henrique Guilherme de Oliveira em 1794
-também usando o módulo de 40 palmos para os lotes.
+também usando o módulo de 40 palmos para os lotes
+[@florentino:2023dimensoes].
 
 ![Manoel Vieira Leão, projeto da vila de Taquari, Rio Grande do Sul, 1777. Arquivo Histórico do Exército](assets/media/taquari.jpg){#fig:taquari}
 
@@ -538,10 +541,32 @@ característico de morada suburbana ou aldeã, a "casa atlântica" com 50
 palmos de testada. A partir de finais do século XIX, porém, nos projetos
 de casarios suburbanos e vilas operárias nas principais localidades da
 Beira, este tipo tradicional deu lugar sistematicamente ao módulo de 40
-palmos. Tal processo está documentado, especialmente, em duas vilas
-operárias na periferia de Coimbra: junto à estação Velha, cerca de 1900,
-e na vila operária dos franciscanos em Montes Claros, 1926 [análise do
-autor baseada em documentação por @calmeiro:2015urbanismo].
+palmos.
+
+O lote de 40 palmos sobreviveu, inclusive, à adoção do sistema métrico
+em 1834.
+Este fato provavelmente se deve à conveniente conversão do módulo
+tradicional na medida métrica de 8,5 ou 9 metros (a depender da dimensão
+adotada para o palmo).
+Tais medidas, por sua vez, convinham à expectativa sanitaristas de
+finais do século XIX e início do XX de permitir iluminação e ventilação
+diretas nos cômodos de casas suburbanas compactas e econômicas.
+Tal processo está documentado, especialmente, em duas vilas
+operárias na periferia de Coimbra:
+a primeira sendo a do Loreto, junto à estação Velha, cerca de 1900,
+e mais tarde na vila operária dos franciscanos em Montes Claros, em 1926
+[análise do autor baseada em documentação por @calmeiro:2015urbanismo].
+O exemplo desta última ensejou a implantação na mesma rua de um renque
+de moradas geminadas no mesmo módulo, em finais da década de 1920.
+Ambos parcelamentos seguiam um módulo de 8,5 metros de testada
+(@fig:montesclaros).
+
+![Planta de Montes Claros, Coimbra, mostrando a correnteza de casas
+especulativas anteriores a 1932 (no alto à esquerda) e a vila operária
+dos Franciscanos, 1926 (em baixo à direita).
+Detalhe de @lopes:1934planta, fls. 10--11.
+Aqui reproduzida na escala 1:1250
+](assets/media/montesclaros.jpg){#fig:montesclaros}
 
 ## Frontal ##
 
@@ -618,8 +643,9 @@ meados de oitocentos.
 
 ## Tipologia doméstica e o estilo vernacular ##
 
-Se os dois fatores anteriores --- a difusão do módulo de 40 palmos e a
-introdução do frontal engastado --- apontam para uma transição
+Se os três fatores anteriores --- inovação nas regulações edilícias,
+difusão do módulo de 40 palmos e
+introdução ou difusão do frontal engastado --- apontam para uma transição
 técnico-projetual na arquitetura vernacular na segunda metade do século
 XVIII, o terceiro fator em causa aponta para a consolidação e unificação
 de uma tipologia doméstica ao longo do século XIX.
@@ -653,9 +679,6 @@ XVIII e se consolida por meio da uniformização das suas práticas ao
 longo do século XIX, culminando cerca de 1900 numa paisagem de tipos e
 processos construtivos padronizados, ainda que artesanais, em grandes
 extensões dos territórios português e brasileiro.
-
-
-## Ornamento vernacular ##
 
 
 # Por que e quando falar em tradição luso-brasileira #
