@@ -591,7 +591,8 @@ arquitetura vernacular, originário do norte da península Ibérica mas
 atemporal em sua difusão pelo mundo luso-brasileiro.
 A consequente falta de circunscrição cronológica resulta por exemplo na
 descrição atemporal dos prédios de rendimentos lisboetas por
-@mascarenhas:2012reabilitacao, quanto uma descrição uniforme de sistemas
+@mascarenhas:2012reabilitacao,
+bem como numa descrição uniforme de sistemas
 construtivos no Brasil sob rótulos genéricos como "arquitetura da
 mineração" [@coelho:2007arquitetura] ou "a casa da fazenda mineira"
 [@cruz:2010fazendas, 70].
@@ -601,11 +602,22 @@ pouco respeitada na literatura historiográfica, e cujas implicações
 cronológicas não foram, até o momento, exploradas.
 Em quase todo o universo vernacular luso-brasileiro, o frontal se
 caracteriza por ser um esqueleto retangular simplesmente apoiado sobre
-alicerces ou paredes portantes em alvenaria. No contexto da
+alicerces ou paredes portantes em alvenaria.
+É o caso da fazenda da Pedra em Santana dos Montes (Minas Gerais),
+datada de cerca de 1750 (@fig:santana-pedra).
+
+![Sede da fazenda da Pedra, Santana dos Montes, Minas Gerais, c. 1750.
+Foto: Vladimir Benincasa, 2013.
+Fonte: <https://commons.wikimedia.org/wiki/File:Fazenda_da_Pedra,_Santana_dos_Montes-MG,_Vladimir_Benincasa_24.jpg>
+](assets/media/Fazenda_da_Pedra_Santana_dos_Montes-MG_Vladimir_Benincasa_24.jpg){#fig:santana-montes}
+
+
+Foi no contexto da
 expansão mineradora de origem paulista pela região do cerrado
-brasileiro, no século XVIII, uma variante desse sistema se torna
-dominante na construção das casas térreas com vedação em adobe. Essa
-variante consiste na projeção de um "nabo" dos esteios (@fig:frontal),
+brasileiro, no século XVIII, que uma variante desse sistema se tornou
+dominante na construção das casas térreas com vedação em adobe ou
+pau-a-pique.
+Essa variante consiste na projeção de um "nabo" dos esteios (@fig:frontal),
 os quais passam a atravessar toda a profundidade do alicerce para
 estarem solidamente fincados no solo [@vasconcellos:1979arquitetura].
 
@@ -614,19 +626,21 @@ estarem solidamente fincados no solo [@vasconcellos:1979arquitetura].
 A profundidade histórica do frontal como um todo pode ser debatida, e
 não seria despropositado atribuir-lhe a natureza quase atemporal das
 tradições populares. O mesmo se não pode dizer, porém, da variante do
-frontal com nabos mergulhados no solo. A raridade, senão inexistência,
+frontal com nabos mergulhados no solo.
+A raridade
 de tal sistema fora da região do cerrado brasileiro, que vai do vale do
 Tietê no estado de São Paulo até as antigas capitanias de Goiás e Mato
-Grosso, assim como o noroeste de Minas Gerais, é prova de que se trata
-de uma invenção delimitada no tempo histórico dos estabelecimentos
+Grosso, assim como o oeste de Minas Gerais, é indício de que se trata
+de uma solução delimitada no tempo histórico dos estabelecimentos
 mineradores, na melhor das hipóteses a partir do século XVIII.
 
 Mais ainda, e na falta de datações arqueológicas mais precisas, o
 registro iconográfico inequívoco de construções nessa variante do
 frontal remonta, no máximo, à primeira metade do século XIX, na obra de
 artistas como John Burchell ou, mais tarde, Franz Keller. Com isso, é
-possível avançar a hipótese de que o frontal engastado fosse uma
-inovação da segunda metade do século XVIII. Ele estaria relacionado com
+possível avançar a hipótese de que o frontal engastado se tenha
+difundido na segunda metade do século XVIII.
+Ele estaria relacionado com
 o conjunto de adaptações sísmicas posteriores não apenas ao terremoto de
 Lisboa, mas também aos menos conhecidos sismos nos Açores, em parte
 responsáveis por uma migração de açorianos rumo ao Brasil.
@@ -634,8 +648,8 @@ responsáveis por uma migração de açorianos rumo ao Brasil.
 A hipótese de um ciclo de reconstruções de moradas nos centros urbanos
 brasileiros a partir da segunda metade do século XVIII é
 plausível diante da natureza expedita e possivelmente pouco resiliente
-das casas originais dos núcleos mineradores. Esse
-ciclo também é corroborado por evidências diretamente datáveis,
+das casas originais dos núcleos mineradores.
+Esse ciclo também é corroborado por evidências diretamente datáveis,
 especialmente oriundas da cidade de São Luís, no Maranhão. Ali, a
 introdução da gaiola pombalina e os estilos de azulejos, por primeira
 vez empregados nas fachadas, apontam inequivocamente para a reconstrução
