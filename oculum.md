@@ -561,11 +561,12 @@ de moradas geminadas no mesmo módulo, em finais da década de 1920.
 Ambos parcelamentos seguiam um módulo de 8,5 metros de testada
 (@fig:montesclaros).
 
-![Planta de Montes Claros, Coimbra, mostrando a correnteza de casas
+![Planta da Rua António José de Almeida no bairro de Montes Claros,
+Coimbra, mostrando a correnteza de casas
 especulativas anteriores a 1932 (no alto à esquerda) e a vila operária
 dos Franciscanos, 1926 (em baixo à direita).
 Detalhe de @lopes:1934planta, fls. 10--11.
-Aqui reproduzida na escala 1:1250
+Aqui reproduzida na escala 1:1250, escala gráfica e norte pelo autor
 ](assets/media/montesclaros.jpg){#fig:montesclaros}
 
 ## Frontal ##
