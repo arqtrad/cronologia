@@ -453,7 +453,17 @@ artigo pois merece uma argumentação mais extensa e dedicada.
 
 ## Regulações edilícias ##
 
-<!--Introduzir-->
+O controle jurídico sobre a atividade edilícia é dos fatores mais aptos
+a influenciar a forma arquitetônica.
+Será, portanto, compreensível que se trate de um tema que tem recebido
+bastante atenção no campo disciplinar da história da construção.
+Assim, muito embora a construção vernacular seja mal documentada,
+a atividade edilícia sobretudo urbana reflete a influência dessas
+regulações.
+Ao mesmo tempo, o modo de formular as regulações diz muito sobre os
+paradigmas vigentes nessas construções,
+e a publicação das normas oferece evidências textuais onde a própria
+atividade de edificar não as preservou.
 
 Dessa literatura sobre a história da construção vernacular se depreendem
 marcos cronológicos, afinal, refinando o entendimento de um registro
@@ -604,7 +614,7 @@ Em quase todo o universo vernacular luso-brasileiro, o frontal se
 caracteriza por ser um esqueleto retangular simplesmente apoiado sobre
 alicerces ou paredes portantes em alvenaria.
 É o caso da fazenda da Pedra em Santana dos Montes (Minas Gerais),
-datada de cerca de 1750 (@fig:santana-pedra).
+datada de cerca de 1750 (@fig:santana-montes).
 
 ![Sede da fazenda da Pedra, Santana dos Montes, Minas Gerais, c. 1750.
 Foto: Vladimir Benincasa, 2013.
@@ -634,16 +644,28 @@ Grosso, assim como o oeste de Minas Gerais, é indício de que se trata
 de uma solução delimitada no tempo histórico dos estabelecimentos
 mineradores, na melhor das hipóteses a partir do século XVIII.
 
-Mais ainda, e na falta de datações arqueológicas mais precisas, o
+Num banco de dados de construções domésticas luso-brasileiras que viemos
+compilando[^2], com base em publicações científicas e em obras de
+restauro divulgadas pelo poder público, não foi possível, de fato,
+datar com segurança nenhuma casa com sistema de frontal engastado antes
+de, aproximadamente, 1750.
+Ainda assim, trata-se, como evidenciado por @silva:2022panorama, de
+datações baseadas na transmissão oral de informações, sem respaldo
+arqueológico ou documental.
+Nada, nas informações assim coligidas, indica que essas datas devam
+forçosamente referir-se à construção das casas atualmente existentes,
+por oposição à existência de uma casa mais primitiva no mesmo lote.
+
+Portanto, e na falta de datações arqueológicas mais precisas, o
 registro iconográfico inequívoco de construções nessa variante do
 frontal remonta, no máximo, à primeira metade do século XIX, na obra de
 artistas como John Burchell ou, mais tarde, Franz Keller. Com isso, é
-possível avançar a hipótese de que o frontal engastado se tenha
-difundido na segunda metade do século XVIII.
-Ele estaria relacionado com
-o conjunto de adaptações sísmicas posteriores não apenas ao terremoto de
+possível avançar a hipótese de que o frontal engastado se não tenha
+difundido antes da segunda metade do século XVIII.
+Ele estaria, segundo tal hipótese, relacionado com
+o conjunto de adaptações sísmicas posteriores não apenas ao terramoto de
 Lisboa, mas também aos menos conhecidos sismos nos Açores, em parte
-responsáveis por uma migração de açorianos rumo ao Brasil.
+responsáveis por uma onda migratória de açorianos rumo ao Brasil.
 
 A hipótese de um ciclo de reconstruções de moradas nos centros urbanos
 brasileiros a partir da segunda metade do século XVIII é
@@ -849,3 +871,5 @@ construído no mundo luso-brasileiro: um ponto de partida para novas
 explorações tanto no campo da historiografia quanto no da prática da
 arquitetura tradicional.
 
+
+[^2]: Disponível em: <https://casa.tradicional.arq.br/cronologia/>.
