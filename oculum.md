@@ -542,22 +542,27 @@ onde a continuidade de tradições na longa duração é mais presente.
 A modularidade do parcelamento do solo, em particular no que respeita
 às testadas de lotes, estabeleceu-se na bacia do Mediterrâneo desde a
 colonização romana [@caniggia:1997analisi].
+Em Portugal, os seus efeitos
+são menos sensíveis do que na península Itálica, mas mesmo assim
+deixaram vestígios nas prática construtivas mais meridionais.
 
 Os "montes" são uma tipologia de estabelecimentos domésticos e
 produtivos rurais no Alentejo, atestados ao menos desde o início da
 Idade Moderna mas provavelmente com raízes nas *villae* romanas. Nessa
-tipologia, predomina um módulo espacial e estrutural de quatro células,
+tipologia, predomina um módulo espacial e estrutural quadrado de quatro células,
 com ou sem corredor longitudinal central. O monte é formado por um
 alinhamento transversal desses módulos, formando um renque entre a
-elevação exterior do edifício e o eirado nos fundos. Cada módulo, por
-sua vez, consiste num quadrado com cerca de 40 palmos (9 metros) de
+elevação exterior do edifício e o eirado nos fundos
+[@palazzo:2021vernacular].
+Cada módulo, por
+sua vez, consiste num quadrado com cerca de 40 palmos (8,5 a 9 metros) de
 lado, com uma tolerância de ±2 palmos por acomodação às restrições
 existentes ou imprecisão no dimensionamento do palmo padrão.
 
 De um expediente popular e rural, contudo, o módulo de
 com 40 palmos começava a entrar no repertório dos engenheiros militares
 e arquitetos desde a era pombalina, suplantando o antigo módulo de 25
-palmos que predominava desde o século XIII.
+palmos que predominara desde o século XIII.
 No projeto para a Vila Real de Santo António, no Algarve, o
 engenheiro militar José Sande de Vasconcelos ainda empregou em 1774 a
 testada tradicional de 25 palmos. Em 1777, porém, Manoel Vieira Leão
@@ -599,7 +604,7 @@ de moradas geminadas no mesmo módulo, em finais da década de 1920.
 Ambos parcelamentos seguiam um módulo de 8,5 metros de testada
 (@fig:montesclaros).
 
-![Planta da Rua António José de Almeida no bairro de Montes Claros,
+![Mapa da Rua António José de Almeida no bairro de Montes Claros,
 Coimbra, mostrando a correnteza de casas
 especulativas anteriores a 1932 (no alto à esquerda) e a vila operária
 dos Franciscanos, 1926 (em baixo à direita).
@@ -621,10 +626,10 @@ em alvenaria --- adobe no Brasil colonial e em Portugal a partir do
 século XIX, senão tijolos cozidos.
 
 A cronologia desse sistema muito difundido de esqueleto autônomo em
-madeira é mal conhecida, e o que se pode dizer dela deriva da associação
+madeira é mal conhecida, e o que dela se pode dizer deriva da associação
 do frontal a outros sistemas construtivos e tipologias específicas ---
-do edifício de rendimentos lisboeta ao Oeste do Brasil colonial. Isso
-porque o frontal costuma ser abordado como um presumido grau zero da
+do edifício de rendimentos lisboeta até às casas no Oeste do Brasil colonial.
+Isso porque o frontal costuma ser abordado como um presumido grau zero da
 arquitetura vernacular, originário do norte da península Ibérica mas
 atemporal em sua difusão pelo mundo luso-brasileiro.
 A consequente falta de circunscrição cronológica resulta por exemplo na
@@ -638,7 +643,7 @@ mineração" [@coelho:2007arquitetura] ou "a casa da fazenda mineira"
 Todavia, há uma distinção fundamental entre as aplicações do frontal,
 pouco respeitada na literatura historiográfica, e cujas implicações
 cronológicas não foram, até o momento, exploradas.
-Em quase todo o universo vernacular luso-brasileiro, o frontal se
+Em quase todo o universo vernacular de origem portuguesa, o frontal se
 caracteriza por ser um esqueleto retangular simplesmente apoiado sobre
 alicerces ou paredes portantes em alvenaria.
 É o caso da fazenda da Pedra em Santana dos Montes (Minas Gerais),
@@ -659,7 +664,7 @@ Essa variante consiste na projeção de um "nabo" dos esteios (@fig:frontal),
 os quais passam a atravessar toda a profundidade do alicerce para
 estarem solidamente fincados no solo [@vasconcellos:1979arquitetura].
 
-![Casa de frontal com esteios engastados entre os alicerces na rua Ávila, Paracatu, Minas Gerais. Foto do autor](assets/media/frontal.jpg){#fig:frontal}
+![Casa de frontal com esteios engastados entre os alicerces na rua Ávila, Paracatu. Foto do autor](assets/media/frontal.jpg){#fig:frontal}
 
 A profundidade histórica do frontal como um todo pode ser debatida, e
 não seria despropositado atribuir-lhe a natureza quase atemporal das
@@ -706,7 +711,7 @@ vez empregados nas fachadas, apontam inequivocamente para a reconstrução
 de diversos casarões da cidade da segunda metade de setecentos até
 meados de oitocentos.
 
-## Tipologia doméstica e o estilo vernacular ##
+## Tipologia doméstica rural e urbana #
 
 Se os três fatores anteriores --- inovação nas regulações edilícias,
 difusão do módulo de 40 palmos e
@@ -715,35 +720,62 @@ técnico-projetual na arquitetura vernacular na segunda metade do século
 XVIII, o terceiro fator em causa aponta para a consolidação e unificação
 de uma tipologia doméstica ao longo do século XIX.
 
-Nas casas rurais portuguesas, uma divisão regional consagrada desde o
+Nas casas rurais portuguesas, uma divisão regional está consagrada desde o
 Inquérito [-@amaral:1961arquitectura] até investigações mais recentes
-[@costa:2015arquitetura] consistia na composição em torno de um ou mais
+[@costa:2015arquitetura].
+Ela consistia na composição em torno de um ou mais
 salões grandes e alongados, eventualmente com alpendre, no Norte, por
 oposição à tipologia meridional e insular com uma malha de células de
-pequenas dimensões, quadradas ou ligeiramente retangulares. Esses tipos
+pequenas dimensões, quadradas ou ligeiramente retangulares.
+Esses tipos rurais
 se preservaram, em Portugal, mesmo diante da difusão em contexto urbano
 da tipologia europeia de casas correntes com corredor central ou
 lateral. No Brasil colonial, embora a distinção tipológica regional se
 tenha suavizado, manteve-se o contraste entre os tipos rurais e urbanos.
 
-No entanto, ao longo do século XIX no Brasil, esta última distinção
+No entanto, ao longo do século XIX no cerrado brasileiro, esta última distinção
 também se relativizou com a intrusão do tipo urbano da habitação de
 frente larga, ou casa de morada inteira, como parte ou todo de moradas
-rurais. Essa intrusão ocorreu em várias frentes, das grandes fazendas
-nas regiões pecuaristas do Nordeste [@diniz:2013sertao] até as casas de
-pequenas propriedades horticultoras no vale do rio Tietê, estado de São
-Paulo [@martins:1978partido]. A transição tipológica é datável por
-evidências documentais quanto à idade das casas, permitindo situar com
-alguma confiança a consolidação dessa transição ao mais tardar na
-segunda metade do século XIX.
+rurais.
+Essa intrusão ocorreu em várias frentes, com destaque para as casas de
+pequenas propriedades horticultoras no cerrado paulista
+[@martins:1978partido] e goiano.
+A transição tipológica é datável por evidências documentais quanto
+à idade das casas, iniciando-se na primeira década do século XIX com
+implantações como a da fazenda Babilônia, em Pirenópolis (1805, ver
+planta em @silva:2022panorama), e culminando na virada do mesmo século.
 
-Da análise desses três fatores, forma-se a imagem de uma tradição
-luso-brasileira, do vernacular às suas apropriações no registro erudito,
-que passa por significativas transformações na segunda metade do século
-XVIII e se consolida por meio da uniformização das suas práticas ao
-longo do século XIX, culminando cerca de 1900 numa paisagem de tipos e
-processos construtivos padronizados, ainda que artesanais, em grandes
-extensões dos territórios português e brasileiro.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:rurais}
+![Casarão da fazenda do Viegas, Rio de Janeiro, provavelmente anterior a 1725. Fonte: adaptado de @biene:2007arquitetura](assets/media/BR-RJ-RJ-VIEGAS-ARQTRA-LVXX-ZZZ-M3DOC-ARQ-EXIPLA-0100.png){#fig:viegas}
+![Casarão da fazenda Tatu, Limeira, 1820. Fonte: adaptado de Mateus Rosada em @benincasa:2008fazendas1 [17]](assets/media/BR-SP-LIMEIRA-F_TATU-ARQTRA-LVXX-ZZZ-M3DOC-ARQ-EXIPLA-0100.png){#fig:tatu}
+![Casarão da chácara Bykadoroff, ex-Bernardelli, Porto Feliz, provavelmente último quartel do século XIX. Fonte: adaptado de @martins:1978partido](assets/media/BR-SP-P_FELIZ-BERLLI-ARQTRA-LVXX-ZZZ-DGDOC-ARQ-EXIPLA-0100.png){#fig:bernardelli}
+
+Processo tipológico da casa rural no Brasil, escala 1:500.
+Desenhos do autor
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+A configuração primitiva das casas de morada nas fazendas antigas do
+Brasil é exemplificada no casarão do engenho do Viegas, no município do
+Rio de Janeiro, datado do primeiro quartel do século XVIII
+(@fig:viegas).
+A planta é caracterizada pela enfiada transversal de salas espaçosas,
+podendo compreender uma ou duas dessas enfiadas dispostas uma atrás da
+outra.
+O tipo de transição é ilustrado pelo casarão da fazenda Tatu, em
+Limeira, no eixo de expansão cafeeira pelo cerrado paulista (@fig:tatu).
+Nessa casa, construída cerca de um século depois da casa do Viegas,
+uma terceira zona formada por células de pequenas dimensões separa as
+duas enfiadas de salões.
+Estas se ligam por meio de um ou mais corredores longitudinais.
+A antiga casa da chácara da família Bernardelli, em Porto Feliz, estado
+de São Paulo (@fig:bernardelli), demonstra o terceiro momento
+nesse processo, o qual ocorre sobretudo
+em moradas de pequenas propriedades rurais,
+por oposição aos ricos casarões das grandes fazendas cafeeiras.
+Ele se caracteriza por uma planta quase inteiramente derivada do tipo
+da casa de morada inteira urbana, desde a sua proporção mais alongada
+longitudinalmente até à distribuição e ao dimensionamento dos
+ambientes internos.
 
 
 # Por que e quando falar em tradição luso-brasileira #
@@ -764,11 +796,12 @@ tais como o Algarve ou Aveiro. Isso desmente o axioma historiográfico
 que supõe ser este um período de estagnação construtiva, postulada a
 partir da crise demográfica luso-brasileira e do declínio da economia
 aurífera. Ao mesmo tempo, as evidências que apontassem para uma
-continuidade vernacular ao longo de toda a Idade Moderna são mais
+uniformidade vernacular desde o século XVI são mais
 escassas do que supõe a narrativa convencional.
 
 O uso do conceito de "tradição" no âmbito de uma periodização da
-arquitetura vernacular implica certas tomadas de posição que se tornam
+arquitetura vernacular e por oposição não ao "erudito" mas,
+sobretudo, ao "moderno", implica certas tomadas de posição que se tornam
 mais claras agora que os seus principais aspectos foram elencados.
 Embora haja uma controvérsia sobretudo de ordem político-ideológica em
 torno do conceito de tradição em arquitetura, a sua definição resumida
@@ -788,29 +821,23 @@ outras tradições.
 
 Disso decorre, portanto, uma contraposição sensata entre tradição e
 modernidade. @calder:2021architecture conceitua a modernidade em termos
-da rutura na escala produtiva, e portanto na concentração de poder
-econômico, proporcionada pelo uso sistemático de combustíveis fósseis.
+da rutura na escala produtiva
+proporcionada pelo uso sistemático de combustíveis fósseis.
 Essa transição tem como uma de suas consequências a de que, voltando ao
 argumento de @rapoport:1969house, a originalidade e a inovação emergem
 como valores culturais da modernidade, sobrepujando o consenso e o
 conservadorismo das sociedades tradicionais.
 
-A tradição é incompatível com uma
-linha do tempo determinista onde cada época é representada tão somente
-pelas suas manifestações sincrônicas. Como conceituou Walter
-@rossa:2015fomos, o patrimônio urbanístico que forma o contexto de toda
-nova produção edilícia é composto tanto pelo conjunto de práticas
-vigentes na sociedade, quanto pelo acúmulo de artefatos e saberes
-legados desde todas as épocas anteriores.
-
-Com amparo neste conceito de tradição, dá-se a ver um ciclo de
+Com amparo nesse conceito de tradição, dá-se a ver um ciclo de
 transformações históricas na construção vernacular luso-brasileira que
 corresponde, não ao início da Idade Moderna, mas em linhas gerais do
-período Pombalino até a virada do século (@fig:crono-proposta). Corroboram esta proposta de
-periodização fatores como: a inexistência de significativas inovações
-tecnológicas, organizacionais e urbanísticas na construção vernacular
-coincidindo com o Renascimento erudito; reciprocamente, a ocorrência de
-tais inovações desde o período Pombalino até a revolução liberal; a
+período Pombalino até a virada do século (@fig:crono-proposta).
+Corroboram esta proposta de
+periodização fatores como: a ausência de significativas inovações
+tecnológicas, jurídicas e organizacionais na construção vernacular
+coincidindo com o Renascimento erudito em Portugal;
+reciprocamente, a concentração de
+tais inovações desde o período Pombalino até à revolução liberal; a
 continuidade do paradigma da vila de fundação medieval no processo de
 expansão ultramarina de Portugal, interrompida pelo modelo dito
 "Iluminista" do urbanismo pombalino; a intrusão, nesse modelo pombalino,
@@ -822,22 +849,13 @@ neoclássica popularizada.
 ![Proposta de cronologia da tradição vernacular luso-brasileira. Desenho do autor](assets/media/crono-proposta.png){#fig:crono-proposta}
 
 Ao *porquê* de se recorrer ao conceito de tradição num contexto
-historiográfico, então, sucede a questão de *quando* situar
+historiográfico sucede, então, a questão de *quando* situar
 cronologicamente uma tradição. A crítica historiográfica é pouco afeita
 a distinguir períodos ditos tradicionais, preferindo criticar ideologias
-a referendar seus pressupostos. Todavia, @hobsbawm:1983invention mostram
+a referendar seus pressupostos. Todavia, Hobsbawm e Ranger
+[-@hobsbawm:1983invention] mostram
 como a construção programática de tradições, ainda que *a posteriori*,
-não deixa de ter efetividade no próprio processo histórico.
-
-Cronologicamente, a *tradição* luso-brasileira discutida neste artigo se
-sobrepõe parcialmente ao *movimento tradicionalista*.
-Conceitualmente, porém, o tradicionalismo
-pertence mais bem à modernidade teórico-crítica que revisita os saberes
-vernaculares, seja em busca de motivos plásticos, seja, a partir da
-segunda metade do século XX, em busca de instrumentos mais estruturantes
-de continuidade edilícia, representadas no mundo luso-brasileiro sobretudo
-pelos estudos morfológicos de cunho mais acadêmico
-[@netto:2015fundamentos; @oliveira:2018diferentes].
+não deixa de demonstrar sua efetividade no próprio processo histórico.
 
 
 # Conclusão #
@@ -850,10 +868,19 @@ transformações muitas vezes seguem, durante longos períodos, um caráter
 ora intencionalmente autorreferente, ora implicitamente conservador.
 Certo é que, em qualquer instantâneo que se tome do passado, haverá
 fatores de continuidade com épocas anteriores assim como elementos em
-pleno processo de modernização. Por isso mesmo, levantar a poeira das
+pleno processo de atualização. Por isso mesmo, levantar a poeira das
 antigas periodizações baseadas na arte erudita, explorando modos
 alternativos de enfatizar mudanças e continuidades, constitui uma
 provocação válida diante dos lugares-comuns da historiografia.
+
+Cronologicamente, a *tradição* luso-brasileira discutida neste artigo
+coincide parcialmente com o *movimento tradicionalista*.
+Conceitualmente, porém, o tradicionalismo
+pertence mais bem à modernidade teórico-crítica que revisita os saberes
+vernaculares, seja em busca de motivos plásticos, seja, a partir da
+segunda metade do século XX, em busca de instrumentos estruturantes
+de continuidade edilícia, representadas no mundo luso-brasileiro sobretudo
+pelos estudos morfológicos de cunho acadêmico.
 
 Nesse quesito, cabe lembrar o quanto os enquadramentos disciplinares
 atuais continuam tributários da periodização convencional. Titulações
@@ -863,7 +890,7 @@ arte erudita --- medievistas, especialistas na arquitetura e urbanização
 do Império português, estudiosos do historicismo estilístico do século
 XIX, e finalmente historiadores da assim chamada "arquitetura moderna".
 Questionando tais convenções, alguns projetos de investigação,
-nomeadamente o recém concluído TechNetEmpire, manipulam os cortes da
+nomeadamente o recém concluído TechNetEmpire,[^3] manipulam os cortes da
 periodização para evidenciar relações e continuidades em diferentes
 escopos.
 
@@ -878,7 +905,7 @@ estabelecidas de longa data no Brasil e os projetos oficiais
 das "casas de colono", de aparência popular mas com *pedigree*
 erudito.
 
-A proposta de uma nova periodização, baseada na trajetória das
+A proposta duma nova periodização, baseada na trajetória das
 tradições vernaculares, não pretende, portanto, estabelecer um marco
 normativo único para a escrita da história da arquitetura. É mais bem um
 ensejo para uma apreciação renovada dos modos de fazer o ambiente
@@ -888,3 +915,5 @@ arquitetura tradicional.
 
 
 [^2]: Disponível em: <https://casa.tradicional.arq.br/cronologia/>.
+
+[^3]: Disponível em: <https://technetempire.fcsh.unl.pt/>
