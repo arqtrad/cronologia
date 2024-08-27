@@ -329,7 +329,7 @@ civil, mas também, segundo ninguém menos que José-Augusto
 desenvolvimento artístico autóctone pelo estrangeirismo italianófilo e
 francófilo.
 
-![Cronologia canônica da arquitetura luso-brasileira. Desenho do autor](assets/media/crono-canonica.png){#fig:crono-canonica}
+![Cronologia canônica da arquitetura luso-brasileira. Desenho do autor](figuras/fig1-16cm.png){#fig:crono-canonica}
 
 No Brasil, o classicismo imperial --- terminologia proposta por Alberto
 @sousa:1994arquitetura ---, mesmo não sendo rejeitado pela geração de 30,
@@ -367,7 +367,7 @@ Inconsequente do ponto de vista historiográfico e arqueológico, a
 periodização de Lucio Costa exemplifica o essencialismo e determinismo
 que frequentemente contaminam os estudos de arquitetura vernacular.
 
-![Lucio Costa, cronologia da arquitetura vernacular luso-brasileira publicada em Documentação necessária, 1937](assets/media/documenta.jpg){#fig:documenta}
+![Lucio Costa, cronologia da arquitetura vernacular luso-brasileira publicada em Documentação necessária, 1937](figuras/fig2-8cm.jpg){#fig:documenta}
 
 Essa sombra cronológica serviu a dois movimentos arquitetônicos
 nacionalistas mas ideologicamente opostos um ao outro: de um lado os
@@ -574,7 +574,7 @@ concebida pelo arquiteto civil Henrique Guilherme de Oliveira em 1794
 também usando o módulo de 40 palmos para os lotes
 [@florentino:2023dimensoes].
 
-![Manoel Vieira Leão, projeto da vila de Taquari, Rio Grande do Sul, 1777. Arquivo Histórico do Exército](assets/media/taquari.jpg){#fig:taquari}
+![Manoel Vieira Leão, projeto da vila de Taquari, Rio Grande do Sul, 1777. Arquivo Histórico do Exército (Brasil)](figuras/fig3-8cm.jpg){#fig:taquari}
 
 A adoção do módulo de 40 palmos pelos arquitetos e engenheiros de finais
 do setecentos pode ter influenciado a sua difusão, até agora
@@ -610,7 +610,7 @@ especulativas anteriores a 1932 (no alto à esquerda) e a vila operária
 dos Franciscanos, 1926 (em baixo à direita).
 Detalhe de @lopes:1934planta, fls. 10--11.
 Aqui reproduzida na escala 1:1250, escala gráfica e norte pelo autor
-](assets/media/montesclaros.jpg){#fig:montesclaros}
+](figuras/fig4-16cm.jpg){#fig:montesclaros}
 
 ## Frontal ##
 
@@ -652,7 +652,7 @@ datada de cerca de 1750 (@fig:santana-montes).
 ![Sede da fazenda da Pedra, Santana dos Montes, Minas Gerais, c. 1750.
 Foto: Vladimir Benincasa, 2013.
 Fonte: <https://commons.wikimedia.org/wiki/File:Fazenda_da_Pedra,_Santana_dos_Montes-MG,_Vladimir_Benincasa_24.jpg>
-](assets/media/Fazenda_da_Pedra_Santana_dos_Montes-MG_Vladimir_Benincasa_24.jpg){#fig:santana-montes}
+](figuras/fig5-16cm.jpg){#fig:santana-montes}
 
 
 Foi no contexto da
@@ -664,7 +664,7 @@ Essa variante consiste na projeção de um "nabo" dos esteios (@fig:frontal),
 os quais passam a atravessar toda a profundidade do alicerce para
 estarem solidamente fincados no solo [@vasconcellos:1979arquitetura].
 
-![Casa de frontal com esteios engastados entre os alicerces na rua Ávila, Paracatu. Foto do autor](assets/media/frontal.jpg){#fig:frontal}
+![Casa de frontal com esteios engastados entre os alicerces na rua Ávila, Paracatu. Foto do autor](figuras/fig6-16cm.jpg){#fig:frontal}
 
 A profundidade histórica do frontal como um todo pode ser debatida, e
 não seria despropositado atribuir-lhe a natureza quase atemporal das
@@ -746,9 +746,9 @@ implantações como a da fazenda Babilônia, em Pirenópolis (1805, ver
 planta em @silva:2022panorama), e culminando na virada do mesmo século.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:rurais}
-![Casarão da fazenda do Viegas, Rio de Janeiro, provavelmente anterior a 1725. Fonte: adaptado de @biene:2007arquitetura](assets/media/BR-RJ-RJ-VIEGAS-ARQTRA-LVXX-ZZZ-M3DOC-ARQ-EXIPLA-0100.png){#fig:viegas}
-![Casarão da fazenda Tatu, Limeira, 1820. Fonte: adaptado de Mateus Rosada em @benincasa:2008fazendas1 [17]](assets/media/BR-SP-LIMEIRA-F_TATU-ARQTRA-LVXX-ZZZ-M3DOC-ARQ-EXIPLA-0100.png){#fig:tatu}
-![Casarão da chácara Bykadoroff, ex-Bernardelli, Porto Feliz, provavelmente último quartel do século XIX. Fonte: adaptado de @martins:1978partido](assets/media/BR-SP-P_FELIZ-BERLLI-ARQTRA-LVXX-ZZZ-DGDOC-ARQ-EXIPLA-0100.png){#fig:bernardelli}
+![Casarão da fazenda do Viegas, Rio de Janeiro, provavelmente anterior a 1725. Fonte: adaptado de @biene:2007arquitetura](figuras/fig7a-8cm.png){#fig:viegas}
+![Casarão da fazenda Tatu, Limeira, 1820. Fonte: adaptado de Mateus Rosada em @benincasa:2008fazendas1 [17]](figuras/fig7b-8cm.png){#fig:tatu}
+![Casarão da chácara Bykadoroff, ex-Bernardelli, Porto Feliz, provavelmente último quartel do século XIX. Fonte: adaptado de @martins:1978partido](figuras/fig7c-8cm.png){#fig:bernardelli}
 
 Processo tipológico da casa rural no Brasil, escala 1:500.
 Desenhos do autor
@@ -846,7 +846,7 @@ alentejana; o diálogo entre reformas eruditas e práticas de ofício no
 contexto da imposição do sistema da gaiola e da difusão de uma estética
 neoclássica popularizada.
 
-![Proposta de cronologia da tradição vernacular luso-brasileira. Desenho do autor](assets/media/crono-proposta.png){#fig:crono-proposta}
+![Proposta de cronologia da tradição vernacular luso-brasileira. Desenho do autor](figuras/fig8.png){#fig:crono-proposta}
 
 Ao *porquê* de se recorrer ao conceito de tradição num contexto
 historiográfico sucede, então, a questão de *quando* situar
